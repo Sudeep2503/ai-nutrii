@@ -1,0 +1,1201 @@
+age,gender,height,weight,activity_level,sleep_hours,water_intake,sunlight_exposure,diet_type,meal_frequency,fruit_intake,vegetable_intake,dairy_intake,protein_intake,fast_food_frequency,sugary_drink_consumption,smoking,alcohol,fatigue,weakness,hair_loss,pale_skin,muscle_cramps,bone_pain,frequent_illness,headaches,poor_concentration,tingling_sensation,deficiency
+58,Male,151,80,light,6.3,1,0,pescatarian,1,0,0,0,1,4,4,0,0,1,0,1,1,1,1,1,1,1,0,Calcium Deficiency
+79,Female,156,70,active,5.8,3,2,vegan,4,4,0,3,0,4,2,1,0,0,0,1,1,0,0,1,1,1,1,Zinc Deficiency
+41,Female,163,86,sedentary,7.6,2,1,vegan,4,3,2,4,0,2,0,0,0,1,1,1,0,0,1,0,1,1,1,Vitamin B12 Deficiency
+34,Male,165,105,very_active,6.4,4,0,omnivore,2,1,4,3,0,0,0,0,0,1,1,1,1,1,1,0,0,1,1,Vitamin D Deficiency
+36,Female,160,97,sedentary,8.8,3,1,vegetarian,3,3,3,1,1,2,1,0,1,1,0,1,1,1,0,1,0,1,0,Vitamin A Deficiency
+70,Male,184,89,light,7.8,2,2,pescatarian,2,4,1,0,3,2,3,1,0,0,0,0,1,1,1,1,0,0,0,Calcium Deficiency
+22,Male,171,78,very_active,6.3,4,0,vegan,5,4,3,1,3,3,1,0,0,1,1,1,1,1,1,0,0,1,1,Vitamin D Deficiency
+33,Male,162,103,active,6.0,2,2,pescatarian,2,0,3,4,0,0,4,0,0,1,1,1,1,1,0,1,1,1,1,Iron Deficiency
+42,Female,179,96,active,7.9,4,1,vegan,3,1,0,2,4,0,2,0,0,1,0,0,0,1,1,1,0,1,0,Calcium Deficiency
+55,Prefer not to say,152,102,sedentary,7.0,3,2,vegetarian,3,1,2,3,1,2,3,1,0,0,1,1,0,0,1,1,1,1,0,Zinc Deficiency
+28,Female,184,100,very_active,8.9,1,2,vegetarian,2,2,0,0,4,1,2,1,0,1,1,1,1,1,0,0,1,1,0,Iron Deficiency
+39,Male,190,100,light,6.6,4,0,vegetarian,1,1,4,0,2,4,4,0,1,1,0,1,1,1,1,0,1,0,1,Magnesium Deficiency
+80,Prefer not to say,159,82,light,7.4,2,3,vegetarian,2,2,3,1,2,1,0,1,0,1,0,0,1,1,1,0,1,0,0,Magnesium Deficiency
+39,Female,154,81,moderate,7.7,4,2,vegetarian,1,2,1,4,2,0,0,1,1,1,1,1,1,0,1,1,1,1,0,Zinc Deficiency
+22,Prefer not to say,171,113,moderate,7.8,1,2,omnivore,4,1,2,2,4,1,1,1,1,0,1,1,0,1,1,1,1,1,1,Vitamin A Deficiency
+46,Prefer not to say,163,101,active,6.800000000000001,2,0,omnivore,5,4,2,0,1,2,1,0,0,1,0,0,1,1,1,1,1,1,1,Magnesium Deficiency
+33,Male,150,68,active,6.3,4,0,vegan,1,3,1,3,2,4,4,1,1,1,1,0,1,1,1,0,1,1,0,Protein Deficiency
+46,Male,168,87,moderate,6.7,1,1,vegan,2,3,1,1,0,3,3,1,1,1,1,0,1,1,0,1,1,0,1,Protein Deficiency
+66,Female,176,110,very_active,8.3,2,3,vegan,3,3,3,0,1,2,3,0,1,1,1,1,0,1,1,0,1,0,0,Protein Deficiency
+42,Female,163,98,moderate,6.7,4,2,pescatarian,3,0,3,0,4,0,2,0,0,0,0,0,0,1,1,1,0,1,0,Calcium Deficiency
+47,Prefer not to say,166,94,light,7.6,1,1,omnivore,1,4,0,2,4,3,3,0,0,1,1,1,1,0,1,1,1,1,1,Iron Deficiency
+72,Female,181,85,active,8.9,4,1,pescatarian,2,3,1,4,4,3,3,1,1,1,0,1,1,1,0,1,1,1,0,Vitamin A Deficiency
+72,Female,161,99,light,6.7,3,2,omnivore,5,2,4,0,4,1,0,0,1,1,0,1,1,1,1,1,1,0,1,Calcium Deficiency
+37,Prefer not to say,187,105,active,7.4,3,3,omnivore,3,3,2,0,2,1,0,0,1,0,0,0,0,1,1,1,0,0,1,Calcium Deficiency
+41,Male,169,72,very_active,5.9,1,0,omnivore,2,3,0,0,4,2,3,1,1,1,1,0,1,1,0,0,1,1,0,Iron Deficiency
+27,Male,186,101,sedentary,9.0,1,3,vegan,5,3,3,3,1,4,3,1,0,1,1,0,1,0,0,0,1,1,0,Iron Deficiency
+44,Female,188,113,moderate,5.6,3,2,pescatarian,1,1,2,4,0,3,0,0,0,1,1,0,0,1,1,1,1,0,1,Protein Deficiency
+62,Female,167,103,very_active,7.2,1,0,vegetarian,3,4,2,0,0,1,4,0,1,0,0,1,1,1,0,1,1,1,1,Zinc Deficiency
+39,Female,156,75,moderate,6.9,4,2,pescatarian,5,0,3,0,0,2,2,0,1,1,1,1,0,1,1,1,1,0,0,Protein Deficiency
+53,Male,168,100,active,4.4,2,1,omnivore,5,0,4,3,0,1,0,1,0,1,1,1,1,1,1,1,1,1,0,Magnesium Deficiency
+30,Prefer not to say,182,88,sedentary,6.5,4,2,omnivore,1,2,2,4,4,3,1,1,1,1,1,1,1,1,0,0,1,1,1,Iron Deficiency
+38,Prefer not to say,180,103,active,7.5,2,3,vegetarian,2,4,4,2,0,3,0,1,0,1,1,0,0,1,1,1,1,0,1,Magnesium Deficiency
+79,Female,190,115,very_active,5.6,1,1,omnivore,2,0,3,0,0,3,1,1,0,1,1,0,1,1,1,1,0,1,1,Vitamin B12 Deficiency
+28,Male,155,104,active,7.7,2,3,vegan,2,2,1,3,2,0,3,1,0,0,1,1,1,1,1,1,1,1,1,Vitamin A Deficiency
+24,Male,174,111,moderate,7.5,3,0,pescatarian,3,0,4,0,4,3,2,0,1,1,0,1,0,0,0,1,1,1,1,Vitamin B12 Deficiency
+23,Female,170,99,light,4.7,3,2,vegan,3,3,2,2,0,3,0,0,0,1,1,0,1,1,1,0,1,1,1,Magnesium Deficiency
+70,Prefer not to say,173,81,light,7.2,3,0,vegetarian,4,2,3,0,1,0,0,1,1,1,1,0,0,1,1,1,1,0,1,Vitamin D Deficiency
+71,Female,189,109,moderate,5.6,3,1,pescatarian,4,1,2,0,2,4,2,0,1,1,0,0,1,0,0,0,0,1,1,Vitamin B12 Deficiency
+68,Prefer not to say,163,73,very_active,6.2,2,1,omnivore,2,4,0,2,1,1,4,1,0,1,1,0,1,1,0,1,1,1,1,Iron Deficiency
+26,Prefer not to say,176,109,sedentary,8.1,4,0,omnivore,5,4,0,3,4,1,4,0,1,1,1,0,1,1,1,0,1,1,0,Vitamin D Deficiency
+38,Prefer not to say,159,71,light,6.5,3,3,vegetarian,4,4,4,3,0,0,4,0,1,1,0,1,1,1,1,1,0,1,1,Zinc Deficiency
+41,Male,180,83,sedentary,8.4,1,3,vegetarian,3,0,3,0,4,4,4,1,0,1,1,1,0,1,1,1,0,1,0,Vitamin A Deficiency
+32,Male,172,109,moderate,5.9,3,1,pescatarian,5,4,4,4,0,4,2,0,0,1,1,1,1,0,0,0,1,1,0,Iron Deficiency
+23,Prefer not to say,183,93,active,7.0,3,1,vegetarian,3,2,4,4,0,0,1,0,0,0,1,1,1,1,1,1,1,1,0,Zinc Deficiency
+25,Female,187,113,very_active,7.8,1,0,pescatarian,5,0,0,1,2,1,1,1,1,1,1,0,1,1,1,0,1,0,1,Vitamin D Deficiency
+43,Prefer not to say,152,90,sedentary,7.1,1,2,pescatarian,5,3,3,2,0,3,0,1,0,1,1,0,1,1,0,1,1,0,1,Protein Deficiency
+65,Female,164,91,light,5.8,1,1,omnivore,3,0,0,0,1,2,1,0,0,0,0,1,1,1,1,1,0,1,0,Vitamin A Deficiency
+46,Prefer not to say,169,89,very_active,5.7,1,0,pescatarian,4,0,0,2,2,0,0,1,1,1,1,0,1,1,1,0,1,0,1,Vitamin D Deficiency
+50,Prefer not to say,161,70,light,8.0,4,1,omnivore,3,2,3,3,0,4,0,1,0,1,1,1,1,1,0,1,0,0,1,Protein Deficiency
+79,Prefer not to say,175,84,very_active,8.0,1,2,pescatarian,3,1,4,0,1,4,2,0,1,1,1,0,1,1,0,0,0,0,0,Protein Deficiency
+72,Male,182,114,very_active,5.6,3,1,pescatarian,2,0,0,4,1,3,0,1,1,0,1,1,1,0,0,1,1,1,1,Vitamin A Deficiency
+47,Female,174,107,very_active,7.0,2,1,vegan,3,0,3,2,3,0,4,0,1,1,1,1,1,0,1,0,1,1,1,Iron Deficiency
+44,Male,175,108,moderate,6.3,1,0,vegan,1,2,0,2,1,1,0,1,1,1,1,1,0,0,1,1,0,0,1,Vitamin D Deficiency
+67,Female,165,89,sedentary,5.7,4,3,vegetarian,1,3,4,4,0,4,4,0,0,1,1,0,1,0,1,0,1,1,0,Iron Deficiency
+42,Female,152,103,active,8.9,3,0,omnivore,1,2,1,0,4,2,1,0,1,1,0,1,1,1,1,1,1,0,1,Calcium Deficiency
+20,Male,152,83,moderate,5.8,4,2,vegetarian,2,2,2,0,2,2,0,1,1,1,1,1,1,1,1,1,1,1,0,Magnesium Deficiency
+23,Female,188,94,very_active,6.5,1,0,omnivore,3,2,3,4,3,1,3,1,1,1,1,1,1,0,0,1,1,1,1,Vitamin B12 Deficiency
+72,Prefer not to say,178,79,light,4.2,3,2,pescatarian,5,0,4,1,3,2,2,1,0,1,1,1,1,1,0,0,1,0,1,Magnesium Deficiency
+76,Prefer not to say,157,82,moderate,8.0,2,2,pescatarian,2,0,1,0,3,1,3,0,1,1,0,1,1,0,0,1,0,1,1,Vitamin B12 Deficiency
+33,Female,151,86,very_active,7.5,4,0,vegetarian,1,2,3,3,4,3,3,0,0,1,1,1,1,1,1,0,0,1,0,Vitamin D Deficiency
+51,Male,169,82,light,6.6,2,2,omnivore,1,2,1,4,2,1,2,0,0,1,1,1,1,0,0,0,1,1,1,Iron Deficiency
+49,Prefer not to say,184,99,moderate,7.2,4,2,pescatarian,1,0,0,3,3,3,3,0,1,0,1,1,1,1,0,1,0,1,0,Vitamin A Deficiency
+25,Female,178,92,light,5.8,3,3,pescatarian,2,1,2,4,2,1,1,1,1,1,1,1,1,0,1,1,1,1,1,Iron Deficiency
+21,Female,181,117,active,6.5,1,0,vegetarian,2,2,2,3,2,0,3,0,0,1,1,1,1,1,1,1,0,1,1,Zinc Deficiency
+53,Female,159,79,very_active,7.3,1,0,vegan,2,2,3,4,3,1,4,0,1,1,0,1,1,1,1,1,1,1,1,Zinc Deficiency
+80,Female,187,101,sedentary,7.6,3,1,vegetarian,5,2,0,4,4,3,1,0,0,0,0,1,1,1,1,1,1,1,1,Vitamin A Deficiency
+73,Prefer not to say,153,72,very_active,6.2,3,3,pescatarian,3,0,2,4,2,4,2,1,1,0,0,1,1,0,1,1,0,1,1,Vitamin A Deficiency
+40,Prefer not to say,167,89,sedentary,7.5,4,3,omnivore,2,2,0,0,0,2,3,1,1,0,0,1,1,1,1,1,0,0,0,Calcium Deficiency
+21,Male,176,97,active,5.9,2,0,vegan,4,3,3,1,1,2,2,0,0,1,1,0,1,0,0,1,1,1,1,Iron Deficiency
+18,Female,186,120,sedentary,7.199999999999999,3,2,pescatarian,5,4,3,1,4,3,2,0,0,1,0,1,1,1,0,1,1,0,0,Magnesium Deficiency
+70,Female,182,100,sedentary,6.9,1,1,vegan,4,2,1,0,1,3,1,1,1,1,1,0,1,1,0,0,0,1,1,Vitamin B12 Deficiency
+43,Prefer not to say,182,99,sedentary,7.7,3,2,vegan,2,1,3,1,2,4,2,1,1,1,0,0,1,1,0,0,0,1,1,Vitamin B12 Deficiency
+38,Prefer not to say,178,84,light,8.0,4,0,pescatarian,1,3,1,4,3,3,4,0,1,1,1,1,1,0,1,0,0,1,1,Vitamin D Deficiency
+52,Male,154,94,sedentary,5.0,2,1,pescatarian,3,3,3,3,3,0,4,0,1,1,0,1,0,1,0,0,1,1,1,Magnesium Deficiency
+70,Male,165,99,moderate,6.0,2,0,vegetarian,4,4,0,0,1,0,0,0,1,0,0,0,1,1,1,1,0,0,1,Calcium Deficiency
+70,Prefer not to say,186,102,very_active,7.6,3,1,omnivore,2,4,1,3,2,2,0,0,1,1,0,1,1,1,1,1,0,1,1,Vitamin B12 Deficiency
+66,Prefer not to say,180,94,light,6.6,2,3,vegetarian,5,3,3,4,4,1,3,0,1,1,1,0,1,1,0,0,1,1,1,Iron Deficiency
+73,Male,162,106,very_active,6.3,2,2,omnivore,1,0,0,0,3,1,4,0,1,0,1,1,1,1,1,1,1,1,1,Vitamin A Deficiency
+24,Prefer not to say,180,99,light,6.8,4,0,vegan,2,0,1,4,4,4,3,1,0,0,1,1,1,0,1,1,1,1,1,Vitamin A Deficiency
+28,Prefer not to say,172,84,light,6.5,4,1,vegetarian,5,0,0,0,0,3,1,0,0,1,0,0,1,1,0,1,1,0,0,Magnesium Deficiency
+18,Male,183,97,very_active,8.9,1,3,vegan,1,0,4,1,0,1,4,1,1,1,1,0,1,1,1,0,1,1,0,Iron Deficiency
+23,Female,174,99,very_active,7.2,1,1,vegetarian,4,3,2,4,0,4,0,0,0,1,1,0,0,1,0,0,1,1,1,Vitamin B12 Deficiency
+66,Prefer not to say,175,80,moderate,4.6,2,3,omnivore,4,1,0,4,2,0,0,1,0,1,1,1,1,1,1,1,1,0,1,Magnesium Deficiency
+45,Male,187,106,sedentary,6.699999999999999,3,1,vegetarian,1,2,1,3,1,3,2,1,0,1,0,1,1,1,1,0,1,0,0,Magnesium Deficiency
+46,Prefer not to say,185,113,active,5.9,1,0,vegetarian,5,4,2,3,0,2,3,1,0,1,1,1,0,0,1,1,1,1,0,Vitamin D Deficiency
+28,Female,167,97,moderate,7.2,1,2,vegan,2,3,4,4,1,3,0,0,1,0,1,1,1,1,1,1,1,1,1,Zinc Deficiency
+48,Female,161,93,moderate,6.5,4,1,omnivore,4,2,3,2,0,4,1,0,0,1,1,1,1,1,1,1,0,1,0,Protein Deficiency
+60,Male,177,101,sedentary,7.1,4,3,pescatarian,5,0,2,2,4,0,0,0,1,0,0,1,1,1,1,1,0,1,0,Calcium Deficiency
+46,Female,175,105,very_active,7.9,2,0,vegetarian,4,0,2,3,0,0,1,1,1,1,1,0,1,1,1,0,1,1,1,Vitamin D Deficiency
+37,Male,157,67,moderate,7.8,2,1,vegan,5,1,2,2,3,3,1,1,0,0,1,1,0,1,1,1,1,0,0,Calcium Deficiency
+35,Prefer not to say,154,100,sedentary,8.3,2,2,omnivore,2,3,0,0,3,4,2,1,1,0,1,1,1,1,1,1,0,1,0,Calcium Deficiency
+37,Male,161,91,light,5.8,4,1,pescatarian,4,1,3,4,1,4,1,1,1,1,0,1,1,1,1,0,1,0,0,Magnesium Deficiency
+79,Prefer not to say,182,111,active,7.9,4,3,pescatarian,2,0,4,0,1,2,0,1,0,1,0,1,1,1,1,1,1,0,1,Calcium Deficiency
+45,Male,165,89,sedentary,7.1,3,0,pescatarian,1,1,1,4,2,4,3,0,0,1,1,0,1,1,1,1,1,1,1,Vitamin D Deficiency
+26,Female,153,81,light,8.0,2,0,vegan,3,1,3,3,1,4,2,1,1,1,1,0,1,1,1,1,1,1,0,Vitamin D Deficiency
+64,Female,190,106,sedentary,8.3,4,1,pescatarian,2,3,2,2,2,2,4,0,1,1,1,0,1,1,0,0,1,1,1,Iron Deficiency
+79,Female,162,77,moderate,6.1,3,0,omnivore,3,0,2,1,0,3,2,0,1,1,1,0,1,1,0,0,1,1,0,Iron Deficiency
+62,Female,157,93,light,7.2,2,0,vegetarian,1,0,2,2,2,1,3,0,0,1,1,0,1,1,1,0,1,1,0,Vitamin D Deficiency
+75,Male,158,73,very_active,8.1,3,3,omnivore,2,1,2,0,1,4,4,1,0,1,0,0,1,1,1,1,1,1,0,Calcium Deficiency
+49,Prefer not to say,188,87,very_active,7.1,1,2,omnivore,2,3,4,3,2,4,1,1,0,1,0,0,1,1,0,0,1,1,1,Magnesium Deficiency
+62,Female,155,105,very_active,7.4,2,2,vegetarian,3,0,4,1,0,4,2,1,0,1,1,0,0,1,0,1,0,1,0,Protein Deficiency
+60,Prefer not to say,161,75,sedentary,8.0,1,1,pescatarian,3,4,4,2,1,2,1,1,0,1,1,1,1,0,1,0,1,1,1,Iron Deficiency
+49,Prefer not to say,160,91,light,6.4,1,0,vegan,5,0,0,0,1,0,3,1,1,1,1,0,1,0,1,0,1,1,1,Vitamin D Deficiency
+54,Female,157,98,sedentary,6.1,1,3,vegetarian,4,2,2,2,0,4,3,0,1,1,1,1,1,1,1,1,1,1,0,Iron Deficiency
+77,Female,151,77,very_active,6.7,1,2,vegetarian,4,2,0,1,4,1,3,1,0,1,1,0,0,0,1,1,1,1,1,Vitamin B12 Deficiency
+58,Female,154,101,very_active,5.7,2,0,omnivore,3,2,3,2,2,3,2,0,0,1,1,0,0,0,1,1,1,1,1,Vitamin D Deficiency
+52,Female,163,97,moderate,7.1,1,0,vegan,3,3,0,1,2,1,0,0,1,1,0,1,1,0,0,1,1,1,0,Vitamin A Deficiency
+24,Male,157,66,sedentary,6.9,2,1,vegan,4,2,0,4,4,2,0,0,0,1,1,0,0,1,0,0,1,0,0,Magnesium Deficiency
+70,Prefer not to say,175,107,sedentary,6.8,4,1,omnivore,2,1,2,0,3,1,0,0,1,1,1,1,0,1,1,1,0,1,0,Calcium Deficiency
+58,Prefer not to say,151,87,moderate,7.2,4,2,omnivore,4,2,1,0,2,4,1,0,1,0,1,1,0,1,1,1,0,1,0,Calcium Deficiency
+54,Female,172,85,light,6.3,3,2,vegetarian,3,4,4,0,4,1,3,1,0,1,0,0,0,1,1,1,1,0,1,Calcium Deficiency
+69,Male,171,85,moderate,4.2,2,1,vegetarian,5,2,0,2,3,4,0,1,1,1,0,0,1,1,1,0,1,0,0,Magnesium Deficiency
+37,Prefer not to say,168,80,light,8.1,4,0,vegan,5,2,4,0,4,0,3,0,1,0,0,1,1,1,1,1,1,0,1,Calcium Deficiency
+33,Prefer not to say,154,86,moderate,8.3,1,0,pescatarian,4,3,1,3,3,3,2,1,0,1,1,0,1,0,1,1,0,1,1,Vitamin D Deficiency
+22,Female,160,92,light,8.1,1,2,pescatarian,1,2,0,4,3,1,0,0,1,0,0,1,1,1,1,1,0,1,1,Vitamin A Deficiency
+27,Male,173,75,active,5.8,4,1,vegetarian,1,0,0,2,0,3,0,1,1,1,1,1,0,1,0,1,1,1,0,Vitamin A Deficiency
+20,Female,178,106,moderate,6.3,3,0,vegan,1,0,1,4,3,4,1,0,1,1,1,1,1,1,0,1,0,1,0,Vitamin A Deficiency
+29,Male,163,81,light,5.6,1,0,vegan,2,4,2,2,0,0,3,1,1,1,1,0,1,0,1,0,0,0,0,Vitamin D Deficiency
+68,Female,184,103,active,6.4,4,3,vegetarian,2,2,3,1,2,4,3,0,1,1,1,0,1,1,1,0,1,1,1,Protein Deficiency
+71,Female,156,79,light,6.6,4,2,omnivore,4,4,0,1,3,1,3,1,1,1,1,0,1,1,0,0,1,1,0,Iron Deficiency
+33,Male,179,81,moderate,8.0,3,2,pescatarian,5,3,0,0,1,2,3,1,0,1,1,1,0,1,0,1,0,1,1,Vitamin B12 Deficiency
+72,Prefer not to say,163,83,light,7.9,3,0,vegetarian,1,3,1,1,4,0,1,1,1,1,1,1,1,1,1,0,1,1,1,Vitamin D Deficiency
+18,Prefer not to say,173,110,very_active,6.1,3,0,pescatarian,1,2,2,2,2,2,2,0,0,1,0,1,1,1,0,1,1,1,1,Magnesium Deficiency
+42,Prefer not to say,152,100,very_active,8.4,3,1,vegetarian,3,4,2,1,4,1,2,0,1,0,1,1,1,0,0,1,0,1,1,Zinc Deficiency
+34,Prefer not to say,168,101,sedentary,7.1,1,3,vegan,5,0,3,4,1,3,0,0,0,1,1,1,1,0,1,0,0,1,1,Vitamin B12 Deficiency
+38,Prefer not to say,153,64,active,6.5,2,1,pescatarian,1,1,4,1,3,3,3,1,1,0,0,0,1,1,1,1,0,0,0,Calcium Deficiency
+62,Female,169,80,sedentary,6.8,3,1,vegetarian,1,2,2,3,4,4,4,1,1,1,1,1,1,0,0,1,0,1,1,Vitamin B12 Deficiency
+31,Prefer not to say,151,100,very_active,6.1,3,0,pescatarian,3,4,4,0,2,0,0,0,0,1,1,1,1,1,1,1,0,0,0,Protein Deficiency
+44,Prefer not to say,156,98,moderate,7.7,2,3,vegan,5,4,0,2,0,0,3,0,0,1,0,1,1,1,0,1,1,1,1,Zinc Deficiency
+18,Male,155,72,very_active,7.8,2,0,vegetarian,1,2,1,3,2,2,3,0,0,1,0,1,1,1,1,0,0,1,1,Vitamin B12 Deficiency
+60,Prefer not to say,160,89,moderate,8.6,3,0,omnivore,3,1,0,3,3,3,2,1,1,1,0,0,0,0,0,0,1,1,1,Vitamin B12 Deficiency
+57,Female,172,113,sedentary,8.5,2,3,pescatarian,1,3,3,0,0,2,2,0,0,1,0,1,0,1,1,1,0,1,1,Vitamin B12 Deficiency
+50,Female,181,89,sedentary,8.1,3,0,omnivore,3,0,4,1,4,3,3,0,0,1,1,1,0,1,1,1,0,1,0,Vitamin D Deficiency
+43,Female,152,98,very_active,5.5,1,2,vegan,4,2,2,0,0,3,2,1,1,1,1,0,1,0,1,1,1,1,0,Iron Deficiency
+75,Male,181,87,active,5.9,2,1,vegetarian,4,1,3,1,2,0,3,0,0,1,1,0,1,0,0,1,1,1,1,Vitamin B12 Deficiency
+24,Female,188,121,moderate,7.3,4,3,vegetarian,3,3,2,2,3,1,1,1,1,1,0,1,0,1,1,1,0,1,0,Zinc Deficiency
+55,Prefer not to say,176,110,moderate,7.1,4,0,vegetarian,1,3,1,0,0,1,2,0,1,1,0,0,1,1,0,1,1,0,0,Magnesium Deficiency
+33,Prefer not to say,168,75,active,6.9,3,0,vegetarian,3,1,4,3,0,2,4,0,0,1,1,0,0,1,0,0,1,0,1,Protein Deficiency
+53,Female,158,76,very_active,8.5,1,2,vegan,2,0,1,2,4,0,4,1,1,1,0,1,0,0,0,1,1,1,0,Zinc Deficiency
+74,Male,171,95,moderate,6.5,4,0,vegetarian,3,3,1,2,4,1,0,1,1,0,1,1,1,1,1,1,1,0,1,Calcium Deficiency
+38,Prefer not to say,155,71,light,8.9,1,0,vegan,2,3,0,1,2,3,0,0,0,1,1,0,0,1,0,0,1,0,0,Protein Deficiency
+44,Female,178,117,active,7.0,1,3,vegetarian,5,0,4,0,4,0,0,1,0,1,1,0,1,1,1,1,0,1,0,Calcium Deficiency
+26,Prefer not to say,175,110,moderate,8.9,2,2,omnivore,1,4,4,0,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,Calcium Deficiency
+25,Male,186,85,very_active,7.1,1,2,vegetarian,3,0,1,4,3,2,2,0,0,0,1,1,0,1,1,1,1,1,0,Zinc Deficiency
+79,Female,160,68,moderate,6.4,2,3,omnivore,3,1,2,3,3,3,2,1,1,1,1,0,1,0,0,1,1,1,0,Iron Deficiency
+70,Prefer not to say,187,107,very_active,6.2,1,2,pescatarian,2,1,2,1,4,2,1,1,0,1,1,1,0,0,0,1,0,1,0,Vitamin A Deficiency
+78,Female,152,77,active,4.8,3,2,vegan,1,1,4,2,3,3,3,0,0,1,0,1,1,1,1,1,1,0,1,Magnesium Deficiency
+80,Male,183,105,moderate,8.4,3,3,pescatarian,5,0,3,1,3,1,1,0,1,0,0,1,0,1,0,1,1,1,0,Vitamin A Deficiency
+61,Female,180,92,very_active,6.1,4,0,vegan,1,0,3,4,1,1,4,0,0,0,0,1,0,1,0,1,0,1,1,Vitamin A Deficiency
+73,Female,160,82,active,7.6,2,0,vegan,3,3,4,4,0,1,3,1,0,1,1,0,1,0,1,0,1,0,0,Vitamin D Deficiency
+48,Prefer not to say,158,104,very_active,8.4,4,3,omnivore,1,4,3,1,3,3,2,0,1,1,1,1,1,0,1,1,1,1,0,Iron Deficiency
+54,Prefer not to say,157,99,sedentary,6.8,2,2,vegetarian,3,0,1,3,4,2,2,1,1,1,1,1,1,1,0,1,1,1,1,Zinc Deficiency
+65,Male,157,80,active,8.2,2,0,vegan,5,3,2,4,3,0,1,1,0,1,1,1,1,0,0,1,1,1,0,Iron Deficiency
+64,Female,175,115,very_active,5.0,1,1,pescatarian,4,0,1,4,2,1,0,0,0,1,1,0,0,1,0,1,1,1,1,Magnesium Deficiency
+55,Male,183,80,sedentary,7.199999999999999,3,2,omnivore,3,1,4,1,3,3,4,0,1,1,1,0,0,1,1,0,1,1,1,Magnesium Deficiency
+54,Female,165,91,active,7.9,1,3,vegan,3,0,3,1,1,2,3,1,0,1,0,1,0,1,1,1,0,1,1,Zinc Deficiency
+75,Prefer not to say,167,82,light,7.2,2,1,vegan,3,0,0,1,1,4,2,0,0,0,0,1,0,0,1,1,1,1,1,Vitamin A Deficiency
+29,Prefer not to say,167,96,light,8.1,2,0,pescatarian,4,4,0,4,2,3,1,1,0,1,1,0,0,0,1,0,1,1,1,Vitamin B12 Deficiency
+53,Female,165,87,active,8.9,3,2,vegan,4,3,1,3,1,2,3,1,1,1,0,0,0,1,0,1,1,1,1,Vitamin B12 Deficiency
+48,Male,161,94,active,6.0,3,3,omnivore,3,4,4,0,3,0,1,0,0,1,1,0,1,1,1,1,1,1,1,Iron Deficiency
+44,Male,172,112,light,7.5,2,2,vegetarian,3,4,3,3,0,3,4,1,1,0,0,1,1,1,0,1,0,1,0,Zinc Deficiency
+59,Female,167,109,active,6.4,4,0,pescatarian,4,1,1,0,1,1,2,0,0,1,1,0,0,0,1,0,0,1,0,Vitamin D Deficiency
+34,Prefer not to say,159,72,active,6.6,2,2,pescatarian,2,1,4,0,0,0,2,1,1,1,1,1,0,1,1,1,1,1,1,Calcium Deficiency
+69,Male,178,96,moderate,5.4,2,2,vegetarian,1,4,1,2,2,3,4,0,1,1,1,0,1,1,0,0,1,0,1,Magnesium Deficiency
+43,Male,160,92,active,6.3,1,3,vegan,5,4,2,2,3,2,3,0,0,1,1,1,1,1,1,1,1,1,1,Iron Deficiency
+27,Male,184,82,light,8.9,3,2,vegan,4,0,1,0,0,0,3,0,1,1,1,1,1,1,0,1,0,0,0,Protein Deficiency
+67,Female,154,98,active,6.1,3,3,vegetarian,1,1,3,3,0,0,1,1,0,1,1,1,1,1,0,0,0,1,1,Protein Deficiency
+30,Female,153,77,sedentary,6.3,4,2,vegan,2,2,4,0,3,1,0,0,1,0,1,1,0,0,1,1,1,1,0,Zinc Deficiency
+62,Prefer not to say,156,73,active,6.3,3,3,vegan,1,2,1,1,2,0,3,1,1,1,0,1,1,1,1,1,0,1,0,Vitamin A Deficiency
+36,Female,184,104,active,5.5,4,1,vegetarian,5,2,4,1,2,0,4,1,0,1,0,1,1,1,1,0,0,1,1,Vitamin B12 Deficiency
+29,Male,162,75,active,6.2,1,3,pescatarian,5,4,4,2,0,2,1,0,0,1,1,0,1,0,1,1,1,1,1,Iron Deficiency
+64,Male,169,76,light,8.9,1,0,vegan,5,2,0,1,4,1,4,0,1,0,1,1,1,0,0,1,1,1,0,Vitamin A Deficiency
+77,Female,170,108,moderate,8.5,4,3,omnivore,5,1,4,4,0,3,4,1,1,1,1,1,0,1,1,0,0,1,0,Protein Deficiency
+32,Male,170,74,moderate,8.7,2,0,vegetarian,4,2,1,1,2,2,4,0,0,1,1,0,1,0,1,1,1,0,1,Vitamin D Deficiency
+56,Prefer not to say,169,74,very_active,6.8,1,2,omnivore,4,3,0,0,4,0,3,0,1,0,1,0,1,1,1,1,1,1,0,Calcium Deficiency
+45,Female,175,85,light,6.7,4,0,pescatarian,3,0,3,4,3,1,1,1,0,1,1,0,0,0,1,1,1,1,0,Vitamin D Deficiency
+60,Female,177,100,moderate,6.2,3,0,vegan,2,2,4,3,4,1,3,0,0,0,1,1,0,0,0,1,0,1,0,Zinc Deficiency
+37,Female,180,80,moderate,6.2,2,1,omnivore,5,3,4,1,0,3,4,0,1,1,1,1,0,1,0,1,0,0,1,Protein Deficiency
+60,Prefer not to say,173,81,sedentary,6.5,4,1,vegetarian,5,0,2,3,4,4,0,0,0,1,0,1,0,1,1,1,1,1,0,Zinc Deficiency
+40,Prefer not to say,169,87,very_active,6.5,1,2,pescatarian,1,4,2,0,1,2,3,0,0,1,0,1,0,1,1,1,1,1,0,Calcium Deficiency
+59,Male,187,116,light,8.5,3,1,pescatarian,2,4,1,0,0,4,4,0,0,1,0,0,1,1,1,1,1,1,0,Calcium Deficiency
+24,Male,161,69,very_active,7.7,2,1,vegan,1,2,0,3,0,4,4,1,1,1,1,1,1,0,0,0,1,1,1,Iron Deficiency
+77,Female,176,90,light,6.699999999999999,1,1,pescatarian,5,3,2,3,1,3,3,0,1,1,1,0,0,1,1,0,1,1,0,Magnesium Deficiency
+51,Prefer not to say,153,76,moderate,7.0,3,2,pescatarian,2,2,1,4,0,4,1,1,1,0,0,1,0,1,1,1,1,1,0,Vitamin A Deficiency
+55,Prefer not to say,162,98,sedentary,6.4,2,0,vegetarian,1,3,2,0,2,3,4,0,1,1,1,0,1,1,0,0,0,0,1,Protein Deficiency
+37,Prefer not to say,178,95,light,5.9,2,1,vegetarian,5,2,0,1,3,3,4,0,1,0,0,1,1,1,1,1,0,0,1,Calcium Deficiency
+21,Male,159,70,moderate,5.6,1,2,omnivore,1,0,0,3,0,1,2,0,1,1,1,0,1,1,1,1,0,1,0,Protein Deficiency
+48,Male,157,83,moderate,7.3,2,1,vegetarian,1,4,4,0,3,4,2,1,1,1,1,0,1,1,1,0,1,1,0,Iron Deficiency
+25,Male,179,118,sedentary,8.1,2,3,pescatarian,1,2,2,4,1,0,1,1,1,1,1,1,1,0,0,1,1,1,1,Vitamin B12 Deficiency
+30,Female,171,104,active,8.3,2,3,vegan,4,4,2,3,2,0,4,1,1,1,0,1,1,0,0,1,0,1,1,Vitamin B12 Deficiency
+54,Prefer not to say,174,86,very_active,5.9,3,2,vegetarian,3,3,0,3,1,2,3,1,0,1,0,0,1,0,0,0,1,1,1,Vitamin B12 Deficiency
+30,Female,180,112,moderate,8.2,2,0,vegan,2,0,3,1,4,0,0,1,0,0,1,1,0,1,1,1,1,0,1,Calcium Deficiency
+30,Female,167,105,moderate,8.2,1,2,vegan,2,1,0,0,4,4,4,0,0,1,1,1,0,1,0,1,0,1,1,Vitamin A Deficiency
+21,Male,151,93,sedentary,5.9,1,0,pescatarian,4,0,3,4,3,4,2,1,1,0,0,1,0,0,1,1,1,1,1,Vitamin A Deficiency
+32,Male,159,106,moderate,8.7,4,1,omnivore,3,3,3,0,0,3,0,1,1,1,1,1,1,1,0,1,0,1,0,Protein Deficiency
+52,Female,175,113,active,4.8,2,1,pescatarian,4,0,2,1,4,3,3,1,0,1,0,1,0,1,1,0,1,0,1,Magnesium Deficiency
+22,Prefer not to say,156,103,active,5.1,1,0,vegan,2,4,0,1,1,3,4,1,1,1,0,0,1,1,1,1,1,0,0,Magnesium Deficiency
+72,Male,168,75,moderate,7.199999999999999,1,0,omnivore,1,2,0,1,3,4,3,1,1,1,1,1,0,1,1,0,1,1,1,Magnesium Deficiency
+27,Female,158,74,sedentary,5.8,1,1,pescatarian,4,1,0,0,3,3,4,1,0,1,1,1,1,1,1,1,1,0,1,Calcium Deficiency
+63,Prefer not to say,167,97,very_active,7.5,1,0,pescatarian,3,0,3,3,0,1,4,1,1,0,0,1,1,0,1,1,1,1,1,Vitamin A Deficiency
+50,Female,186,103,active,6.7,3,2,vegan,1,4,2,4,0,0,3,0,0,1,1,1,1,1,0,0,1,1,0,Protein Deficiency
+35,Female,150,69,very_active,6.1,2,3,omnivore,2,2,1,3,1,4,0,1,0,1,1,1,1,1,0,1,1,1,1,Iron Deficiency
+59,Female,157,69,light,7.1,4,2,pescatarian,5,1,3,3,1,2,1,1,0,1,1,1,1,1,0,1,1,1,1,Protein Deficiency
+35,Male,166,108,active,7.1,2,1,omnivore,2,2,4,0,0,0,0,1,0,1,1,1,1,1,1,0,1,1,0,Iron Deficiency
+78,Prefer not to say,163,107,sedentary,6.5,1,0,vegan,4,4,1,0,1,2,2,1,0,1,1,1,1,1,0,0,1,0,1,Magnesium Deficiency
+39,Male,166,87,light,7.0,4,1,pescatarian,2,3,0,1,4,3,1,0,1,1,1,0,1,0,1,1,1,1,0,Iron Deficiency
+77,Male,174,92,light,8.0,4,0,pescatarian,4,2,2,0,4,1,0,1,1,0,1,1,1,1,0,1,1,1,0,Vitamin A Deficiency
+66,Female,162,80,very_active,5.6,4,1,omnivore,4,0,2,3,0,3,1,0,0,1,1,0,1,1,0,1,1,1,0,Iron Deficiency
+39,Male,171,76,active,5.9,4,0,vegan,1,0,1,3,0,3,4,0,0,1,1,0,0,1,1,1,0,0,0,Vitamin D Deficiency
+49,Prefer not to say,189,97,sedentary,8.3,4,2,pescatarian,3,0,4,2,1,2,1,0,0,1,0,0,1,1,1,1,1,0,1,Calcium Deficiency
+77,Prefer not to say,152,71,sedentary,8.3,4,1,vegetarian,4,0,0,0,1,0,4,1,1,1,0,0,0,1,1,1,0,1,1,Vitamin B12 Deficiency
+63,Female,189,88,moderate,6.7,1,1,vegan,1,4,0,4,1,4,4,0,1,1,1,0,1,0,0,1,1,1,0,Iron Deficiency
+21,Prefer not to say,173,93,light,7.0,3,0,vegetarian,1,0,4,1,1,0,3,0,0,1,1,1,1,0,1,0,0,1,0,Vitamin D Deficiency
+33,Prefer not to say,176,88,active,8.6,1,3,pescatarian,1,3,1,1,2,3,1,1,1,1,1,0,1,1,0,1,0,0,0,Protein Deficiency
+26,Male,179,107,active,4.6,3,1,omnivore,5,1,4,1,4,4,1,0,1,1,0,1,1,1,0,1,1,0,1,Magnesium Deficiency
+55,Male,187,91,very_active,8.6,4,0,vegetarian,4,4,0,3,4,3,3,0,1,1,1,0,0,1,1,0,1,1,0,Vitamin D Deficiency
+19,Female,169,82,active,8.5,1,0,pescatarian,2,3,1,2,3,0,0,1,1,1,1,1,1,0,1,1,0,1,0,Vitamin D Deficiency
+42,Female,179,117,sedentary,6.8,2,0,vegan,2,1,0,4,0,3,4,0,0,1,1,1,1,1,0,1,1,1,1,Vitamin A Deficiency
+50,Prefer not to say,157,96,very_active,6.4,3,3,omnivore,1,1,3,0,0,3,1,1,0,1,0,1,0,1,1,0,1,0,1,Magnesium Deficiency
+80,Prefer not to say,184,89,active,6.7,4,0,vegetarian,2,0,0,1,4,2,3,1,1,1,1,1,1,0,1,1,1,1,1,Zinc Deficiency
+67,Male,159,89,moderate,7.1,2,1,omnivore,2,0,0,1,1,0,0,1,0,1,1,1,0,0,0,1,1,1,1,Vitamin A Deficiency
+52,Male,184,100,sedentary,8.7,4,3,vegan,4,2,1,0,3,4,2,1,1,1,1,1,1,0,1,0,1,1,1,Iron Deficiency
+43,Prefer not to say,164,98,moderate,5.8,1,1,vegan,3,1,0,0,3,3,0,1,0,1,1,0,1,1,0,1,1,1,1,Iron Deficiency
+36,Female,172,93,active,7.1,1,1,pescatarian,4,3,2,1,3,3,1,0,0,1,1,1,1,1,1,0,1,1,1,Magnesium Deficiency
+29,Prefer not to say,179,114,light,6.2,4,2,pescatarian,1,2,4,0,3,4,3,0,0,0,0,1,1,1,1,1,1,0,1,Calcium Deficiency
+19,Male,167,102,sedentary,6.1,3,3,pescatarian,3,3,0,2,4,4,0,1,0,1,0,1,1,1,1,0,1,1,1,Magnesium Deficiency
+58,Female,153,82,moderate,7.4,1,1,vegan,1,4,1,4,1,2,2,1,1,1,1,0,0,0,1,1,1,1,1,Vitamin B12 Deficiency
+24,Male,159,99,light,8.4,1,3,pescatarian,1,0,1,0,1,2,2,1,0,1,1,0,1,1,0,0,0,0,0,Protein Deficiency
+26,Male,158,71,active,7.9,1,0,vegetarian,4,3,0,1,0,0,4,0,1,1,1,0,0,1,0,0,0,1,1,Vitamin B12 Deficiency
+60,Female,151,68,light,8.5,3,2,omnivore,2,3,3,1,4,4,0,0,0,0,0,1,0,0,0,1,1,1,0,Vitamin A Deficiency
+61,Male,161,90,active,7.0,2,3,vegetarian,3,0,3,0,4,1,3,1,1,0,0,1,1,1,1,1,1,1,1,Calcium Deficiency
+53,Female,168,99,light,8.5,4,0,vegan,1,3,0,3,3,4,0,0,0,1,1,0,0,0,1,0,1,0,1,Vitamin D Deficiency
+32,Female,181,96,very_active,7.6,4,2,pescatarian,5,3,3,4,2,1,3,0,0,1,1,1,1,0,0,0,1,1,1,Iron Deficiency
+80,Male,174,113,moderate,6.0,1,0,pescatarian,4,1,2,3,3,4,2,1,0,1,1,0,1,1,1,1,1,1,0,Iron Deficiency
+29,Prefer not to say,169,82,active,7.0,3,3,pescatarian,1,4,3,4,4,4,3,1,0,1,1,1,1,1,1,1,1,1,0,Iron Deficiency
+26,Female,172,111,sedentary,8.2,3,3,vegetarian,4,1,1,3,2,0,1,0,0,1,0,1,1,0,1,1,0,1,0,Vitamin A Deficiency
+60,Female,186,114,active,6.4,4,0,omnivore,4,4,3,0,4,0,3,0,0,1,1,1,0,1,1,1,0,1,0,Calcium Deficiency
+36,Female,153,83,very_active,6.9,2,0,vegetarian,5,1,1,0,4,4,3,1,0,1,0,1,1,1,1,1,1,1,1,Vitamin A Deficiency
+60,Prefer not to say,161,69,very_active,7.0,4,1,pescatarian,3,4,4,3,4,0,4,0,1,1,0,0,0,1,1,1,1,0,0,Magnesium Deficiency
+35,Female,160,84,very_active,6.3,2,0,vegan,2,0,0,2,3,3,4,1,1,0,0,1,1,0,0,1,1,1,0,Vitamin A Deficiency
+68,Male,153,69,moderate,7.6,1,3,omnivore,1,3,1,1,0,4,4,0,1,1,0,0,0,1,1,1,0,1,1,Vitamin B12 Deficiency
+24,Male,163,86,active,6.9,1,3,vegan,1,2,4,3,3,1,2,0,1,1,1,1,0,0,0,1,1,1,1,Zinc Deficiency
+52,Male,178,101,sedentary,8.7,4,0,omnivore,1,1,2,1,1,3,2,1,0,1,1,1,1,1,1,1,0,0,1,Vitamin D Deficiency
+40,Female,188,118,moderate,7.1,1,0,vegetarian,4,1,0,3,1,2,2,0,0,0,0,1,1,1,1,1,0,1,0,Zinc Deficiency
+30,Male,176,99,light,5.4,4,1,vegetarian,1,4,4,1,0,3,1,1,0,1,1,1,1,1,0,1,1,0,0,Magnesium Deficiency
+67,Female,181,86,light,8.0,2,2,vegetarian,4,3,1,3,1,4,1,1,0,1,0,1,0,0,1,1,0,1,0,Zinc Deficiency
+23,Male,180,87,moderate,8.9,4,1,pescatarian,4,4,2,0,0,4,0,0,1,1,1,1,0,0,1,1,1,1,1,Vitamin B12 Deficiency
+79,Prefer not to say,152,100,light,4.9,4,2,pescatarian,2,0,2,4,3,1,2,0,1,1,0,1,1,1,1,1,1,1,1,Magnesium Deficiency
+75,Male,170,104,light,7.4,4,0,vegan,2,0,1,1,0,3,2,0,1,1,0,1,0,1,1,1,1,1,1,Vitamin B12 Deficiency
+25,Female,155,78,moderate,6.1,2,2,vegan,5,0,4,4,0,3,0,0,1,1,1,0,1,0,1,1,1,1,0,Iron Deficiency
+23,Female,180,108,moderate,7.6,1,2,vegetarian,5,3,2,4,1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,Iron Deficiency
+72,Male,160,92,active,5.0,2,0,omnivore,4,3,2,4,1,2,0,1,0,1,1,1,1,1,1,0,1,1,0,Magnesium Deficiency
+58,Female,155,67,very_active,6.7,4,0,vegan,4,4,4,0,2,3,3,0,1,1,1,0,1,0,1,1,0,0,0,Vitamin D Deficiency
+50,Female,176,82,active,7.8,3,2,omnivore,5,0,4,0,0,3,1,0,1,0,0,1,1,1,1,1,1,1,0,Calcium Deficiency
+29,Male,188,99,sedentary,7.0,1,0,pescatarian,1,0,1,1,3,3,4,1,1,1,1,1,0,1,1,1,0,0,0,Calcium Deficiency
+72,Male,163,99,light,7.8,4,1,vegan,3,3,1,3,3,0,0,0,0,1,1,1,0,1,0,1,1,1,0,Zinc Deficiency
+24,Prefer not to say,177,103,active,6.6,3,0,pescatarian,4,3,4,4,4,3,1,0,0,1,1,0,1,1,1,0,1,1,1,Magnesium Deficiency
+19,Male,168,84,active,5.2,2,1,omnivore,5,3,1,2,3,3,2,1,0,1,1,0,1,1,0,0,1,1,0,Magnesium Deficiency
+78,Female,169,87,light,7.4,1,0,omnivore,3,1,1,4,0,0,2,1,0,1,1,0,1,1,1,1,0,1,0,Vitamin D Deficiency
+63,Male,178,106,sedentary,8.9,1,0,vegetarian,2,0,0,2,1,2,3,1,0,0,1,1,0,0,0,1,1,1,0,Vitamin A Deficiency
+39,Female,182,90,sedentary,6.4,4,2,vegan,2,4,3,1,0,3,3,1,1,1,0,1,0,0,0,0,1,1,1,Vitamin B12 Deficiency
+45,Male,175,78,light,7.199999999999999,1,2,pescatarian,4,4,2,2,2,0,2,0,1,1,0,1,1,1,0,1,1,0,1,Magnesium Deficiency
+64,Prefer not to say,158,99,very_active,6.5,1,2,omnivore,2,0,0,4,4,2,1,1,1,1,1,1,1,1,0,0,1,1,1,Iron Deficiency
+47,Female,165,107,very_active,8.0,2,2,omnivore,3,4,1,3,4,1,0,1,0,1,1,0,0,1,1,0,0,1,1,Vitamin B12 Deficiency
+48,Male,178,81,moderate,7.9,4,0,omnivore,5,3,3,3,3,3,1,0,0,1,1,0,0,0,1,1,0,0,1,Vitamin D Deficiency
+56,Female,157,73,moderate,7.5,1,0,vegetarian,3,2,2,2,2,3,0,0,0,1,1,1,1,0,1,1,0,0,1,Vitamin D Deficiency
+73,Male,176,106,very_active,6.6,4,0,pescatarian,4,4,1,1,4,3,3,1,0,1,1,1,1,0,1,1,0,1,1,Vitamin D Deficiency
+73,Male,151,99,moderate,7.5,1,0,vegan,5,4,4,0,3,4,1,1,0,1,1,0,1,0,0,1,1,1,1,Iron Deficiency
+49,Male,171,101,light,7.0,3,3,omnivore,1,0,0,4,0,2,1,0,1,1,1,1,1,1,0,1,0,0,0,Protein Deficiency
+42,Male,170,82,active,8.6,3,3,vegetarian,1,1,1,4,4,1,3,1,0,1,1,1,1,1,0,1,1,1,0,Iron Deficiency
+35,Prefer not to say,187,88,light,8.2,2,2,pescatarian,4,0,4,1,0,2,4,0,0,1,1,0,0,1,1,0,0,0,1,Protein Deficiency
+56,Female,174,97,light,7.5,3,0,vegan,5,4,0,0,0,3,0,0,1,1,0,1,1,1,1,1,0,1,1,Calcium Deficiency
+47,Prefer not to say,171,75,light,7.8,1,3,vegetarian,1,0,2,4,3,3,4,0,0,0,1,1,1,1,1,1,0,1,0,Vitamin A Deficiency
+41,Male,178,77,light,8.1,3,2,vegan,1,4,2,1,0,3,2,0,1,1,0,0,0,1,0,1,1,1,1,Vitamin B12 Deficiency
+22,Prefer not to say,158,70,light,6.4,2,2,vegan,1,4,4,2,3,3,0,1,0,1,1,1,1,0,1,1,1,1,0,Iron Deficiency
+35,Female,184,109,moderate,5.5,2,0,vegetarian,5,0,1,3,0,1,1,0,1,1,1,0,0,1,1,0,1,1,0,Vitamin D Deficiency
+48,Male,171,77,moderate,7.3,2,0,pescatarian,1,3,4,0,0,0,0,1,1,1,1,0,1,0,1,1,1,1,0,Iron Deficiency
+36,Female,175,82,very_active,6.6,2,0,pescatarian,4,3,3,4,4,0,2,0,1,1,0,0,0,1,0,0,1,1,1,Magnesium Deficiency
+48,Prefer not to say,189,111,light,4.9,1,0,vegan,3,4,3,4,2,2,4,0,0,1,1,1,1,1,0,0,1,0,0,Magnesium Deficiency
+40,Male,162,109,light,8.2,3,1,pescatarian,4,3,1,4,4,2,4,1,1,1,0,1,1,0,1,1,0,1,0,Vitamin A Deficiency
+57,Male,165,100,moderate,8.3,4,1,pescatarian,2,0,2,0,0,2,0,0,0,1,1,0,1,1,1,1,0,1,0,Calcium Deficiency
+74,Female,161,89,very_active,6.4,2,0,vegan,3,0,0,0,3,0,2,0,1,1,0,1,1,1,1,1,0,0,0,Calcium Deficiency
+30,Prefer not to say,174,98,moderate,7.6,2,0,vegetarian,5,2,1,2,1,0,2,0,1,0,0,1,0,0,1,1,1,1,0,Zinc Deficiency
+51,Prefer not to say,180,110,active,6.4,4,0,vegan,2,1,3,1,2,1,2,1,1,1,1,1,1,0,0,1,1,1,0,Iron Deficiency
+47,Prefer not to say,189,104,active,7.1,4,3,vegan,4,2,2,3,0,1,3,0,1,0,1,1,1,0,1,1,0,1,0,Zinc Deficiency
+52,Male,171,86,moderate,6.4,3,1,vegan,5,2,0,2,2,2,3,1,0,1,0,1,0,0,0,1,0,1,1,Zinc Deficiency
+38,Male,177,103,light,5.5,1,2,vegan,5,1,2,0,3,2,2,0,1,1,1,1,1,1,0,0,1,1,1,Magnesium Deficiency
+31,Female,154,98,active,6.2,1,2,pescatarian,3,0,1,0,4,1,0,1,0,1,1,0,1,1,0,0,1,1,1,Iron Deficiency
+41,Prefer not to say,150,72,moderate,8.5,4,3,vegan,1,1,4,3,2,0,3,0,0,1,1,1,1,0,1,0,1,1,0,Iron Deficiency
+27,Female,154,89,very_active,8.3,3,3,pescatarian,4,4,0,0,2,3,2,1,1,1,1,0,1,1,1,1,1,1,1,Iron Deficiency
+33,Male,167,111,very_active,6.5,1,1,vegetarian,4,4,0,2,0,0,4,1,1,1,0,1,0,0,1,1,0,1,1,Zinc Deficiency
+72,Male,175,78,sedentary,6.4,2,0,pescatarian,4,3,0,0,4,1,3,0,1,1,1,0,0,0,1,1,0,1,0,Vitamin D Deficiency
+60,Male,167,80,active,6.8,2,0,vegan,4,0,4,0,2,2,3,0,0,1,1,0,1,1,0,0,1,1,1,Iron Deficiency
+18,Female,162,73,light,7.4,1,1,vegan,1,3,4,0,2,2,4,0,0,1,1,0,0,1,0,1,1,0,0,Magnesium Deficiency
+59,Female,150,86,light,7.1,1,2,vegan,1,0,1,3,2,4,3,0,0,1,0,1,1,0,1,1,1,1,0,Zinc Deficiency
+56,Prefer not to say,178,101,very_active,7.7,2,0,vegan,1,3,0,2,1,3,1,0,0,0,1,1,1,0,0,1,0,1,0,Vitamin A Deficiency
+65,Female,158,83,moderate,7.8,1,3,omnivore,1,1,2,2,1,1,4,0,0,1,1,1,1,1,0,0,1,1,0,Iron Deficiency
+58,Male,163,77,sedentary,6.1,2,1,vegetarian,4,3,2,1,1,1,3,0,0,1,1,1,0,1,1,0,1,1,1,Vitamin B12 Deficiency
+48,Female,177,109,very_active,8.1,2,3,vegetarian,4,2,0,2,4,4,1,0,1,1,1,1,1,1,1,1,0,1,0,Vitamin A Deficiency
+30,Male,162,69,sedentary,8.5,3,3,pescatarian,4,3,2,3,3,2,4,0,1,1,1,1,1,0,1,1,1,1,1,Iron Deficiency
+59,Female,177,92,light,7.2,3,0,vegan,3,4,3,1,0,1,4,0,0,1,1,1,1,1,0,1,0,1,1,Protein Deficiency
+50,Prefer not to say,174,112,moderate,8.1,1,0,omnivore,2,2,1,3,2,0,1,1,0,1,0,1,1,1,1,0,0,1,1,Vitamin B12 Deficiency
+30,Female,161,100,sedentary,7.1,2,1,vegan,1,0,0,2,3,3,4,0,0,0,1,1,1,0,1,1,1,1,0,Vitamin A Deficiency
+49,Prefer not to say,156,65,sedentary,6.4,1,0,vegetarian,2,4,0,3,4,4,2,1,1,1,1,1,1,1,1,0,1,1,1,Iron Deficiency
+80,Female,171,80,sedentary,5.6,4,1,vegetarian,5,0,4,2,1,2,3,1,1,1,0,1,0,1,0,1,1,0,1,Magnesium Deficiency
+65,Prefer not to say,155,87,active,8.8,4,0,pescatarian,3,4,1,0,4,4,4,0,0,1,0,1,1,1,1,1,1,0,0,Calcium Deficiency
+28,Prefer not to say,155,71,active,9.0,1,0,omnivore,4,2,1,2,3,0,1,1,0,1,1,0,1,1,1,1,0,0,1,Vitamin D Deficiency
+36,Male,157,71,moderate,8.1,2,0,omnivore,2,2,3,4,0,2,0,0,1,1,1,1,0,0,0,1,0,1,1,Vitamin B12 Deficiency
+70,Female,164,101,active,6.0,3,1,vegetarian,5,1,1,4,0,2,4,1,0,1,1,1,0,1,0,1,0,1,0,Vitamin A Deficiency
+64,Female,169,82,sedentary,7.4,3,3,pescatarian,3,3,3,0,2,2,2,0,1,1,1,1,0,1,1,0,0,1,1,Protein Deficiency
+75,Male,163,82,light,6.6,1,2,vegetarian,2,3,3,1,0,0,2,1,0,1,0,1,1,1,1,0,1,0,0,Magnesium Deficiency
+49,Female,188,94,active,8.2,1,3,pescatarian,3,3,2,0,0,0,0,0,1,1,0,1,1,0,0,1,1,1,1,Vitamin B12 Deficiency
+24,Female,154,98,light,6.9,1,3,pescatarian,1,4,4,4,0,1,0,0,0,1,1,1,1,0,0,0,1,1,1,Iron Deficiency
+23,Male,182,99,moderate,8.9,2,3,vegetarian,2,2,0,2,2,4,3,0,1,1,1,0,0,1,1,1,0,0,1,Calcium Deficiency
+79,Male,188,118,light,7.6,3,1,pescatarian,1,4,2,2,3,1,3,1,0,1,1,0,0,0,1,0,1,1,1,Vitamin B12 Deficiency
+38,Female,174,76,very_active,6.4,3,0,vegetarian,5,3,0,2,0,2,2,1,0,1,1,0,0,1,0,1,0,0,0,Protein Deficiency
+55,Female,156,98,moderate,8.0,3,2,vegetarian,1,1,2,1,1,2,4,1,1,0,1,0,0,1,1,1,1,0,1,Calcium Deficiency
+61,Prefer not to say,176,105,light,7.0,3,3,omnivore,3,3,4,1,2,0,2,1,1,1,1,0,1,0,0,0,1,1,1,Iron Deficiency
+79,Female,182,88,active,5.7,1,3,vegetarian,5,1,0,3,4,2,1,0,1,1,0,0,0,1,0,1,1,1,1,Magnesium Deficiency
+28,Female,157,87,light,8.4,1,0,omnivore,4,2,2,1,0,4,3,0,1,1,1,1,0,1,1,1,1,1,1,Vitamin D Deficiency
+18,Female,161,93,moderate,5.5,4,0,vegan,1,4,4,1,3,0,3,0,0,1,1,1,1,1,1,1,1,0,1,Vitamin D Deficiency
+46,Prefer not to say,178,87,light,6.7,4,0,vegetarian,2,0,1,2,0,1,3,1,1,0,0,1,1,1,0,1,1,1,0,Zinc Deficiency
+50,Prefer not to say,174,83,sedentary,8.9,1,1,vegan,3,4,0,1,0,2,3,0,1,1,1,1,1,1,1,0,0,0,0,Protein Deficiency
+67,Male,166,86,active,6.2,1,1,vegan,5,1,1,0,1,3,0,1,0,0,1,0,0,1,1,1,1,1,0,Calcium Deficiency
+39,Female,180,82,very_active,7.0,1,2,vegetarian,3,2,2,2,3,1,2,0,0,1,0,0,1,0,1,1,1,1,1,Vitamin B12 Deficiency
+34,Female,173,96,moderate,5.9,1,0,omnivore,3,2,4,4,4,2,1,1,0,1,1,0,0,0,1,0,0,1,0,Vitamin D Deficiency
+78,Prefer not to say,189,104,moderate,8.0,2,1,vegetarian,2,1,3,4,2,4,2,1,1,1,1,0,1,1,0,0,1,1,1,Iron Deficiency
+79,Prefer not to say,153,76,active,7.2,1,0,pescatarian,5,3,4,3,3,4,2,0,0,1,1,0,0,1,1,1,0,1,1,Vitamin D Deficiency
+28,Male,152,97,light,6.5,2,2,vegan,3,0,1,0,4,0,0,1,1,1,0,1,0,1,1,1,0,0,1,Calcium Deficiency
+64,Female,161,84,sedentary,7.4,1,3,omnivore,5,3,0,3,1,2,2,0,1,0,1,1,1,1,0,1,0,1,0,Vitamin A Deficiency
+29,Male,162,105,active,8.8,2,2,vegetarian,3,1,1,3,4,1,0,0,0,1,1,1,1,0,0,0,1,1,1,Iron Deficiency
+25,Male,152,71,light,8.2,3,1,vegetarian,1,0,4,2,0,1,1,1,1,1,1,1,1,0,0,0,1,1,0,Iron Deficiency
+24,Prefer not to say,168,78,very_active,8.6,4,1,vegan,2,0,1,3,3,1,2,1,0,1,0,1,0,0,0,1,1,1,0,Zinc Deficiency
+41,Male,152,101,light,6.1,3,0,pescatarian,2,2,4,2,2,0,2,1,1,1,1,0,0,0,1,0,1,1,1,Vitamin D Deficiency
+25,Prefer not to say,177,94,light,5.8,2,0,pescatarian,3,2,3,3,3,3,4,1,0,1,1,1,1,1,1,1,0,1,0,Vitamin D Deficiency
+33,Female,150,75,sedentary,6.8,4,1,vegetarian,1,2,2,1,2,3,1,1,0,1,1,0,1,0,0,1,1,1,1,Iron Deficiency
+62,Male,187,86,active,8.4,2,0,vegan,3,1,0,1,0,0,4,1,0,1,1,0,1,1,1,1,1,0,1,Vitamin D Deficiency
+27,Male,152,101,light,7.3,1,0,pescatarian,4,4,2,4,4,2,1,1,0,1,1,1,0,0,1,0,0,1,0,Vitamin D Deficiency
+70,Prefer not to say,179,108,moderate,7.8,4,3,vegan,1,2,3,0,2,0,0,0,1,1,0,0,1,1,1,1,0,0,1,Calcium Deficiency
+53,Male,190,86,light,4.9,1,3,vegetarian,1,2,0,2,0,2,2,1,0,1,1,1,0,1,1,1,1,0,0,Magnesium Deficiency
+48,Prefer not to say,152,81,light,6.0,4,0,vegetarian,2,1,1,1,4,4,4,1,1,1,1,1,1,1,0,1,0,1,1,Vitamin B12 Deficiency
+54,Prefer not to say,181,85,sedentary,6.0,3,0,pescatarian,1,3,2,1,2,1,0,1,1,1,1,0,0,1,1,1,1,1,0,Vitamin D Deficiency
+80,Prefer not to say,181,81,moderate,7.0,4,3,vegan,4,2,4,4,2,2,0,1,1,1,0,0,0,1,0,0,1,1,0,Magnesium Deficiency
+72,Male,164,94,active,7.8,3,3,pescatarian,5,2,0,0,1,0,3,1,0,1,1,1,1,1,1,1,1,1,1,Vitamin A Deficiency
+20,Prefer not to say,159,97,light,7.7,3,0,pescatarian,1,1,2,3,1,0,1,0,1,1,1,1,0,0,0,1,1,1,1,Vitamin A Deficiency
+73,Female,183,93,moderate,6.1,1,0,pescatarian,3,2,1,1,2,3,3,1,0,1,1,1,0,0,0,0,1,1,1,Vitamin B12 Deficiency
+75,Female,159,98,moderate,5.9,4,2,vegetarian,4,1,3,4,0,0,1,0,1,1,1,0,1,1,0,0,1,1,0,Protein Deficiency
+75,Female,182,87,active,7.8,4,0,pescatarian,3,2,4,3,4,2,0,0,1,1,1,0,0,1,1,1,1,1,0,Vitamin D Deficiency
+69,Male,155,66,very_active,8.8,1,3,vegan,4,4,4,0,2,3,1,0,1,1,0,1,1,0,1,1,1,1,0,Zinc Deficiency
+50,Female,167,87,moderate,8.4,4,1,vegetarian,4,0,0,0,1,2,4,1,1,1,1,0,1,0,1,0,1,1,1,Vitamin B12 Deficiency
+43,Female,183,90,active,6.3,2,0,pescatarian,3,4,1,0,1,0,0,0,1,0,0,0,0,1,1,1,1,1,0,Calcium Deficiency
+59,Male,169,84,very_active,6.9,4,2,vegetarian,3,0,1,0,4,0,0,1,0,1,0,1,1,1,0,0,1,1,0,Magnesium Deficiency
+24,Female,151,89,sedentary,7.2,1,1,pescatarian,4,2,3,1,1,2,0,0,0,1,1,1,1,0,0,1,1,1,0,Iron Deficiency
+51,Prefer not to say,159,80,moderate,5.9,2,0,omnivore,2,1,0,1,0,2,3,0,0,1,1,1,1,1,1,0,1,0,0,Protein Deficiency
+79,Female,156,102,very_active,6.6,2,3,vegetarian,4,3,4,2,2,4,0,1,1,0,1,1,0,1,0,1,1,1,1,Zinc Deficiency
+19,Male,161,88,active,8.3,3,0,vegetarian,2,2,2,1,2,0,0,1,0,1,1,1,1,0,1,1,1,0,0,Vitamin D Deficiency
+53,Female,188,87,very_active,8.6,4,3,omnivore,3,1,1,0,3,3,0,1,1,1,1,1,1,1,1,0,1,1,0,Iron Deficiency
+76,Female,168,80,active,5.6,1,0,vegetarian,1,3,0,3,2,2,2,1,1,1,1,1,0,1,1,1,1,0,1,Vitamin D Deficiency
+19,Male,153,64,light,5.9,3,3,vegan,2,0,0,2,4,0,0,1,0,0,0,1,0,1,1,1,1,1,0,Vitamin A Deficiency
+25,Male,170,82,very_active,8.6,4,3,vegetarian,5,3,0,4,3,3,2,1,1,0,0,1,1,0,1,1,0,1,0,Vitamin A Deficiency
+21,Male,150,75,active,8.4,2,3,vegetarian,3,1,4,4,2,2,2,1,0,1,1,0,1,1,1,0,1,0,0,Protein Deficiency
+45,Male,169,108,sedentary,6.0,1,0,vegan,1,3,1,2,0,3,4,1,1,1,1,0,1,1,0,0,1,1,1,Iron Deficiency
+46,Female,173,81,sedentary,7.8,4,0,omnivore,2,3,1,4,2,4,4,1,1,1,1,0,0,0,1,0,0,1,0,Vitamin D Deficiency
+52,Male,167,85,very_active,7.9,4,3,pescatarian,1,1,2,3,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,Vitamin B12 Deficiency
+29,Female,179,87,sedentary,7.8,4,0,vegetarian,2,2,0,1,0,4,2,1,0,1,1,1,0,0,1,1,0,0,0,Vitamin D Deficiency
+24,Female,171,102,active,6.6,3,3,omnivore,3,3,0,2,2,2,4,1,0,1,0,0,1,1,0,1,1,0,0,Magnesium Deficiency
+41,Male,155,77,active,7.7,3,3,vegan,3,2,2,3,3,3,2,1,0,1,1,0,1,1,1,1,0,1,1,Vitamin B12 Deficiency
+47,Prefer not to say,159,100,moderate,7.7,2,2,vegetarian,3,0,2,0,3,0,1,1,0,0,1,1,0,1,1,1,0,1,0,Zinc Deficiency
+68,Prefer not to say,185,90,sedentary,8.0,2,1,pescatarian,5,0,2,0,0,3,2,0,1,1,1,0,1,1,1,1,1,1,0,Calcium Deficiency
+34,Male,176,111,light,5.1,1,2,pescatarian,5,1,3,3,0,1,4,1,1,1,1,1,1,1,1,1,1,0,0,Magnesium Deficiency
+23,Male,189,102,light,7.5,3,0,omnivore,1,3,1,3,0,3,4,1,0,1,1,1,0,1,1,1,1,1,0,Vitamin D Deficiency
+65,Prefer not to say,182,83,light,5.8,4,1,vegan,2,2,2,0,3,4,1,0,0,1,0,0,0,1,0,0,1,0,1,Magnesium Deficiency
+21,Male,169,97,active,7.4,2,2,pescatarian,5,0,3,1,0,1,1,0,0,1,1,1,1,1,0,1,1,1,1,Magnesium Deficiency
+62,Male,179,104,active,4.5,3,3,vegetarian,5,3,0,4,2,0,4,1,0,1,0,1,1,1,0,0,1,0,1,Magnesium Deficiency
+50,Male,161,77,moderate,7.8,3,0,vegan,3,2,3,0,3,3,3,0,1,1,1,1,1,0,1,0,0,0,0,Vitamin D Deficiency
+49,Prefer not to say,180,99,light,8.9,2,0,vegan,4,3,0,0,4,2,0,0,0,1,1,0,0,1,1,1,1,0,0,Calcium Deficiency
+34,Female,178,95,light,6.2,2,3,vegan,1,4,0,0,0,0,1,0,1,1,0,1,0,1,0,0,1,1,1,Vitamin B12 Deficiency
+69,Male,178,104,active,8.6,1,1,omnivore,1,0,3,1,0,4,4,1,0,1,1,1,1,1,0,0,1,0,0,Protein Deficiency
+43,Prefer not to say,153,98,sedentary,7.5,3,0,vegetarian,3,3,2,1,2,0,1,0,1,1,0,1,0,0,1,0,1,1,1,Vitamin B12 Deficiency
+35,Prefer not to say,152,69,sedentary,7.2,2,0,pescatarian,4,2,1,0,0,0,1,1,0,1,1,1,1,0,1,1,0,0,1,Vitamin D Deficiency
+75,Prefer not to say,173,97,light,6.7,1,1,vegan,1,4,0,1,3,4,4,0,0,0,0,1,0,0,1,1,1,1,1,Zinc Deficiency
+36,Male,188,108,active,7.8,1,0,omnivore,5,1,3,0,1,3,2,1,1,0,1,1,0,1,1,1,1,1,0,Calcium Deficiency
+76,Male,183,94,moderate,6.6,2,0,omnivore,2,0,1,3,3,0,0,1,0,1,1,1,1,1,0,1,1,1,0,Magnesium Deficiency
+42,Female,152,77,light,6.8,4,0,omnivore,1,4,2,0,4,2,2,0,0,1,1,1,0,0,1,1,1,1,1,Vitamin B12 Deficiency
+79,Female,179,93,light,8.7,3,2,vegetarian,2,4,2,2,4,3,0,1,1,1,1,0,1,1,1,1,1,1,1,Iron Deficiency
+46,Male,179,80,moderate,7.2,2,0,vegetarian,5,0,2,4,4,2,0,1,0,1,1,1,1,0,1,0,0,0,0,Vitamin D Deficiency
+59,Male,161,100,active,7.5,1,0,vegetarian,3,2,0,2,4,0,4,0,1,1,1,1,0,0,1,0,1,1,1,Vitamin D Deficiency
+59,Female,168,81,sedentary,5.1,3,2,pescatarian,3,3,2,4,0,1,2,0,1,1,0,0,0,1,1,0,1,0,0,Magnesium Deficiency
+66,Prefer not to say,155,69,light,6.0,4,0,vegetarian,5,3,4,4,3,2,2,0,1,1,1,0,1,1,1,1,1,0,1,Magnesium Deficiency
+41,Male,172,109,very_active,5.8,3,3,vegan,4,3,1,2,1,4,1,1,0,1,1,1,1,1,1,1,1,0,1,Calcium Deficiency
+75,Male,179,78,light,5.9,3,0,vegetarian,2,0,3,0,1,0,1,1,1,1,1,1,0,1,1,1,1,0,0,Vitamin D Deficiency
+65,Female,178,103,active,8.1,4,2,pescatarian,2,1,4,4,0,1,0,1,1,1,1,1,1,1,0,0,1,1,1,Iron Deficiency
+54,Prefer not to say,183,117,very_active,8.5,4,2,omnivore,4,2,1,1,0,1,3,1,1,1,1,1,0,0,1,1,1,1,1,Vitamin B12 Deficiency
+36,Female,188,89,light,7.8,2,0,vegan,5,4,1,0,4,0,4,0,0,1,1,1,0,1,1,1,0,1,1,Vitamin D Deficiency
+63,Prefer not to say,157,94,active,7.2,1,1,omnivore,1,2,0,0,0,2,1,1,1,1,0,1,0,1,1,1,0,0,0,Calcium Deficiency
+26,Prefer not to say,174,89,light,6.4,2,3,vegan,4,1,0,1,0,4,1,0,1,0,1,1,0,0,1,1,1,1,1,Vitamin A Deficiency
+51,Prefer not to say,161,87,light,8.6,4,3,vegetarian,5,2,4,3,2,0,1,0,1,1,1,1,0,1,0,1,1,1,0,Zinc Deficiency
+63,Male,180,110,very_active,6.9,2,0,vegan,3,4,1,3,0,4,2,1,1,1,1,1,1,1,1,1,1,1,0,Zinc Deficiency
+37,Female,176,90,very_active,8.6,2,0,vegetarian,2,4,4,0,0,3,0,1,1,0,0,1,1,0,0,1,0,1,0,Zinc Deficiency
+44,Male,185,96,sedentary,5.6,1,0,pescatarian,4,0,1,2,2,0,1,0,0,1,1,1,1,0,1,0,1,1,1,Iron Deficiency
+18,Prefer not to say,184,119,light,5.8,4,1,omnivore,3,3,4,0,0,2,3,0,0,1,1,1,1,1,0,0,1,1,1,Protein Deficiency
+76,Prefer not to say,184,113,light,6.8,4,3,omnivore,5,0,2,1,4,0,3,0,1,1,1,1,1,1,0,1,0,1,0,Vitamin A Deficiency
+55,Male,155,74,active,7.7,4,0,vegetarian,4,2,3,2,2,1,0,1,1,1,1,0,1,1,1,0,1,1,1,Vitamin D Deficiency
+76,Male,177,81,active,5.9,1,1,vegan,2,1,3,0,0,3,3,0,1,0,1,1,0,1,0,1,1,1,1,Zinc Deficiency
+27,Female,183,93,very_active,8.8,3,2,pescatarian,4,0,1,1,1,4,3,0,1,1,0,1,1,0,0,1,0,1,0,Vitamin A Deficiency
+39,Male,153,103,active,7.6,1,0,vegan,3,0,1,2,2,3,4,1,1,1,1,0,0,0,1,0,1,0,1,Vitamin D Deficiency
+26,Prefer not to say,187,106,moderate,7.5,3,3,vegan,2,0,1,1,0,4,1,0,0,1,1,1,0,1,0,1,1,1,1,Protein Deficiency
+50,Male,165,105,active,6.8,4,3,vegetarian,3,4,2,4,0,4,1,0,1,0,1,1,1,1,0,1,1,1,0,Zinc Deficiency
+67,Prefer not to say,172,101,light,7.7,2,3,omnivore,2,0,1,3,2,4,1,0,1,1,1,1,1,0,1,0,1,1,1,Iron Deficiency
+62,Prefer not to say,166,88,sedentary,8.9,1,3,pescatarian,4,1,3,4,0,0,2,0,0,1,1,0,1,1,0,1,0,1,0,Protein Deficiency
+80,Male,189,84,moderate,8.4,3,1,omnivore,5,0,3,3,0,0,1,0,1,1,1,1,0,1,0,1,0,0,1,Protein Deficiency
+53,Female,157,87,active,7.5,1,3,vegetarian,1,0,1,0,1,2,4,0,0,1,1,1,1,0,0,1,1,1,1,Iron Deficiency
+42,Prefer not to say,168,83,moderate,4.5,3,3,vegan,2,2,1,1,2,2,3,1,0,1,1,1,1,1,0,0,1,0,0,Magnesium Deficiency
+40,Prefer not to say,168,85,moderate,7.9,3,0,vegan,3,1,3,2,0,0,4,0,1,1,1,1,1,1,0,1,0,1,1,Vitamin B12 Deficiency
+44,Female,171,95,sedentary,6.2,3,0,vegan,4,4,1,0,3,4,3,1,1,1,1,1,1,1,1,1,1,0,0,Vitamin D Deficiency
+44,Female,167,107,active,7.6,2,1,omnivore,5,4,1,4,1,1,2,0,0,1,0,1,1,1,0,1,0,1,1,Vitamin B12 Deficiency
+37,Female,155,76,light,8.5,4,0,vegan,2,4,2,0,2,1,2,0,1,1,0,1,1,1,0,0,1,1,1,Vitamin B12 Deficiency
+43,Female,168,99,very_active,5.4,1,2,pescatarian,5,0,1,4,1,1,2,1,1,1,1,0,0,1,1,0,1,0,1,Magnesium Deficiency
+23,Female,174,86,active,6.0,3,3,pescatarian,1,2,3,1,1,3,4,0,1,1,1,0,1,0,0,1,1,1,1,Iron Deficiency
+49,Prefer not to say,175,103,sedentary,6.6,3,0,pescatarian,5,1,2,2,4,2,0,0,1,1,0,1,0,1,1,1,1,1,0,Vitamin A Deficiency
+36,Male,157,97,active,6.8,3,2,pescatarian,3,2,0,4,2,1,2,1,1,1,1,1,1,0,0,1,0,1,1,Vitamin B12 Deficiency
+23,Prefer not to say,156,73,light,7.7,4,2,omnivore,4,4,1,4,4,3,0,0,1,1,1,0,1,1,0,1,1,1,1,Iron Deficiency
+29,Prefer not to say,166,76,active,7.4,2,2,omnivore,5,4,4,1,0,2,4,1,0,1,1,0,1,1,1,0,1,1,0,Magnesium Deficiency
+31,Male,176,84,moderate,6.4,3,0,vegan,2,0,1,1,0,4,2,1,1,1,1,1,0,1,1,1,1,1,0,Vitamin A Deficiency
+72,Prefer not to say,181,92,very_active,6.4,4,2,pescatarian,1,4,0,3,4,2,0,0,1,1,1,1,1,1,0,0,1,1,1,Magnesium Deficiency
+66,Male,168,107,active,9.0,4,1,vegetarian,5,0,0,3,1,1,0,1,0,0,1,1,1,0,1,1,1,1,0,Zinc Deficiency
+32,Female,181,108,moderate,8.4,4,1,vegan,4,2,0,4,2,3,1,0,1,1,1,1,0,0,0,1,0,1,0,Zinc Deficiency
+28,Prefer not to say,190,114,sedentary,8.8,1,3,vegan,2,2,1,1,1,3,1,1,0,1,0,1,0,1,1,1,1,1,0,Vitamin A Deficiency
+50,Prefer not to say,157,104,moderate,7.1,2,1,pescatarian,1,0,0,3,4,3,3,0,1,1,0,0,1,1,0,1,1,0,1,Magnesium Deficiency
+63,Prefer not to say,190,112,active,8.3,1,1,omnivore,5,0,1,2,1,2,1,0,1,1,1,0,1,1,1,1,0,1,1,Protein Deficiency
+62,Female,171,102,moderate,7.5,1,1,vegan,5,2,0,1,0,4,2,1,1,1,1,1,1,1,0,0,0,1,1,Protein Deficiency
+58,Male,151,76,very_active,6.6,1,2,vegan,5,4,3,3,4,1,2,0,1,1,1,1,0,1,0,1,1,1,0,Zinc Deficiency
+37,Male,164,79,moderate,7.6,1,1,omnivore,4,3,4,0,2,1,1,1,0,1,1,1,0,1,0,0,1,0,0,Protein Deficiency
+69,Prefer not to say,161,83,light,7.9,4,1,vegetarian,5,2,4,0,0,1,0,0,1,0,0,0,0,1,1,1,0,1,0,Calcium Deficiency
+48,Male,178,82,active,6.2,2,3,omnivore,5,0,4,1,0,3,1,1,0,1,1,1,1,1,1,1,1,1,1,Calcium Deficiency
+39,Female,185,113,moderate,7.7,1,1,pescatarian,1,2,4,3,1,1,1,0,1,1,1,1,1,1,0,0,0,0,1,Protein Deficiency
+38,Prefer not to say,180,85,moderate,8.7,2,1,vegetarian,2,1,3,1,1,4,1,1,1,1,1,1,1,1,1,1,0,1,1,Zinc Deficiency
+46,Female,177,113,active,8.2,1,3,vegetarian,4,2,1,3,0,0,1,0,1,1,1,0,1,1,1,1,0,0,1,Protein Deficiency
+24,Male,165,80,moderate,6.5,4,0,pescatarian,4,1,2,4,4,3,0,0,0,1,1,1,1,1,0,1,1,0,1,Magnesium Deficiency
+70,Male,159,104,moderate,7.5,1,3,vegetarian,3,4,4,2,4,4,2,0,0,0,1,1,1,0,0,1,1,1,1,Zinc Deficiency
+30,Prefer not to say,166,87,very_active,8.1,1,1,vegetarian,4,3,3,3,0,4,0,1,0,1,0,1,1,1,1,0,0,1,1,Vitamin B12 Deficiency
+69,Prefer not to say,155,101,active,6.1,2,0,pescatarian,3,3,3,1,2,0,1,1,1,1,0,1,1,1,1,0,1,0,1,Magnesium Deficiency
+27,Female,164,107,moderate,7.4,2,2,vegan,2,1,1,2,0,0,0,0,0,1,1,1,1,1,0,0,1,0,1,Protein Deficiency
+32,Male,172,75,light,8.6,4,0,vegetarian,1,3,1,3,0,3,3,1,0,0,1,1,0,0,0,1,0,1,1,Zinc Deficiency
+44,Male,163,74,very_active,6.8,3,0,pescatarian,1,0,3,3,3,0,2,1,1,1,1,1,1,0,1,1,1,1,1,Iron Deficiency
+27,Male,161,104,sedentary,5.9,2,1,pescatarian,1,0,4,0,2,2,4,1,0,1,0,0,0,1,1,1,0,0,1,Calcium Deficiency
+37,Female,190,107,moderate,7.7,1,0,omnivore,1,2,0,1,3,0,4,1,0,0,0,1,1,0,0,1,0,1,1,Vitamin A Deficiency
+80,Female,184,109,light,8.5,1,2,pescatarian,4,2,1,2,2,2,4,0,1,1,1,0,0,1,0,0,0,0,1,Protein Deficiency
+74,Prefer not to say,156,80,light,6.4,3,2,pescatarian,5,4,4,4,2,1,2,1,1,1,0,1,0,0,0,0,0,1,1,Vitamin B12 Deficiency
+43,Female,150,98,active,7.2,3,0,pescatarian,4,1,3,4,2,4,3,0,1,1,1,0,1,1,1,1,0,1,1,Vitamin D Deficiency
+68,Female,177,78,very_active,5.9,2,3,vegan,1,4,2,1,2,2,3,1,0,0,1,1,0,0,0,1,1,1,0,Zinc Deficiency
+62,Prefer not to say,160,91,light,5.9,2,1,vegan,5,4,3,0,2,0,3,1,1,1,1,1,1,1,1,1,0,1,1,Calcium Deficiency
+77,Prefer not to say,189,121,sedentary,5.7,4,1,vegan,4,1,1,3,0,3,3,0,0,1,0,0,1,0,1,0,0,1,1,Vitamin B12 Deficiency
+61,Female,170,73,sedentary,7.3,1,3,vegan,4,2,0,2,4,3,1,0,1,1,0,1,1,1,1,1,0,1,1,Calcium Deficiency
+51,Male,155,103,very_active,8.5,2,3,pescatarian,4,0,0,2,0,2,4,1,1,1,1,0,0,1,1,0,1,0,1,Protein Deficiency
+24,Prefer not to say,181,114,very_active,8.4,4,3,vegetarian,5,0,4,0,4,0,0,0,1,1,1,0,1,1,1,1,1,1,0,Calcium Deficiency
+54,Male,151,103,moderate,5.8,4,0,vegetarian,3,2,2,2,1,2,3,0,1,1,1,1,0,1,1,1,0,1,0,Zinc Deficiency
+57,Prefer not to say,164,90,moderate,5.9,1,3,omnivore,5,3,1,3,1,2,3,1,1,1,1,0,0,1,0,0,0,1,1,Vitamin B12 Deficiency
+43,Prefer not to say,154,76,sedentary,5.8,4,2,vegan,3,4,2,1,1,3,0,1,0,1,0,1,0,1,1,1,0,1,0,Calcium Deficiency
+33,Male,178,90,light,5.5,2,0,pescatarian,4,3,4,4,4,1,3,0,1,1,1,1,1,1,1,1,0,1,1,Vitamin D Deficiency
+79,Prefer not to say,158,86,light,8.3,2,0,pescatarian,5,2,0,4,1,2,4,0,1,1,1,1,1,1,1,0,1,1,1,Iron Deficiency
+75,Female,180,88,sedentary,7.9,1,0,omnivore,1,4,3,3,1,3,1,1,1,1,1,0,1,0,1,0,0,1,0,Vitamin D Deficiency
+57,Male,183,106,light,8.1,2,1,vegan,1,3,0,2,0,0,3,1,1,1,1,0,1,1,0,1,1,0,1,Protein Deficiency
+49,Male,161,84,active,6.2,3,0,omnivore,4,0,4,2,0,4,0,0,1,1,1,0,0,0,1,1,1,0,1,Vitamin D Deficiency
+79,Male,162,109,very_active,7.2,2,2,vegetarian,2,3,1,4,1,3,1,0,1,0,0,1,1,1,0,1,0,1,0,Vitamin A Deficiency
+30,Prefer not to say,159,106,moderate,8.8,4,3,vegetarian,5,0,2,1,0,1,1,1,0,1,1,1,0,1,0,0,1,1,0,Protein Deficiency
+38,Male,178,89,moderate,8.8,4,3,pescatarian,4,0,3,0,3,0,2,1,1,1,1,1,1,0,0,0,1,1,1,Iron Deficiency
+52,Male,153,83,active,6.2,1,3,vegan,5,2,0,1,0,3,1,0,1,1,1,1,1,0,0,1,1,1,1,Iron Deficiency
+75,Male,171,85,active,8.4,3,3,vegetarian,2,1,4,1,4,2,3,1,0,1,1,0,1,1,1,1,1,1,1,Iron Deficiency
+58,Prefer not to say,175,78,active,6.0,2,0,vegetarian,1,0,2,0,1,4,2,0,1,1,1,1,1,1,0,1,1,1,0,Vitamin A Deficiency
+30,Male,183,82,active,7.2,1,1,vegetarian,4,1,0,0,0,3,4,1,1,1,1,0,0,1,1,0,0,0,1,Protein Deficiency
+76,Male,172,103,light,8.7,1,0,pescatarian,2,2,4,0,1,1,1,1,1,1,1,0,0,1,1,0,1,0,0,Vitamin D Deficiency
+44,Prefer not to say,184,82,very_active,8.0,3,2,vegetarian,2,0,1,0,3,0,4,0,1,0,0,0,0,1,1,1,1,1,1,Calcium Deficiency
+61,Female,189,99,moderate,7.4,4,3,vegan,4,4,2,1,1,2,1,1,1,1,1,0,1,1,0,0,1,1,0,Magnesium Deficiency
+26,Prefer not to say,172,87,active,5.5,4,3,pescatarian,4,3,3,2,2,2,3,0,0,1,0,0,0,1,1,1,1,1,0,Magnesium Deficiency
+27,Female,156,99,active,6.6,4,0,vegetarian,2,2,4,1,3,4,3,0,1,0,0,1,0,1,0,1,0,1,1,Zinc Deficiency
+33,Prefer not to say,158,97,moderate,7.6,1,0,vegetarian,1,0,0,0,0,0,2,1,0,1,1,1,0,1,1,1,1,1,0,Protein Deficiency
+37,Male,185,91,light,6.1,1,3,vegan,5,4,3,2,0,0,1,1,0,1,0,1,1,1,1,0,0,1,1,Vitamin B12 Deficiency
+46,Male,181,115,moderate,8.6,1,2,vegetarian,2,1,4,2,1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,Protein Deficiency
+80,Prefer not to say,151,94,moderate,8.7,1,1,omnivore,3,3,3,2,0,2,3,0,1,1,1,0,1,1,1,0,1,1,1,Iron Deficiency
+62,Prefer not to say,167,95,moderate,6.8,4,3,vegan,2,2,2,4,1,3,2,1,0,1,0,1,0,0,0,1,0,1,0,Zinc Deficiency
+27,Prefer not to say,165,75,sedentary,5.5,1,0,vegetarian,2,4,3,2,0,4,0,0,0,1,1,0,0,0,1,1,0,0,0,Vitamin D Deficiency
+42,Female,190,117,light,7.2,2,3,vegan,4,2,4,0,3,1,4,0,0,0,0,1,0,1,1,1,0,0,1,Calcium Deficiency
+28,Female,190,121,moderate,7.6,3,1,vegetarian,3,2,1,4,0,2,2,0,0,0,0,1,1,0,1,1,1,1,0,Zinc Deficiency
+62,Prefer not to say,188,87,very_active,6.4,3,3,omnivore,4,1,2,2,3,2,4,0,0,0,0,1,1,1,1,1,1,1,1,Vitamin A Deficiency
+27,Male,174,101,sedentary,7.1,3,3,vegan,4,2,0,3,1,1,4,0,0,1,0,1,1,1,1,1,1,0,1,Magnesium Deficiency
+28,Female,185,98,light,6.2,4,3,pescatarian,2,3,0,2,0,0,2,1,1,1,1,1,0,1,1,0,1,0,1,Protein Deficiency
+61,Prefer not to say,177,116,sedentary,7.6,3,2,omnivore,2,2,4,3,0,0,3,1,1,1,0,1,0,1,1,1,1,1,1,Vitamin B12 Deficiency
+79,Female,190,120,light,8.0,2,1,vegan,5,3,0,2,4,0,3,0,1,0,1,1,1,0,1,1,0,1,0,Zinc Deficiency
+48,Male,164,110,sedentary,6.6,4,1,omnivore,3,3,2,4,4,1,1,0,1,1,0,1,0,1,1,0,1,1,1,Vitamin B12 Deficiency
+36,Male,151,89,sedentary,6.8,2,3,pescatarian,5,0,3,3,2,0,2,1,1,0,1,1,0,0,1,1,0,1,1,Vitamin A Deficiency
+41,Male,170,97,very_active,5.6,4,2,vegetarian,2,2,4,0,2,2,4,0,0,0,1,1,0,0,0,1,0,1,0,Zinc Deficiency
+39,Male,176,97,sedentary,7.2,1,3,pescatarian,2,4,0,1,3,1,0,1,0,1,0,0,0,0,1,0,0,1,1,Vitamin B12 Deficiency
+79,Male,182,100,moderate,6.9,4,0,omnivore,4,0,3,4,0,0,1,0,0,1,1,0,1,0,1,0,1,1,0,Iron Deficiency
+76,Prefer not to say,189,101,moderate,7.4,4,1,vegan,5,2,2,0,2,2,3,0,1,1,0,1,1,1,1,1,0,1,0,Calcium Deficiency
+30,Prefer not to say,169,85,very_active,8.4,3,3,vegetarian,2,3,1,1,4,0,2,0,0,0,1,1,1,1,1,1,1,1,1,Vitamin A Deficiency
+53,Prefer not to say,168,87,sedentary,7.7,1,0,vegetarian,1,2,0,2,1,3,4,0,0,1,1,0,0,1,1,0,1,1,0,Protein Deficiency
+67,Male,157,85,light,6.4,2,0,vegetarian,4,0,0,0,0,1,3,1,1,0,1,1,0,0,0,1,1,1,0,Vitamin A Deficiency
+45,Female,176,87,sedentary,7.5,1,0,omnivore,3,2,0,2,0,2,1,0,1,0,0,1,1,0,0,1,1,1,1,Vitamin A Deficiency
+70,Female,184,91,moderate,7.8,3,1,omnivore,3,2,0,4,3,2,3,1,1,0,1,1,1,1,0,1,0,1,1,Vitamin A Deficiency
+46,Prefer not to say,160,70,moderate,5.8,2,2,vegan,5,1,1,3,0,3,0,0,0,1,1,0,0,1,1,0,1,1,1,Magnesium Deficiency
+32,Prefer not to say,172,100,sedentary,6.3,4,1,vegan,1,4,0,3,0,0,2,0,1,1,0,0,0,0,0,0,1,1,1,Vitamin B12 Deficiency
+70,Prefer not to say,154,68,moderate,7.1,1,3,omnivore,4,0,3,2,2,3,2,0,1,1,1,1,1,0,1,1,1,1,1,Vitamin A Deficiency
+73,Female,184,87,active,7.9,3,3,vegetarian,4,0,2,0,3,2,4,0,0,0,0,1,1,1,0,1,0,1,1,Vitamin A Deficiency
+31,Prefer not to say,176,82,sedentary,7.9,1,0,vegetarian,5,1,3,2,4,3,4,0,1,1,1,0,1,1,1,0,1,1,1,Vitamin D Deficiency
+61,Male,154,76,active,5.7,1,3,vegan,4,0,2,1,1,2,4,1,0,1,0,0,0,1,0,0,1,1,1,Magnesium Deficiency
+19,Prefer not to say,183,103,very_active,5.9,4,0,vegetarian,4,4,3,0,0,0,2,1,1,1,0,1,0,0,0,1,0,1,1,Zinc Deficiency
+48,Male,161,105,active,5.9,1,1,vegan,2,1,0,3,0,2,0,0,0,1,0,1,0,1,0,1,0,1,1,Vitamin A Deficiency
+48,Male,156,76,active,7.4,1,1,vegan,5,1,0,3,3,0,4,0,0,1,1,0,1,1,0,1,1,1,1,Iron Deficiency
+30,Prefer not to say,173,100,active,6.1,2,1,pescatarian,5,4,3,1,1,4,4,1,1,1,1,0,1,1,0,0,1,1,1,Magnesium Deficiency
+35,Female,171,93,very_active,7.6,3,3,vegan,4,4,4,4,4,4,1,1,1,0,1,1,0,1,1,1,1,1,1,Zinc Deficiency
+54,Male,172,93,light,8.4,4,2,vegan,5,3,1,4,1,2,1,1,1,0,1,1,0,1,0,1,1,1,1,Zinc Deficiency
+43,Female,167,107,active,7.4,2,2,vegetarian,3,0,2,4,3,0,0,0,1,1,1,1,1,0,1,1,1,1,0,Vitamin A Deficiency
+45,Female,170,80,light,6.1,3,0,vegetarian,1,2,0,2,4,2,1,0,1,0,0,0,0,1,1,1,1,1,0,Calcium Deficiency
+32,Prefer not to say,188,119,moderate,8.7,3,1,vegan,1,3,3,2,1,1,3,0,0,0,0,1,1,0,0,1,1,1,0,Vitamin A Deficiency
+57,Male,161,82,moderate,5.9,2,2,vegetarian,5,4,3,3,1,1,0,0,1,1,1,1,1,1,0,1,0,1,1,Zinc Deficiency
+19,Female,182,119,active,8.4,2,2,vegan,1,3,2,1,3,1,1,1,1,1,1,1,1,0,1,1,0,1,0,Vitamin A Deficiency
+63,Male,174,111,moderate,6.8,1,3,pescatarian,4,3,0,1,2,2,1,1,1,1,1,0,0,1,1,1,1,1,0,Calcium Deficiency
+23,Prefer not to say,160,73,very_active,7.9,1,2,vegetarian,5,1,2,1,2,1,3,1,0,0,1,1,0,0,0,1,0,1,1,Vitamin A Deficiency
+78,Female,160,83,sedentary,8.3,2,0,vegetarian,1,2,1,4,0,3,4,1,0,1,0,0,0,1,0,1,0,1,1,Vitamin B12 Deficiency
+28,Male,180,88,light,4.8,3,2,pescatarian,2,3,1,0,1,1,4,0,0,1,0,0,1,1,1,1,1,1,1,Magnesium Deficiency
+66,Female,183,106,light,7.3,4,1,vegetarian,2,0,4,2,2,0,4,1,1,1,1,1,0,1,1,0,0,1,1,Vitamin B12 Deficiency
+46,Prefer not to say,158,85,active,4.9,1,1,pescatarian,3,3,3,3,3,2,1,1,0,1,0,0,0,1,1,1,1,1,1,Magnesium Deficiency
+74,Prefer not to say,177,81,very_active,6.5,4,0,pescatarian,1,1,1,1,2,4,1,0,0,0,1,1,0,0,1,1,1,1,1,Vitamin A Deficiency
+40,Prefer not to say,170,91,moderate,5.7,1,3,pescatarian,4,4,0,2,4,4,0,0,1,1,1,1,0,1,1,1,1,1,1,Calcium Deficiency
+20,Male,169,72,light,6.2,2,3,vegetarian,4,4,4,2,1,0,0,0,0,1,1,1,0,1,0,1,0,1,1,Zinc Deficiency
+72,Female,166,107,very_active,7.4,3,2,vegan,5,4,2,2,1,1,0,1,1,1,1,1,1,1,1,1,1,0,0,Calcium Deficiency
+72,Male,165,99,light,8.7,3,3,vegan,4,4,2,2,0,1,1,1,0,1,0,1,1,1,0,1,1,1,1,Zinc Deficiency
+37,Male,181,110,active,7.6,4,3,vegan,3,1,4,1,1,1,4,1,1,1,1,0,1,0,0,1,1,1,0,Iron Deficiency
+18,Female,161,70,light,6.5,3,2,vegetarian,1,1,2,2,0,0,4,0,0,1,0,0,1,1,0,1,1,1,1,Vitamin B12 Deficiency
+22,Female,188,99,light,7.8,1,3,vegan,3,0,3,2,0,3,3,1,1,1,1,1,0,1,1,0,0,1,1,Vitamin B12 Deficiency
+20,Male,153,101,sedentary,6.0,4,0,vegan,1,2,2,2,4,1,3,1,1,1,1,0,1,0,1,0,1,0,1,Vitamin D Deficiency
+21,Male,166,95,light,8.3,4,3,omnivore,4,1,2,3,0,4,1,0,0,1,1,0,1,1,0,0,0,0,1,Protein Deficiency
+76,Male,161,94,sedentary,8.2,3,2,vegan,3,0,0,3,4,1,1,0,1,1,1,1,1,0,1,1,1,1,1,Zinc Deficiency
+44,Prefer not to say,190,88,active,6.9,4,3,vegan,3,4,1,3,2,2,0,0,1,1,1,0,0,1,0,1,1,1,0,Magnesium Deficiency
+21,Male,167,105,very_active,8.8,1,0,vegetarian,4,4,1,4,4,2,0,0,1,1,1,0,0,1,1,1,0,1,0,Vitamin D Deficiency
+26,Prefer not to say,166,81,moderate,7.9,4,0,pescatarian,2,1,2,0,2,2,4,0,0,1,1,0,0,0,1,0,0,1,1,Vitamin D Deficiency
+50,Prefer not to say,179,110,sedentary,5.7,3,0,omnivore,1,2,1,3,1,4,2,0,0,1,0,0,1,1,0,1,1,0,1,Magnesium Deficiency
+68,Female,156,97,active,6.2,2,3,vegetarian,2,3,4,3,3,2,2,0,0,0,1,1,0,1,0,1,1,1,0,Zinc Deficiency
+23,Male,156,103,very_active,7.5,1,1,pescatarian,4,4,4,2,0,4,0,1,0,1,1,1,0,0,0,1,0,1,1,Vitamin B12 Deficiency
+35,Female,176,80,very_active,6.8,4,2,omnivore,4,0,0,0,2,1,0,0,0,1,0,0,1,1,1,1,0,0,0,Calcium Deficiency
+21,Female,169,107,very_active,8.7,1,0,omnivore,1,3,0,2,3,0,2,1,0,1,1,0,0,0,1,0,1,1,1,Vitamin D Deficiency
+34,Male,187,117,light,5.8,2,1,vegan,1,3,1,1,1,4,1,1,0,1,0,1,0,0,1,1,1,1,1,Zinc Deficiency
+43,Prefer not to say,176,113,moderate,6.4,1,3,omnivore,5,3,0,0,3,4,1,1,0,1,0,0,0,0,0,0,0,1,1,Vitamin B12 Deficiency
+79,Male,167,78,very_active,5.5,2,0,vegetarian,4,0,2,0,3,1,1,0,1,1,1,1,1,1,1,1,0,1,1,Calcium Deficiency
+73,Prefer not to say,165,101,active,8.8,4,0,omnivore,1,3,3,1,0,0,3,1,0,1,1,1,0,1,1,0,1,0,1,Vitamin D Deficiency
+55,Female,172,93,light,5.6,3,3,pescatarian,3,1,3,1,3,1,0,0,1,1,0,0,0,1,1,1,1,1,1,Magnesium Deficiency
+19,Male,186,88,light,7.1,3,1,vegan,4,4,0,1,0,2,4,1,1,1,1,0,0,1,1,1,1,1,0,Magnesium Deficiency
+60,Prefer not to say,186,118,moderate,5.8,4,1,vegan,3,0,1,2,3,1,4,1,1,0,1,1,0,0,0,1,1,1,0,Vitamin A Deficiency
+44,Prefer not to say,154,70,very_active,7.0,2,1,vegan,2,2,0,0,1,0,4,1,0,1,1,0,1,1,0,0,1,1,0,Iron Deficiency
+48,Prefer not to say,167,105,light,7.8,1,3,vegan,4,2,0,0,3,4,1,1,0,1,1,1,1,0,0,0,0,1,1,Vitamin B12 Deficiency
+70,Male,164,72,light,6.2,2,1,vegan,3,3,0,3,0,4,1,0,0,1,1,1,1,0,0,0,1,1,1,Vitamin B12 Deficiency
+41,Male,184,92,active,5.9,2,1,vegetarian,2,3,0,3,1,1,2,1,1,1,1,1,1,0,1,1,1,1,0,Iron Deficiency
+30,Female,168,96,very_active,7.1,1,0,vegan,1,1,4,0,2,3,3,0,0,1,1,0,0,1,0,0,0,1,0,Protein Deficiency
+34,Female,185,89,light,5.7,4,1,vegan,2,0,4,1,3,3,0,1,0,1,1,0,1,1,0,0,1,1,0,Iron Deficiency
+23,Female,160,108,very_active,5.8,2,3,vegetarian,4,3,1,0,4,0,1,1,1,1,0,1,1,1,0,1,0,1,1,Vitamin A Deficiency
+51,Male,159,78,moderate,5.8,1,2,pescatarian,4,0,4,3,3,0,0,0,0,1,0,1,1,1,0,1,1,0,1,Magnesium Deficiency
+54,Male,165,96,light,8.3,2,0,omnivore,1,2,2,1,4,3,0,0,1,1,1,0,0,1,1,1,0,0,0,Vitamin D Deficiency
+21,Female,153,71,active,6.4,1,0,omnivore,3,1,4,3,3,1,4,0,1,1,0,1,1,0,0,0,0,1,1,Vitamin B12 Deficiency
+51,Prefer not to say,169,98,moderate,4.6,2,3,vegan,3,4,3,1,0,2,2,0,1,1,1,1,1,1,1,1,1,0,0,Magnesium Deficiency
+68,Male,173,96,very_active,7.9,3,1,vegetarian,1,3,3,2,3,2,2,0,0,1,1,0,1,1,1,0,1,1,1,Iron Deficiency
+36,Prefer not to say,190,87,moderate,6.3,2,1,omnivore,2,4,2,2,2,0,3,0,0,0,0,0,1,1,1,1,0,0,0,Calcium Deficiency
+49,Male,158,91,moderate,9.0,1,0,vegetarian,1,0,4,4,3,2,3,0,1,1,1,0,0,0,1,0,0,1,1,Vitamin D Deficiency
+53,Male,188,116,sedentary,6.4,4,2,pescatarian,4,2,2,4,0,3,0,0,1,1,1,0,0,1,1,0,0,1,0,Protein Deficiency
+32,Male,175,109,active,6.7,1,1,pescatarian,2,1,1,1,2,4,4,0,0,1,1,1,1,1,1,0,0,1,0,Protein Deficiency
+26,Prefer not to say,184,107,sedentary,8.4,1,2,vegan,4,3,3,3,0,4,0,0,0,1,1,0,1,0,0,1,1,1,0,Iron Deficiency
+42,Male,179,82,moderate,8.8,2,0,vegan,2,2,2,0,0,3,4,0,1,0,1,1,1,1,1,1,1,0,0,Calcium Deficiency
+37,Prefer not to say,150,95,active,8.2,3,2,vegan,4,4,4,1,1,0,1,0,1,1,1,0,1,1,0,0,1,0,1,Protein Deficiency
+54,Male,151,91,moderate,7.5,2,3,pescatarian,5,4,3,2,2,4,4,1,0,1,1,1,1,1,0,1,0,1,0,Protein Deficiency
+54,Prefer not to say,162,80,light,5.9,2,2,vegan,4,3,4,2,0,3,4,0,1,0,1,0,1,1,1,1,0,0,1,Calcium Deficiency
+51,Prefer not to say,164,90,very_active,8.7,2,1,vegetarian,3,0,2,3,0,1,4,1,1,0,0,1,1,0,1,1,0,1,1,Zinc Deficiency
+58,Male,163,69,very_active,7.2,4,0,vegan,2,4,2,4,1,0,2,0,1,1,1,0,1,1,0,0,1,1,0,Iron Deficiency
+18,Prefer not to say,182,107,very_active,6.9,4,0,vegetarian,1,2,3,1,0,0,1,1,0,0,0,1,0,1,0,1,0,1,0,Vitamin A Deficiency
+44,Male,190,117,light,8.6,4,3,vegan,1,2,1,2,2,0,3,1,1,1,1,1,0,1,0,1,1,1,0,Zinc Deficiency
+53,Male,181,119,active,7.199999999999999,1,1,vegetarian,3,0,3,4,4,2,0,0,0,1,1,0,0,1,1,1,1,0,1,Magnesium Deficiency
+24,Female,184,86,active,5.5,2,0,vegetarian,5,1,0,3,0,1,3,0,1,1,1,1,1,1,0,0,0,1,0,Protein Deficiency
+37,Female,187,85,light,8.5,3,0,vegan,4,1,3,0,0,3,2,1,0,0,1,1,1,0,1,1,0,1,1,Vitamin A Deficiency
+60,Prefer not to say,160,79,sedentary,4.0,2,0,pescatarian,5,4,1,0,1,2,4,1,0,1,1,1,0,1,0,0,1,0,1,Magnesium Deficiency
+19,Female,164,106,active,8.9,1,3,vegetarian,4,0,3,3,0,3,3,0,1,0,0,1,0,1,0,1,0,1,0,Zinc Deficiency
+61,Male,155,90,moderate,5.6,3,3,vegetarian,3,3,4,1,0,4,1,0,0,1,1,1,0,1,0,1,1,1,1,Vitamin B12 Deficiency
+75,Male,171,76,very_active,6.4,2,3,omnivore,5,2,1,2,4,2,4,0,0,1,1,1,1,1,1,0,1,0,0,Magnesium Deficiency
+46,Female,180,91,very_active,8.2,2,0,pescatarian,3,3,0,4,0,3,3,1,1,1,1,1,1,0,1,0,1,1,1,Iron Deficiency
+43,Prefer not to say,161,108,light,5.3,3,0,omnivore,4,3,4,2,3,4,0,0,0,1,1,0,1,1,1,1,1,1,1,Magnesium Deficiency
+30,Male,172,113,moderate,6.1,2,1,omnivore,4,1,1,4,4,0,2,1,0,1,0,1,0,1,1,0,1,1,1,Vitamin B12 Deficiency
+43,Prefer not to say,164,84,moderate,7.4,3,0,vegan,5,0,4,3,0,2,0,1,1,1,1,0,1,1,1,1,0,0,0,Protein Deficiency
+58,Prefer not to say,157,98,very_active,5.8,1,3,vegetarian,2,0,1,4,2,4,1,1,0,0,1,1,1,1,0,1,1,1,0,Zinc Deficiency
+30,Male,163,80,moderate,7.7,2,3,pescatarian,5,0,0,3,3,2,0,0,1,0,0,1,0,0,1,1,1,1,0,Vitamin A Deficiency
+53,Male,188,91,active,5.5,3,1,vegan,5,3,3,2,3,1,1,1,1,1,0,1,1,1,1,1,1,1,0,Vitamin A Deficiency
+63,Female,182,101,moderate,7.4,3,3,omnivore,3,4,2,0,4,1,2,0,0,1,1,0,0,1,1,1,0,1,1,Calcium Deficiency
+55,Prefer not to say,164,74,light,6.0,1,2,omnivore,1,1,0,0,2,3,0,0,1,0,0,1,1,1,1,1,1,0,1,Calcium Deficiency
+45,Female,190,112,moderate,7.8,2,0,vegan,3,4,1,2,1,1,0,0,0,1,1,0,1,0,0,0,1,1,0,Iron Deficiency
+42,Prefer not to say,150,67,very_active,6.4,3,3,vegan,2,4,3,2,0,4,1,1,1,1,1,0,0,1,1,1,1,1,1,Protein Deficiency
+48,Male,174,84,very_active,8.8,3,1,vegetarian,5,3,3,4,1,0,3,0,0,1,0,1,0,0,1,0,0,1,1,Vitamin B12 Deficiency
+79,Male,170,84,light,6.0,2,3,vegan,1,2,1,4,0,2,1,0,0,0,1,1,0,0,1,1,1,1,0,Vitamin A Deficiency
+64,Prefer not to say,179,109,light,6.1,4,2,vegan,1,4,2,0,2,4,3,0,0,1,1,0,0,1,1,1,0,0,1,Calcium Deficiency
+60,Prefer not to say,179,111,active,8.0,2,3,omnivore,2,3,3,4,1,1,1,0,0,0,1,1,0,0,0,1,0,1,1,Vitamin A Deficiency
+51,Prefer not to say,182,116,active,6.7,2,2,omnivore,2,1,4,1,0,0,1,0,1,1,0,1,0,1,1,1,0,1,0,Calcium Deficiency
+73,Prefer not to say,186,87,sedentary,8.2,2,2,vegetarian,1,2,1,3,2,4,1,0,0,1,1,1,1,0,1,0,1,1,1,Iron Deficiency
+58,Male,159,74,light,6.1,4,3,pescatarian,2,0,0,2,0,0,0,1,1,0,0,0,0,1,1,1,0,1,1,Calcium Deficiency
+30,Prefer not to say,163,71,moderate,7.5,4,3,vegan,2,4,0,1,3,2,4,0,0,1,0,1,0,1,0,1,0,1,0,Zinc Deficiency
+27,Prefer not to say,168,96,light,5.6,2,2,vegetarian,4,0,0,1,4,4,2,0,1,0,0,1,1,0,0,1,0,1,1,Zinc Deficiency
+42,Female,158,79,sedentary,6.4,1,1,vegetarian,2,3,0,3,0,2,4,0,1,1,1,1,1,0,0,1,1,1,1,Iron Deficiency
+44,Male,158,74,moderate,7.4,1,2,omnivore,3,0,0,1,2,0,1,0,0,0,1,1,1,1,1,1,1,1,1,Vitamin A Deficiency
+55,Prefer not to say,172,97,moderate,5.5,2,1,omnivore,4,0,1,2,3,3,0,0,0,1,0,0,0,1,0,1,1,0,1,Magnesium Deficiency
+35,Male,181,89,active,7.3,1,0,vegan,4,0,1,4,0,0,2,0,1,0,0,1,1,1,0,1,0,1,0,Zinc Deficiency
+80,Male,168,95,very_active,8.8,4,2,vegan,4,1,0,1,0,0,4,1,0,1,1,1,1,1,1,1,1,1,0,Iron Deficiency
+39,Male,162,107,active,6.0,4,2,vegan,4,3,1,0,2,4,0,0,0,1,0,1,0,1,1,1,1,1,1,Zinc Deficiency
+66,Male,157,69,active,7.6,4,0,omnivore,1,0,1,4,1,4,4,0,1,0,1,1,0,1,0,1,1,1,1,Vitamin A Deficiency
+77,Female,188,116,active,7.7,1,1,pescatarian,5,3,0,3,1,4,4,1,0,1,1,0,0,1,1,1,0,1,1,Protein Deficiency
+33,Male,161,88,active,6.1,3,0,pescatarian,1,0,2,1,3,1,0,0,1,1,1,0,0,0,1,0,0,0,1,Vitamin D Deficiency
+72,Prefer not to say,155,80,moderate,7.9,4,1,vegetarian,1,3,0,4,4,4,2,0,0,1,1,1,0,0,0,1,1,1,1,Zinc Deficiency
+77,Male,184,92,sedentary,6.800000000000001,3,0,pescatarian,4,2,3,0,1,1,3,0,1,1,0,0,0,1,1,0,1,0,1,Magnesium Deficiency
+55,Prefer not to say,180,119,sedentary,4.9,3,1,vegetarian,3,0,4,3,0,2,3,0,1,1,0,1,1,1,1,1,1,0,1,Magnesium Deficiency
+29,Female,190,86,very_active,8.7,3,3,vegan,5,1,2,4,3,0,2,1,1,0,0,1,0,0,1,1,1,1,0,Zinc Deficiency
+70,Prefer not to say,176,93,very_active,7.4,1,1,omnivore,5,3,4,4,0,4,0,1,0,1,1,1,0,1,0,1,0,0,0,Protein Deficiency
+22,Male,157,103,light,6.8,2,1,pescatarian,1,1,1,3,1,0,2,0,0,1,1,1,0,1,1,0,0,1,1,Protein Deficiency
+49,Male,166,78,very_active,5.8,3,0,vegan,3,2,0,4,3,3,0,1,1,1,1,1,0,0,1,1,0,0,1,Vitamin D Deficiency
+46,Female,176,109,sedentary,8.3,3,0,pescatarian,4,2,4,3,4,4,4,0,1,1,1,1,1,0,1,1,1,1,0,Vitamin D Deficiency
+25,Prefer not to say,158,104,light,5.7,4,2,vegetarian,4,0,2,0,0,3,0,1,0,0,1,1,1,1,0,1,0,1,1,Zinc Deficiency
+56,Male,174,106,sedentary,5.7,3,1,omnivore,5,4,2,1,0,2,3,1,1,1,1,1,1,1,1,1,1,0,0,Protein Deficiency
+38,Female,173,106,active,6.7,1,0,omnivore,3,1,1,4,4,0,3,0,0,1,1,1,1,0,1,1,1,1,0,Vitamin D Deficiency
+43,Prefer not to say,171,112,very_active,6.7,1,0,pescatarian,2,1,0,1,1,2,1,1,1,1,1,1,1,0,1,0,1,0,0,Vitamin D Deficiency
+29,Female,156,70,moderate,8.7,3,3,vegetarian,1,4,0,0,3,4,4,1,1,1,0,0,0,0,1,1,0,1,1,Vitamin B12 Deficiency
+63,Female,166,81,active,5.8,1,0,vegetarian,2,4,2,1,3,2,1,1,1,1,1,1,1,0,1,1,0,1,0,Vitamin D Deficiency
+60,Prefer not to say,164,102,moderate,8.6,3,2,vegetarian,1,2,1,2,2,2,3,1,0,0,0,1,0,0,0,1,1,1,0,Vitamin A Deficiency
+46,Female,163,84,moderate,6.3,2,3,vegan,1,1,4,4,3,1,0,1,1,1,0,0,1,1,0,1,1,0,0,Magnesium Deficiency
+56,Male,170,107,very_active,8.4,3,1,omnivore,2,2,0,0,0,4,0,1,1,1,1,0,1,1,0,1,1,1,1,Protein Deficiency
+34,Female,153,98,light,8.4,3,0,pescatarian,5,3,0,3,4,0,0,1,0,0,0,1,1,1,1,1,0,1,1,Vitamin A Deficiency
+55,Prefer not to say,158,96,sedentary,6.5,4,0,omnivore,4,1,0,0,4,4,3,1,0,1,1,0,0,1,1,0,0,0,0,Vitamin D Deficiency
+59,Prefer not to say,185,112,sedentary,6.9,2,1,vegan,5,3,0,4,4,1,1,0,0,0,0,1,0,0,0,1,0,1,1,Vitamin A Deficiency
+45,Female,157,68,sedentary,7.3,4,3,vegetarian,1,4,0,2,1,2,3,0,1,1,0,1,1,0,0,0,1,1,1,Vitamin B12 Deficiency
+30,Female,169,98,very_active,6.6,1,0,vegetarian,2,0,3,3,0,0,2,1,1,1,1,0,1,1,0,1,1,1,1,Protein Deficiency
+23,Male,150,87,moderate,5.0,1,0,vegan,3,0,3,4,2,0,3,1,1,1,0,1,0,1,1,0,1,0,1,Magnesium Deficiency
+28,Female,188,112,sedentary,7.3,4,0,pescatarian,5,3,4,0,2,0,2,1,0,1,1,0,1,1,0,0,0,1,1,Vitamin B12 Deficiency
+45,Prefer not to say,172,103,very_active,7.5,2,3,vegetarian,3,0,3,0,4,2,1,0,1,1,1,1,0,1,1,1,1,1,0,Vitamin A Deficiency
+36,Female,188,94,sedentary,5.8,2,2,vegetarian,5,4,3,1,3,2,1,0,0,1,1,1,1,0,1,1,1,1,0,Zinc Deficiency
+41,Female,152,83,active,8.2,2,0,vegan,2,1,2,0,4,0,0,0,1,0,1,1,1,0,1,1,0,1,1,Vitamin A Deficiency
+29,Prefer not to say,160,103,very_active,6.6,3,0,vegan,1,3,4,4,1,1,2,1,0,0,0,1,0,1,1,1,1,1,0,Zinc Deficiency
+23,Male,186,105,sedentary,7.6,4,0,vegetarian,3,0,2,0,0,2,1,1,0,0,0,1,0,1,0,1,1,1,0,Vitamin A Deficiency
+34,Prefer not to say,155,97,very_active,8.2,3,2,vegan,2,4,4,1,3,4,4,0,1,1,0,1,1,1,1,1,0,0,1,Calcium Deficiency
+69,Female,184,86,light,7.199999999999999,1,0,omnivore,3,0,1,2,4,4,3,0,0,1,1,1,0,1,1,1,1,1,0,Magnesium Deficiency
+51,Male,175,93,very_active,7.0,4,3,vegan,5,4,1,2,1,4,4,0,1,1,1,0,1,1,1,0,1,1,1,Iron Deficiency
+46,Female,167,74,active,6.8,3,0,vegetarian,3,3,1,1,4,1,0,0,1,1,1,0,1,1,1,0,0,0,0,Vitamin D Deficiency
+47,Prefer not to say,174,81,very_active,9.0,1,1,vegetarian,3,3,3,0,1,1,0,1,1,0,1,1,0,0,0,1,0,1,1,Zinc Deficiency
+73,Male,150,72,active,8.2,1,0,omnivore,1,2,1,1,2,4,2,1,1,1,1,1,1,1,0,1,1,1,1,Iron Deficiency
+77,Female,187,105,sedentary,8.7,1,0,vegetarian,4,2,4,1,0,0,1,0,0,1,1,0,0,1,1,0,1,0,0,Protein Deficiency
+58,Prefer not to say,156,79,moderate,7.1,2,2,omnivore,2,2,4,2,1,0,2,1,0,1,0,1,1,1,0,1,1,0,0,Magnesium Deficiency
+63,Female,180,95,sedentary,8.2,2,3,omnivore,2,1,1,2,2,2,4,1,0,0,0,1,1,1,1,1,1,1,0,Calcium Deficiency
+28,Prefer not to say,172,74,sedentary,7.2,4,2,omnivore,2,3,1,2,0,3,4,1,0,1,1,0,1,0,1,1,1,1,0,Iron Deficiency
+54,Male,176,78,moderate,4.9,4,2,vegan,1,1,0,0,3,3,3,0,0,1,1,1,1,1,1,1,1,0,0,Magnesium Deficiency
+37,Male,175,78,light,8.8,2,3,vegan,1,1,3,0,2,4,1,0,1,1,1,0,0,1,1,1,0,1,0,Calcium Deficiency
+63,Prefer not to say,150,73,light,7.0,2,0,vegan,1,1,3,0,4,4,3,0,1,0,1,1,0,1,0,1,1,1,1,Vitamin A Deficiency
+62,Female,160,74,active,7.4,1,0,omnivore,2,3,4,4,1,0,4,1,0,1,0,1,1,1,0,0,0,1,1,Vitamin B12 Deficiency
+18,Male,161,103,light,7.7,2,1,vegan,2,0,2,0,1,2,3,1,0,1,1,0,1,1,0,0,1,1,0,Iron Deficiency
+58,Male,153,81,light,6.3,2,1,vegan,4,2,1,0,1,2,1,0,0,0,1,1,0,1,1,1,0,1,0,Zinc Deficiency
+77,Female,179,107,moderate,5.4,1,1,vegan,1,0,1,4,0,3,0,1,1,1,0,0,0,1,0,1,1,1,0,Magnesium Deficiency
+43,Male,159,103,sedentary,8.3,2,0,vegan,4,0,4,0,2,3,4,1,1,1,1,1,1,0,1,1,0,1,1,Zinc Deficiency
+37,Prefer not to say,168,88,moderate,7.8,4,0,pescatarian,2,2,4,1,1,4,3,1,0,1,1,0,1,0,1,0,1,0,1,Vitamin D Deficiency
+23,Female,159,83,light,8.3,2,2,omnivore,3,1,0,2,4,0,4,1,0,1,0,0,1,1,1,1,0,0,1,Calcium Deficiency
+74,Male,168,101,light,8.6,1,2,vegetarian,2,1,2,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,Zinc Deficiency
+43,Prefer not to say,167,111,moderate,8.8,3,1,pescatarian,3,4,3,2,3,3,4,1,0,1,1,1,1,0,0,1,1,1,0,Iron Deficiency
+54,Female,189,102,very_active,5.8,3,1,pescatarian,5,1,2,2,2,3,3,1,1,1,1,0,0,1,1,0,0,1,0,Protein Deficiency
+29,Female,157,84,sedentary,9.0,3,1,vegan,2,3,0,2,1,2,1,0,1,1,0,1,0,0,0,0,0,1,1,Vitamin B12 Deficiency
+27,Male,155,88,very_active,7.1,3,2,vegan,2,2,2,0,3,4,3,1,1,1,0,0,1,1,1,1,1,1,0,Calcium Deficiency
+75,Female,179,106,light,7.5,4,2,pescatarian,2,0,2,0,0,2,0,0,1,0,1,1,0,1,1,1,0,1,0,Vitamin A Deficiency
+72,Prefer not to say,161,76,sedentary,6.6,3,3,vegan,1,3,0,4,2,1,4,0,0,1,0,1,0,0,0,1,0,1,1,Zinc Deficiency
+51,Female,161,69,very_active,7.8,4,1,omnivore,2,2,4,0,1,1,1,0,0,1,0,0,0,1,1,1,1,0,1,Calcium Deficiency
+26,Male,177,104,sedentary,5.8,1,3,pescatarian,1,0,4,3,0,4,1,1,1,1,0,0,1,1,0,0,1,0,0,Magnesium Deficiency
+24,Female,185,95,very_active,7.9,2,0,pescatarian,4,2,4,2,1,3,1,1,1,1,1,0,0,1,0,0,0,0,0,Protein Deficiency
+34,Male,172,109,very_active,6.0,2,1,omnivore,4,0,3,1,2,2,1,1,0,1,1,1,0,1,0,0,1,1,1,Protein Deficiency
+24,Male,150,93,moderate,6.3,3,0,vegetarian,2,0,0,1,3,1,3,0,1,1,0,1,1,1,0,1,1,1,0,Zinc Deficiency
+34,Prefer not to say,154,75,sedentary,6.8,4,2,vegetarian,1,4,2,2,3,2,0,0,1,1,1,1,1,1,0,0,1,1,0,Iron Deficiency
+34,Male,177,87,sedentary,5.7,4,0,vegan,1,0,1,0,1,4,1,1,1,1,1,1,0,1,0,1,0,1,1,Vitamin A Deficiency
+32,Male,188,94,light,7.0,4,0,pescatarian,3,4,4,4,4,3,4,1,1,1,1,1,1,0,0,1,1,1,0,Iron Deficiency
+79,Prefer not to say,187,122,moderate,6.1,1,1,vegetarian,2,0,3,0,2,0,2,1,1,1,1,1,1,1,0,1,0,1,1,Vitamin A Deficiency
+43,Female,169,106,active,7.2,3,3,pescatarian,3,0,3,1,3,2,3,0,1,1,1,0,1,0,1,1,1,1,0,Iron Deficiency
+55,Prefer not to say,174,92,very_active,7.0,2,3,pescatarian,1,0,4,2,1,4,3,0,1,1,0,1,1,0,0,1,1,1,1,Vitamin B12 Deficiency
+47,Female,163,96,moderate,6.3,1,0,omnivore,5,4,4,4,2,4,3,1,1,1,1,0,1,1,1,1,0,1,1,Vitamin D Deficiency
+68,Female,189,90,active,7.5,2,1,omnivore,3,4,3,2,0,4,2,1,1,1,1,0,0,1,1,1,0,1,0,Protein Deficiency
+24,Male,160,74,sedentary,9.0,4,1,vegetarian,2,0,3,0,3,2,2,1,0,1,1,1,1,1,0,0,1,1,0,Iron Deficiency
+37,Female,186,109,moderate,5.3,1,1,vegan,5,0,0,1,2,0,1,0,0,1,1,1,1,1,0,1,1,1,0,Magnesium Deficiency
+80,Male,186,121,light,8.8,3,2,omnivore,2,2,2,1,3,1,0,0,0,1,0,0,1,1,1,1,0,0,0,Calcium Deficiency
+30,Female,179,96,light,6.4,2,0,vegetarian,3,1,3,4,3,4,3,0,0,1,1,1,1,0,1,0,1,1,1,Vitamin D Deficiency
+47,Female,162,71,moderate,6.2,3,0,vegan,2,4,2,0,1,1,4,1,1,1,1,0,1,1,1,1,0,0,0,Calcium Deficiency
+18,Male,151,71,moderate,6.9,1,1,vegetarian,1,1,0,1,1,2,3,1,1,0,0,1,1,1,0,1,1,1,1,Zinc Deficiency
+33,Prefer not to say,153,75,moderate,7.7,2,0,vegetarian,2,0,3,4,2,3,1,0,0,0,1,1,0,0,1,1,0,1,0,Vitamin A Deficiency
+63,Male,160,76,moderate,5.7,3,0,pescatarian,4,1,3,3,0,3,3,1,1,1,0,1,1,0,1,1,0,1,0,Vitamin A Deficiency
+58,Male,171,106,sedentary,6.1,3,0,omnivore,4,3,4,2,2,4,1,0,1,1,1,1,0,0,1,0,0,0,0,Vitamin D Deficiency
+51,Female,182,82,light,7.9,4,0,vegetarian,4,0,3,2,0,1,4,0,1,1,1,1,0,1,0,1,0,1,1,Vitamin B12 Deficiency
+75,Female,174,91,light,6.3,4,1,vegan,1,2,2,1,0,0,3,0,1,1,1,1,0,1,0,0,0,1,1,Protein Deficiency
+46,Male,169,104,very_active,7.2,3,0,vegetarian,4,0,1,0,2,4,3,1,0,1,0,1,1,1,0,1,1,1,0,Zinc Deficiency
+32,Female,161,96,active,7.2,2,1,omnivore,5,1,0,1,0,3,2,0,0,0,0,1,0,1,1,1,0,1,1,Calcium Deficiency
+20,Male,187,102,moderate,8.2,4,0,pescatarian,2,3,1,3,1,4,2,0,0,1,1,0,1,1,1,1,0,0,0,Vitamin D Deficiency
+32,Prefer not to say,184,83,sedentary,6.5,2,1,vegetarian,1,1,1,0,1,0,2,1,0,1,0,1,1,1,1,1,0,1,0,Zinc Deficiency
+53,Prefer not to say,153,88,moderate,9.0,2,0,vegetarian,4,1,4,2,3,3,4,1,0,1,1,1,1,1,1,1,0,1,0,Calcium Deficiency
+36,Prefer not to say,161,75,very_active,4.5,4,1,vegan,1,1,1,0,2,0,0,1,0,1,0,0,1,1,0,0,1,1,0,Magnesium Deficiency
+55,Prefer not to say,188,122,moderate,7.5,1,1,vegan,1,4,0,0,1,3,3,1,0,0,0,0,0,1,1,1,1,0,1,Calcium Deficiency
+73,Male,150,82,sedentary,6.6,2,2,vegan,5,1,4,0,1,4,1,1,0,1,0,1,1,1,0,1,1,1,1,Vitamin B12 Deficiency
+72,Prefer not to say,163,101,very_active,8.6,2,1,pescatarian,4,0,4,2,0,4,3,0,1,1,0,0,1,1,0,0,0,1,1,Vitamin B12 Deficiency
+30,Male,188,92,sedentary,7.9,2,2,vegan,4,4,0,2,3,2,0,1,1,1,1,0,0,1,1,1,0,0,1,Calcium Deficiency
+67,Male,189,91,active,7.6,4,0,pescatarian,5,0,2,4,3,4,4,0,1,1,1,0,0,0,1,1,1,1,1,Vitamin B12 Deficiency
+57,Female,186,88,light,6.6,2,2,vegan,3,1,0,4,2,3,0,1,1,0,0,1,1,1,0,1,1,1,0,Vitamin A Deficiency
+54,Prefer not to say,175,107,sedentary,6.0,4,2,pescatarian,3,4,2,4,4,2,3,1,0,1,1,0,1,1,0,1,1,1,0,Magnesium Deficiency
+64,Prefer not to say,184,115,sedentary,9.0,3,0,omnivore,3,2,0,4,0,4,3,0,1,1,1,0,0,1,0,1,0,1,1,Protein Deficiency
+53,Prefer not to say,153,65,very_active,6.1,3,2,vegetarian,2,0,4,4,4,4,1,0,1,1,1,0,1,1,0,1,1,1,1,Vitamin B12 Deficiency
+77,Female,173,75,sedentary,5.5,1,2,pescatarian,4,0,4,4,2,1,0,1,1,1,1,1,1,1,1,1,1,1,1,Iron Deficiency
+59,Male,183,110,light,7.0,1,0,vegetarian,2,3,2,0,0,1,2,1,1,1,0,0,1,1,1,1,1,1,1,Vitamin B12 Deficiency
+37,Male,174,84,light,5.9,3,3,pescatarian,2,2,3,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,Protein Deficiency
+52,Female,170,96,very_active,6.3,4,2,vegan,1,1,4,1,1,0,3,0,0,1,1,1,0,0,0,0,0,1,1,Vitamin B12 Deficiency
+60,Male,155,69,active,4.8,2,3,pescatarian,2,3,2,4,4,1,4,1,1,1,1,0,0,1,0,1,1,1,0,Magnesium Deficiency
+25,Prefer not to say,170,104,moderate,7.7,4,0,vegetarian,3,0,4,0,0,2,4,0,1,1,1,1,1,1,0,1,0,1,0,Protein Deficiency
+46,Prefer not to say,168,79,active,4.4,3,3,vegan,3,2,4,1,0,2,1,1,0,1,0,0,0,1,0,0,1,0,0,Magnesium Deficiency
+77,Male,182,110,very_active,7.4,2,0,vegan,2,3,4,3,1,0,2,1,0,1,0,1,0,0,1,1,1,1,0,Zinc Deficiency
+48,Prefer not to say,153,70,very_active,6.0,1,2,pescatarian,4,1,2,2,3,3,0,1,1,1,0,1,0,1,0,0,1,0,1,Magnesium Deficiency
+58,Female,166,92,sedentary,7.6,1,0,vegetarian,1,4,4,4,0,3,1,0,0,1,1,0,0,1,1,1,0,1,1,Protein Deficiency
+65,Prefer not to say,183,99,very_active,8.1,4,2,pescatarian,2,3,1,3,2,4,2,0,0,0,0,1,0,1,1,1,0,1,0,Vitamin A Deficiency
+75,Male,179,78,moderate,8.1,3,2,omnivore,1,1,0,3,3,1,4,1,0,0,0,1,0,0,1,1,0,1,0,Vitamin A Deficiency
+71,Prefer not to say,155,82,moderate,7.5,1,1,vegetarian,4,3,4,0,2,2,1,1,1,1,0,1,0,1,0,1,0,1,1,Vitamin B12 Deficiency
+61,Female,151,70,sedentary,7.5,1,0,vegan,5,1,4,3,1,1,2,1,0,1,1,0,1,1,0,0,1,1,1,Iron Deficiency
+74,Male,169,85,active,6.2,1,2,vegetarian,2,3,3,1,3,0,1,1,1,0,0,1,0,0,0,1,1,1,0,Zinc Deficiency
+46,Prefer not to say,165,75,moderate,7.0,4,1,pescatarian,5,1,2,2,0,0,3,1,0,1,0,0,0,1,1,0,1,0,0,Magnesium Deficiency
+67,Prefer not to say,174,101,sedentary,6.7,2,0,vegan,5,0,3,2,2,0,3,0,0,1,1,1,0,1,1,1,1,0,1,Vitamin D Deficiency
+20,Male,185,115,sedentary,4.5,2,0,omnivore,2,3,3,1,3,1,4,0,1,1,1,1,0,1,1,0,1,1,0,Magnesium Deficiency
+49,Female,166,109,sedentary,7.5,2,2,pescatarian,3,2,2,0,0,2,4,1,0,1,1,1,1,1,0,1,0,0,1,Protein Deficiency
+67,Prefer not to say,152,75,moderate,8.8,1,3,vegan,5,3,3,2,4,1,1,0,1,1,1,1,0,1,0,1,0,1,0,Zinc Deficiency
+50,Prefer not to say,176,77,light,7.4,4,1,omnivore,3,0,0,2,0,1,1,0,0,1,1,1,0,0,1,1,0,1,0,Vitamin A Deficiency
+62,Prefer not to say,167,77,very_active,6.3,3,2,vegan,5,0,0,4,2,4,2,0,0,1,1,1,0,1,0,1,1,1,1,Vitamin B12 Deficiency
+29,Female,155,96,moderate,8.3,2,2,vegetarian,3,1,1,3,0,0,4,0,0,1,1,1,1,0,1,0,0,1,1,Vitamin B12 Deficiency
+52,Female,178,87,sedentary,8.8,2,0,vegetarian,5,1,0,3,3,1,0,1,0,1,0,1,1,1,1,1,0,1,0,Vitamin A Deficiency
+33,Male,171,110,sedentary,5.6,4,1,pescatarian,1,1,0,3,0,1,0,0,0,1,1,1,0,1,1,0,0,0,0,Protein Deficiency
+38,Prefer not to say,167,97,sedentary,9.0,1,1,vegetarian,4,0,3,2,2,1,3,0,0,1,1,1,0,0,1,0,0,1,1,Vitamin B12 Deficiency
+39,Male,163,106,moderate,8.1,2,0,omnivore,3,3,3,1,1,4,0,0,0,1,1,1,0,1,0,1,1,0,1,Protein Deficiency
+64,Prefer not to say,151,71,moderate,8.8,3,2,vegetarian,4,0,1,0,0,4,0,1,0,0,1,1,1,1,1,1,1,1,0,Calcium Deficiency
+47,Female,153,64,very_active,5.8,3,3,omnivore,1,4,1,3,4,0,4,0,0,1,1,0,0,1,1,0,1,1,0,Magnesium Deficiency
+56,Prefer not to say,190,92,light,8.2,2,2,omnivore,5,3,2,1,0,4,1,0,0,1,1,1,1,1,1,1,0,0,0,Calcium Deficiency
+65,Prefer not to say,181,88,sedentary,6.8,3,0,vegan,2,0,0,0,0,4,4,1,0,1,1,1,0,0,1,0,0,0,1,Vitamin D Deficiency
+43,Male,151,100,sedentary,6.8,2,1,vegan,4,1,3,4,3,4,3,0,1,1,1,1,1,1,1,1,1,1,0,Iron Deficiency
+19,Prefer not to say,187,114,moderate,7.9,2,0,vegetarian,1,1,3,0,0,4,0,1,0,1,1,1,0,1,1,0,0,1,0,Vitamin D Deficiency
+41,Male,170,88,moderate,6.9,1,0,omnivore,4,4,4,4,2,2,4,1,1,1,1,0,0,0,1,0,1,0,0,Vitamin D Deficiency
+62,Prefer not to say,159,75,light,7.3,3,0,vegetarian,4,1,0,4,2,4,0,1,1,1,0,1,0,1,0,1,1,1,0,Zinc Deficiency
+19,Male,168,77,light,6.2,2,2,vegetarian,5,0,3,0,1,2,2,0,1,1,0,0,0,1,0,0,1,1,1,Magnesium Deficiency
+19,Male,155,73,very_active,6.3,2,3,vegetarian,1,0,1,0,1,4,3,0,1,0,0,0,1,1,1,1,1,1,1,Calcium Deficiency
+79,Prefer not to say,166,90,active,8.0,3,1,vegetarian,4,3,1,2,3,0,0,0,1,0,0,1,1,0,1,1,0,1,0,Zinc Deficiency
+23,Female,176,110,light,6.1,3,0,vegan,4,1,3,3,0,4,3,1,1,1,1,0,0,1,0,1,1,1,1,Protein Deficiency
+48,Female,155,75,very_active,4.2,2,2,vegetarian,1,3,0,4,2,4,4,1,1,1,0,0,1,1,0,1,1,1,1,Magnesium Deficiency
+53,Male,157,75,sedentary,5.2,4,2,omnivore,2,2,2,4,1,0,3,1,1,1,0,0,1,1,0,0,1,0,0,Magnesium Deficiency
+32,Female,164,91,very_active,8.3,2,0,omnivore,5,3,4,0,3,3,2,0,1,1,1,0,0,0,1,1,1,0,1,Vitamin D Deficiency
+69,Prefer not to say,161,83,sedentary,5.9,4,0,omnivore,5,4,3,0,1,3,1,0,1,1,1,0,0,0,1,0,1,0,0,Vitamin D Deficiency
+69,Female,152,63,light,6.5,4,0,vegan,1,3,0,4,2,4,3,0,0,1,1,1,1,1,0,1,1,1,1,Iron Deficiency
+58,Male,154,77,active,6.7,3,0,vegetarian,1,3,1,4,4,3,4,0,1,1,1,0,0,1,1,1,0,1,0,Vitamin D Deficiency
+67,Prefer not to say,180,88,light,8.6,4,2,pescatarian,4,0,4,1,3,2,1,0,1,1,1,0,1,1,0,1,1,1,0,Iron Deficiency
+28,Prefer not to say,166,89,light,8.3,2,0,pescatarian,2,1,0,3,4,0,3,1,1,1,1,1,1,0,1,1,1,0,1,Vitamin D Deficiency
+33,Prefer not to say,173,84,sedentary,6.6,1,0,omnivore,2,3,0,0,3,0,1,0,1,1,1,0,1,0,1,0,0,1,1,Vitamin D Deficiency
+32,Male,150,81,sedentary,8.1,1,0,omnivore,2,0,1,0,2,0,3,1,1,1,1,1,1,0,1,0,1,1,0,Iron Deficiency
+38,Male,157,83,active,7.0,2,3,vegetarian,1,2,3,1,4,2,2,0,0,0,1,1,1,0,0,1,1,1,0,Zinc Deficiency
+34,Male,174,115,sedentary,8.2,4,1,vegan,4,0,1,0,2,3,2,1,1,1,1,0,0,1,1,1,0,0,1,Calcium Deficiency
+21,Prefer not to say,179,85,moderate,6.8,3,3,vegan,4,0,1,0,2,2,2,0,0,1,1,1,0,1,1,1,0,1,1,Vitamin B12 Deficiency
+54,Male,171,90,active,7.9,4,1,pescatarian,2,4,4,0,0,3,3,1,1,0,0,1,1,1,1,1,0,0,1,Calcium Deficiency
+64,Prefer not to say,175,106,active,7.9,3,1,vegan,5,3,4,3,3,0,3,0,1,1,1,0,1,1,1,0,1,1,1,Iron Deficiency
+61,Prefer not to say,188,92,active,6.2,4,0,omnivore,5,3,3,2,0,2,1,1,1,1,1,1,1,1,1,1,1,0,1,Vitamin D Deficiency
+55,Prefer not to say,151,78,very_active,6.4,2,0,vegan,4,1,3,1,1,0,1,0,0,1,1,0,0,1,1,1,1,0,1,Vitamin D Deficiency
+45,Male,153,82,light,7.7,3,0,omnivore,3,4,3,4,4,1,0,1,0,1,1,0,0,0,1,0,0,1,0,Vitamin D Deficiency
+80,Female,161,93,moderate,5.7,1,0,pescatarian,5,0,0,3,3,0,1,0,1,1,1,0,1,1,0,1,1,0,0,Magnesium Deficiency
+71,Female,161,84,moderate,6.8,2,0,pescatarian,2,4,2,1,3,1,4,0,0,0,1,1,1,1,1,1,1,0,0,Calcium Deficiency
+26,Female,160,99,light,7.4,1,1,vegetarian,4,1,2,0,2,4,3,0,0,1,1,1,1,1,1,1,0,1,1,Calcium Deficiency
+55,Female,166,110,very_active,6.8,4,0,pescatarian,3,0,3,3,2,3,0,0,0,1,1,0,1,0,0,0,1,1,0,Iron Deficiency
+35,Female,184,117,sedentary,7.5,2,1,vegan,2,1,1,1,0,1,1,1,0,0,0,1,1,1,0,1,0,1,1,Zinc Deficiency
+32,Female,187,114,very_active,8.3,3,1,vegan,2,1,1,2,0,3,1,1,0,1,1,1,1,0,0,1,1,1,0,Iron Deficiency
+46,Female,188,108,moderate,8.7,2,0,vegetarian,2,0,2,3,1,0,3,1,1,1,1,1,0,0,1,1,1,1,0,Vitamin A Deficiency
+39,Prefer not to say,156,102,light,6.1,4,0,vegan,1,2,1,1,3,1,3,1,1,1,0,1,1,1,0,1,0,1,0,Vitamin A Deficiency
+69,Male,151,63,very_active,7.6,3,2,vegan,3,0,1,0,0,0,2,0,1,1,0,1,0,1,1,1,0,0,1,Calcium Deficiency
+60,Male,183,108,active,8.7,4,1,omnivore,4,3,0,2,2,1,1,0,0,1,1,1,0,0,1,1,1,1,1,Vitamin A Deficiency
+58,Female,186,94,light,7.1,2,3,omnivore,1,2,4,0,1,2,3,1,1,1,0,1,1,1,0,1,1,1,0,Magnesium Deficiency
+68,Male,151,95,moderate,6.9,2,1,omnivore,3,0,1,2,0,4,3,0,0,0,0,1,0,0,0,1,1,1,1,Vitamin A Deficiency
+29,Prefer not to say,176,88,very_active,8.2,2,0,vegetarian,2,1,1,2,0,2,4,0,0,1,1,1,0,1,0,0,1,1,0,Protein Deficiency
+76,Female,153,101,moderate,7.0,2,0,pescatarian,3,0,0,0,4,0,0,0,0,0,1,0,0,1,1,1,1,0,0,Calcium Deficiency
+42,Male,152,89,sedentary,8.8,2,3,pescatarian,1,1,2,2,3,0,3,0,1,1,0,1,1,0,1,1,0,1,0,Vitamin A Deficiency
+29,Male,167,98,sedentary,7.1,4,0,vegan,1,1,1,3,0,0,4,1,1,1,1,1,0,0,1,1,1,1,1,Vitamin D Deficiency
+76,Prefer not to say,162,98,light,7.1,4,2,pescatarian,4,0,2,1,2,4,2,0,0,1,1,1,1,1,1,1,1,1,0,Vitamin A Deficiency
+57,Prefer not to say,186,94,light,6.5,2,0,vegan,3,4,1,3,1,2,2,0,1,1,1,1,1,1,1,0,1,1,1,Iron Deficiency
+28,Female,168,106,moderate,8.1,4,0,pescatarian,5,4,0,2,3,1,1,1,1,1,1,0,1,0,1,1,1,1,0,Vitamin D Deficiency
+43,Prefer not to say,167,86,moderate,6.699999999999999,1,0,vegan,4,4,0,2,3,0,2,1,1,1,1,0,1,1,1,0,1,0,1,Magnesium Deficiency
+23,Prefer not to say,178,99,active,6.4,4,3,vegan,4,1,3,4,0,2,2,0,1,1,1,0,1,1,0,0,1,1,1,Iron Deficiency
+62,Female,185,105,sedentary,6.5,2,0,pescatarian,4,0,2,0,1,1,3,1,1,1,1,0,1,1,1,0,0,1,1,Vitamin D Deficiency
+53,Male,161,79,active,5.4,4,2,vegetarian,5,0,4,3,4,4,3,1,0,1,0,1,1,1,1,0,1,0,1,Magnesium Deficiency
+19,Prefer not to say,170,113,moderate,8.5,3,1,vegan,1,2,0,2,4,3,0,1,1,0,1,1,0,0,0,1,1,1,0,Vitamin A Deficiency
+30,Prefer not to say,187,93,very_active,8.4,1,1,pescatarian,1,4,1,1,2,1,1,1,0,1,0,1,1,1,1,1,1,0,0,Calcium Deficiency
+63,Prefer not to say,187,116,light,8.9,1,1,omnivore,3,4,0,0,2,2,4,1,1,1,1,0,0,1,1,0,0,1,1,Vitamin B12 Deficiency
+79,Female,164,105,very_active,8.1,3,0,vegetarian,2,0,3,4,0,3,3,0,1,1,1,0,0,1,1,0,1,1,0,Vitamin D Deficiency
+39,Male,162,97,sedentary,5.9,1,1,pescatarian,3,0,3,0,1,0,4,0,0,1,1,1,1,0,1,0,1,1,1,Iron Deficiency
+60,Male,179,87,very_active,7.3,3,1,pescatarian,3,0,0,1,4,0,3,0,1,0,0,1,1,1,1,1,0,0,0,Calcium Deficiency
+57,Male,179,81,light,9.0,4,1,omnivore,3,2,1,0,4,3,1,1,1,1,0,0,0,1,1,1,1,0,1,Calcium Deficiency
+44,Prefer not to say,151,100,sedentary,8.8,2,1,pescatarian,3,1,0,1,4,2,4,1,1,1,0,1,1,0,0,1,0,1,1,Vitamin B12 Deficiency
+72,Prefer not to say,169,74,moderate,6.7,4,2,vegetarian,5,3,2,0,0,1,3,1,0,0,1,1,1,1,1,1,1,1,0,Calcium Deficiency
+79,Male,164,97,sedentary,5.3,4,3,omnivore,5,0,1,2,4,2,4,1,0,1,0,1,0,1,0,0,1,0,0,Magnesium Deficiency
+44,Female,154,93,very_active,7.5,2,1,omnivore,4,4,4,4,0,4,4,0,0,1,1,1,1,1,1,0,1,1,0,Protein Deficiency
+25,Male,166,104,light,5.7,3,1,vegetarian,3,1,4,4,1,4,0,0,0,1,0,0,0,0,1,1,0,1,1,Vitamin B12 Deficiency
+71,Prefer not to say,154,83,light,8.5,3,0,vegan,3,0,0,1,3,4,3,1,0,1,1,0,1,1,1,1,1,1,1,Iron Deficiency
+39,Prefer not to say,159,70,very_active,6.1,3,1,vegetarian,5,3,3,3,4,0,4,1,1,1,1,1,1,0,0,0,1,1,0,Iron Deficiency
+46,Prefer not to say,176,102,sedentary,8.8,4,2,pescatarian,2,2,0,2,1,2,3,1,0,1,1,0,1,0,1,1,1,1,0,Iron Deficiency
+49,Female,181,91,light,5.8,3,0,vegan,4,0,4,1,0,1,2,0,0,1,1,0,1,1,0,1,0,1,1,Protein Deficiency
+72,Female,168,107,very_active,5.5,3,3,pescatarian,1,3,4,1,1,1,2,0,0,1,1,1,0,1,1,1,1,0,1,Calcium Deficiency
+79,Prefer not to say,160,102,very_active,6.7,3,0,pescatarian,2,2,0,4,0,4,2,0,1,1,1,0,1,1,1,1,1,1,0,Vitamin D Deficiency
+76,Female,153,95,active,5.5,3,0,vegetarian,1,2,2,2,0,4,2,0,0,0,0,1,0,0,1,1,0,1,0,Zinc Deficiency
+61,Female,190,85,active,7.4,1,1,pescatarian,3,1,4,2,0,3,2,1,0,1,1,1,1,1,0,0,0,1,1,Protein Deficiency
+72,Male,182,112,sedentary,8.2,4,0,vegetarian,5,4,4,3,0,4,1,0,0,1,1,0,0,0,1,0,1,1,0,Vitamin D Deficiency
+39,Prefer not to say,167,106,moderate,7.5,3,1,vegetarian,2,1,0,0,4,3,0,1,1,0,0,1,1,0,1,1,1,1,1,Zinc Deficiency
+36,Female,153,98,light,8.7,2,0,pescatarian,1,2,3,0,4,4,2,0,1,1,1,1,1,0,1,0,1,1,1,Iron Deficiency
+41,Male,150,70,active,5.8,3,0,vegan,3,3,4,3,0,1,3,1,0,1,0,1,0,0,1,1,0,1,0,Zinc Deficiency
+26,Prefer not to say,183,85,active,6.4,1,0,vegetarian,2,3,0,4,0,1,0,0,0,0,1,1,0,1,1,1,0,1,1,Vitamin A Deficiency
+62,Prefer not to say,173,89,sedentary,7.5,2,3,vegan,1,4,4,3,0,1,3,1,1,1,1,1,1,0,0,1,1,1,1,Zinc Deficiency
+50,Male,157,101,sedentary,7.7,1,3,omnivore,3,4,1,2,2,2,3,1,0,1,1,0,1,1,1,0,1,1,1,Iron Deficiency
+33,Female,156,91,light,6.6,4,0,pescatarian,1,1,2,1,3,3,0,0,0,1,0,1,1,0,0,1,0,1,0,Vitamin A Deficiency
+32,Prefer not to say,190,89,active,5.7,1,2,pescatarian,1,2,4,3,4,0,2,0,0,1,1,0,0,1,1,1,1,1,0,Magnesium Deficiency
+79,Female,173,88,sedentary,7.9,3,3,vegetarian,3,2,0,4,0,4,4,1,1,1,1,1,1,1,1,1,0,1,1,Vitamin A Deficiency
+34,Prefer not to say,185,110,active,7.4,1,2,pescatarian,1,1,1,1,3,0,4,1,0,0,0,0,0,1,1,1,1,0,0,Calcium Deficiency
+72,Male,188,113,light,8.3,2,1,pescatarian,3,2,0,0,4,1,2,0,0,1,1,1,0,1,1,1,1,0,0,Calcium Deficiency
+64,Prefer not to say,171,83,sedentary,6.0,2,0,vegan,3,0,0,3,4,1,1,0,1,1,0,1,1,1,0,1,0,1,1,Zinc Deficiency
+39,Female,171,82,active,5.7,4,2,pescatarian,5,3,3,0,1,4,1,0,0,0,1,1,0,0,0,1,1,1,0,Vitamin A Deficiency
+46,Female,179,91,light,8.8,4,0,pescatarian,4,2,3,0,3,0,1,1,0,1,1,0,1,1,0,1,1,1,0,Iron Deficiency
+58,Female,169,75,light,8.6,3,0,pescatarian,4,2,4,1,1,3,3,0,1,1,1,0,0,1,0,1,0,1,1,Protein Deficiency
+78,Female,154,82,very_active,5.6,3,3,vegan,1,4,1,4,4,3,4,1,0,1,1,0,1,1,0,1,1,0,1,Magnesium Deficiency
+36,Male,158,74,light,8.9,3,3,vegetarian,2,0,1,4,4,4,0,0,1,1,1,0,1,0,0,0,0,1,1,Vitamin B12 Deficiency
+26,Male,187,115,moderate,8.8,3,0,vegan,3,3,3,4,3,0,4,0,0,1,1,1,0,1,1,0,1,0,1,Vitamin D Deficiency
+64,Male,166,107,moderate,5.4,4,2,pescatarian,1,2,4,3,3,4,2,1,0,1,0,1,0,1,1,0,1,0,0,Magnesium Deficiency
+23,Female,175,84,sedentary,5.8,3,2,omnivore,4,4,3,2,2,3,4,1,1,1,1,1,1,0,0,1,1,1,1,Iron Deficiency
+18,Male,174,108,active,6.7,4,1,omnivore,1,2,0,1,3,2,2,1,0,0,0,1,1,1,1,1,1,0,0,Calcium Deficiency
+30,Prefer not to say,176,110,active,5.6,2,2,pescatarian,1,0,3,0,1,3,1,0,1,1,1,0,1,0,0,0,1,1,0,Iron Deficiency
+80,Prefer not to say,167,75,light,6.4,1,3,vegetarian,5,3,4,3,4,3,1,1,1,1,1,0,1,1,1,1,1,1,1,Iron Deficiency
+47,Male,172,98,active,6.5,1,2,pescatarian,2,4,2,0,2,4,4,0,0,1,0,0,1,1,0,0,0,1,1,Vitamin B12 Deficiency
+39,Prefer not to say,167,110,sedentary,7.1,3,1,vegetarian,2,0,4,3,3,3,2,1,1,1,1,0,1,0,1,1,0,1,1,Vitamin B12 Deficiency
+71,Prefer not to say,170,106,active,6.4,3,0,pescatarian,2,1,1,1,3,0,2,1,1,1,1,1,1,1,0,0,1,0,0,Magnesium Deficiency
+43,Male,187,95,sedentary,6.8,1,3,vegan,3,1,3,2,1,4,2,1,0,1,1,0,1,1,0,0,1,1,1,Iron Deficiency
+80,Male,160,82,active,7.9,1,0,pescatarian,3,2,4,3,0,4,2,1,1,1,1,0,1,1,1,1,1,1,0,Iron Deficiency
+71,Female,163,98,very_active,4.2,1,2,pescatarian,5,0,4,4,2,2,4,1,0,1,0,1,1,1,0,0,1,0,1,Magnesium Deficiency
+23,Male,165,107,active,7.9,2,0,vegetarian,3,0,4,4,0,1,4,1,0,1,0,1,0,1,1,0,0,1,1,Vitamin B12 Deficiency
+32,Female,159,104,very_active,6.0,2,1,omnivore,5,3,2,4,3,0,1,1,0,1,1,1,1,1,0,0,1,1,1,Iron Deficiency
+69,Female,178,92,sedentary,8.2,2,0,omnivore,3,2,0,2,3,0,2,0,0,1,1,1,1,1,1,1,1,0,0,Vitamin D Deficiency
+37,Male,169,102,sedentary,7.8,1,1,vegetarian,3,0,1,3,4,3,0,1,1,0,0,1,1,1,0,1,0,1,1,Zinc Deficiency
+50,Female,166,97,active,7.5,3,0,vegan,4,3,2,0,0,3,1,0,1,1,0,1,0,0,1,1,1,1,1,Vitamin B12 Deficiency
+60,Female,164,76,very_active,5.4,2,0,vegan,5,0,2,4,2,2,1,0,0,1,1,0,1,1,0,1,1,0,1,Magnesium Deficiency
+19,Female,163,88,moderate,8.3,4,0,pescatarian,2,0,2,4,2,4,2,0,1,1,1,1,0,1,1,1,0,0,0,Vitamin D Deficiency
+50,Prefer not to say,156,90,very_active,7.4,3,0,vegan,3,2,3,3,0,4,2,0,1,1,1,0,0,0,1,1,0,1,1,Vitamin B12 Deficiency
+45,Prefer not to say,172,75,very_active,8.0,4,1,vegetarian,5,1,3,3,3,3,0,1,1,1,1,0,1,0,1,1,1,1,0,Iron Deficiency
+26,Male,158,80,moderate,7.6,1,0,vegan,4,3,4,1,1,3,2,0,0,1,1,0,1,1,1,1,1,0,1,Protein Deficiency
+19,Prefer not to say,160,81,light,8.2,3,0,vegan,3,3,2,3,2,1,3,0,0,1,0,1,0,1,0,1,1,1,1,Zinc Deficiency
+58,Male,181,107,active,8.5,3,0,omnivore,5,0,0,0,4,2,0,0,1,1,0,0,1,1,1,1,1,0,0,Calcium Deficiency
+54,Male,169,102,light,8.8,1,2,omnivore,3,3,0,2,3,2,4,0,0,1,1,0,1,1,1,1,1,1,0,Iron Deficiency
+36,Male,187,102,moderate,6.4,4,3,pescatarian,1,4,1,0,2,2,4,0,0,1,1,0,0,1,0,0,1,0,0,Protein Deficiency
+32,Female,180,113,active,6.1,1,0,pescatarian,5,0,4,1,0,0,4,1,1,1,1,0,1,1,1,1,0,0,1,Calcium Deficiency
+33,Prefer not to say,154,87,moderate,6.1,2,0,pescatarian,1,0,1,1,0,1,4,1,1,1,1,1,1,0,1,0,1,1,0,Iron Deficiency
+43,Female,180,81,sedentary,6.6,3,2,vegan,1,0,3,3,0,1,4,0,0,1,1,1,1,0,1,0,1,1,0,Iron Deficiency
+41,Female,158,67,sedentary,8.9,1,0,vegetarian,2,2,4,2,1,1,4,0,0,0,0,1,0,1,0,1,0,1,1,Zinc Deficiency
+61,Female,171,82,light,6.6,4,2,omnivore,5,3,3,0,0,2,4,1,1,1,1,0,0,1,0,1,1,1,0,Protein Deficiency
+60,Prefer not to say,185,121,moderate,6.1,4,0,omnivore,4,0,2,1,3,3,2,1,0,1,1,1,0,1,1,0,1,1,1,Vitamin D Deficiency
+35,Female,173,89,light,6.9,3,0,omnivore,4,2,3,3,2,1,2,0,1,1,1,0,0,1,1,1,1,0,1,Vitamin D Deficiency
+39,Female,155,75,active,8.5,4,0,vegan,3,2,1,2,3,4,2,1,0,1,1,0,1,0,1,1,0,0,1,Vitamin D Deficiency
+40,Male,182,85,sedentary,6.9,2,3,vegetarian,1,1,0,3,0,3,1,1,0,1,1,0,0,1,1,1,0,0,1,Protein Deficiency
+54,Male,157,74,sedentary,8.9,4,1,omnivore,4,3,1,0,2,1,4,0,1,1,1,1,0,1,1,1,0,1,0,Calcium Deficiency
+43,Prefer not to say,166,103,sedentary,9.0,1,1,pescatarian,4,2,4,3,0,4,3,1,0,1,0,0,1,0,0,0,0,1,1,Vitamin B12 Deficiency
+40,Prefer not to say,151,70,active,6.699999999999999,2,2,vegetarian,1,1,1,1,2,2,1,1,1,1,0,1,0,1,0,1,1,0,0,Magnesium Deficiency
+49,Prefer not to say,163,71,sedentary,9.0,1,0,pescatarian,1,2,4,4,0,0,0,1,0,1,1,1,1,1,1,0,0,0,0,Protein Deficiency
+27,Male,162,85,very_active,8.6,3,0,omnivore,2,0,1,2,1,0,3,0,1,1,1,0,0,1,1,0,1,1,0,Vitamin D Deficiency
+68,Female,157,79,light,6.699999999999999,1,2,vegetarian,2,2,3,0,1,4,4,0,1,1,0,0,1,1,1,0,1,0,0,Magnesium Deficiency
+48,Prefer not to say,173,106,active,6.5,4,1,vegetarian,2,4,0,0,3,2,4,0,1,0,1,0,0,1,1,1,1,0,0,Calcium Deficiency
+23,Female,163,90,sedentary,6.9,4,1,pescatarian,1,3,4,2,0,2,1,1,0,1,1,0,0,1,1,1,1,0,1,Protein Deficiency
+51,Prefer not to say,172,101,active,6.1,2,0,vegetarian,3,0,4,2,3,3,2,1,0,1,1,1,0,1,1,0,1,0,1,Magnesium Deficiency
+26,Prefer not to say,173,100,moderate,5.6,4,0,pescatarian,1,0,0,2,2,0,1,0,1,1,1,1,1,1,0,0,1,1,1,Iron Deficiency
+61,Female,156,96,light,7.4,1,3,pescatarian,2,1,4,0,0,2,1,0,0,1,0,0,0,0,1,0,1,1,1,Vitamin B12 Deficiency
+51,Male,172,112,very_active,7.6,1,0,omnivore,1,0,4,2,3,4,0,0,1,1,0,0,1,0,1,0,1,1,1,Vitamin B12 Deficiency
+67,Prefer not to say,183,117,light,8.7,1,0,omnivore,1,2,3,4,0,4,3,0,0,1,1,0,0,1,1,1,1,0,1,Vitamin D Deficiency
+57,Female,158,98,sedentary,8.8,3,2,pescatarian,5,3,3,2,1,4,0,0,0,1,0,1,0,1,1,0,0,1,1,Vitamin B12 Deficiency
+24,Male,189,111,moderate,8.8,2,3,vegetarian,3,2,4,2,2,3,2,1,0,1,1,0,1,1,0,1,1,1,1,Iron Deficiency
+42,Male,153,88,moderate,7.0,2,1,pescatarian,3,2,3,0,0,3,2,0,1,1,1,0,1,0,1,0,1,1,0,Iron Deficiency
+50,Female,162,99,active,7.7,2,3,omnivore,3,1,2,3,1,2,0,1,0,0,0,1,0,0,1,1,0,1,0,Vitamin A Deficiency
+63,Male,169,79,moderate,6.7,4,0,omnivore,5,2,2,1,2,4,0,1,0,1,1,0,0,1,1,1,1,0,0,Calcium Deficiency
+32,Prefer not to say,159,106,moderate,7.9,3,2,vegan,2,0,1,4,1,4,3,0,0,1,0,1,1,1,0,1,1,1,0,Vitamin A Deficiency
+36,Male,188,91,light,5.6,1,3,pescatarian,5,1,0,0,1,4,1,1,1,0,1,0,1,1,1,1,0,0,0,Calcium Deficiency
+55,Male,182,82,moderate,7.4,3,0,vegan,2,0,3,0,3,0,0,0,0,1,1,0,1,1,0,0,0,1,1,Vitamin B12 Deficiency
+63,Prefer not to say,171,101,sedentary,5.3,2,2,pescatarian,3,3,0,4,2,2,4,1,0,1,0,0,0,1,1,0,1,0,0,Magnesium Deficiency
+59,Prefer not to say,179,107,very_active,8.2,3,2,vegan,3,3,2,1,3,0,0,1,1,0,0,1,1,1,1,1,1,1,0,Zinc Deficiency
+60,Female,176,80,light,5.6,2,0,omnivore,4,4,0,1,0,4,0,0,0,0,0,0,1,1,1,1,1,1,1,Calcium Deficiency
+39,Male,158,75,light,7.9,1,2,vegan,1,1,3,2,2,4,2,1,0,1,0,0,1,1,1,1,0,0,0,Calcium Deficiency
+47,Female,165,106,very_active,7.5,2,0,vegetarian,2,1,2,3,2,4,4,1,1,1,1,1,1,0,1,0,1,1,1,Vitamin D Deficiency
+74,Female,163,102,light,5.6,1,2,vegetarian,4,2,1,1,3,2,1,1,1,0,1,0,0,1,1,1,1,1,0,Calcium Deficiency
+49,Female,175,96,active,7.6,4,2,vegetarian,5,2,4,3,1,1,2,1,1,0,0,1,1,0,1,1,1,1,1,Zinc Deficiency
+52,Female,157,75,sedentary,8.5,2,3,pescatarian,4,1,4,1,2,0,4,1,0,1,1,0,0,0,0,1,1,1,1,Vitamin B12 Deficiency
+27,Male,168,103,active,7.4,1,2,omnivore,4,4,3,0,2,0,4,1,0,1,0,0,0,1,1,1,1,0,0,Calcium Deficiency
+46,Prefer not to say,159,70,very_active,7.9,3,2,vegetarian,4,3,3,3,0,3,1,1,0,1,1,0,0,1,0,0,0,0,0,Protein Deficiency
+50,Female,158,90,moderate,8.2,2,1,vegetarian,4,3,4,3,0,4,1,1,1,0,0,1,0,1,1,1,1,1,0,Zinc Deficiency
+35,Prefer not to say,153,71,light,6.0,3,0,vegan,3,0,0,0,0,2,2,1,0,1,1,0,0,1,0,1,1,0,0,Protein Deficiency
+21,Female,165,74,moderate,5.4,3,0,vegan,3,1,4,0,2,4,1,1,1,1,1,1,0,1,0,0,1,1,1,Magnesium Deficiency
+36,Female,157,97,active,7.4,1,0,vegetarian,2,2,0,3,4,4,4,0,1,0,1,1,0,1,1,1,1,1,0,Vitamin A Deficiency
+70,Female,178,99,very_active,8.1,2,1,vegan,4,0,3,0,2,0,2,0,1,0,1,1,0,1,1,1,1,0,1,Calcium Deficiency
+41,Male,165,107,very_active,8.2,2,2,vegan,4,3,1,0,3,3,2,0,0,1,1,1,1,1,0,1,0,1,0,Zinc Deficiency
+28,Female,161,98,active,7.0,2,2,omnivore,1,1,0,1,2,1,4,1,1,1,0,1,0,1,0,1,1,1,0,Vitamin A Deficiency
+66,Male,185,91,active,8.3,4,3,vegetarian,1,4,2,1,2,1,3,1,0,1,0,0,1,0,0,0,0,1,1,Vitamin B12 Deficiency
+30,Female,168,103,light,7.1,1,2,pescatarian,4,3,0,4,3,0,4,1,0,1,1,1,1,1,1,1,1,1,0,Magnesium Deficiency
+51,Male,162,87,moderate,5.6,3,1,vegan,3,0,2,2,1,3,4,0,0,0,0,1,1,0,0,1,0,1,1,Vitamin A Deficiency
+60,Male,176,79,sedentary,6.7,1,0,omnivore,1,0,0,0,3,1,3,0,0,0,0,1,1,1,1,1,1,1,0,Calcium Deficiency
+38,Female,182,112,light,5.3,1,1,vegetarian,3,4,3,3,4,0,2,1,0,1,1,1,0,1,0,0,1,1,0,Magnesium Deficiency
+45,Female,159,100,light,6.6,3,2,vegan,4,1,2,0,0,0,1,0,1,0,0,1,1,1,1,1,0,1,1,Calcium Deficiency
+70,Male,181,86,active,8.8,2,0,vegan,2,2,3,1,2,4,1,0,0,1,1,0,1,0,0,1,1,1,1,Iron Deficiency
+29,Prefer not to say,164,91,moderate,5.7,2,0,vegan,1,1,0,3,3,3,0,0,1,1,0,1,0,0,0,1,0,1,1,Vitamin A Deficiency
+75,Prefer not to say,166,100,sedentary,8.6,2,0,vegetarian,1,1,3,1,1,0,4,1,1,0,1,1,0,0,0,1,0,1,0,Vitamin A Deficiency
+44,Prefer not to say,172,75,sedentary,6.9,4,3,pescatarian,1,4,3,3,3,1,4,0,1,1,1,1,0,0,1,0,1,1,1,Vitamin B12 Deficiency
+29,Female,177,104,active,7.3,1,1,pescatarian,4,0,3,2,1,1,4,0,1,1,0,1,0,0,1,1,1,1,1,Vitamin B12 Deficiency
+45,Female,188,114,active,6.5,2,0,vegetarian,3,0,0,2,0,3,0,1,1,1,1,0,0,1,1,1,0,1,0,Vitamin D Deficiency
+71,Female,183,107,sedentary,5.7,3,0,vegetarian,5,1,2,2,4,1,4,1,1,1,1,0,0,0,0,0,0,1,1,Vitamin B12 Deficiency
+39,Prefer not to say,150,66,very_active,6.9,1,3,omnivore,2,3,0,3,4,2,1,0,0,0,0,1,0,0,0,1,0,1,0,Vitamin A Deficiency
+58,Male,151,71,moderate,6.699999999999999,4,3,vegan,3,4,3,2,1,3,2,0,1,1,0,1,1,1,1,1,1,1,0,Magnesium Deficiency
+52,Female,163,92,moderate,6.4,3,1,omnivore,3,0,2,1,3,4,4,1,1,0,1,0,1,1,1,1,0,1,1,Calcium Deficiency
+45,Female,169,105,moderate,6.3,1,3,pescatarian,3,4,3,0,2,4,2,0,0,1,1,1,1,1,1,1,0,1,0,Protein Deficiency
+38,Male,173,77,very_active,6.1,3,3,pescatarian,2,0,0,3,1,2,1,0,0,1,1,0,1,0,1,1,1,1,0,Iron Deficiency
+22,Female,158,87,very_active,9.0,1,2,vegan,2,0,2,2,0,1,4,0,1,0,1,1,0,0,1,1,0,1,1,Zinc Deficiency
+23,Prefer not to say,156,72,light,6.3,3,0,omnivore,2,3,2,1,1,2,1,1,1,1,1,0,0,1,1,0,0,1,1,Protein Deficiency
+39,Male,166,111,active,8.9,1,1,omnivore,1,0,2,2,2,2,2,0,1,0,1,1,1,0,0,1,1,1,0,Vitamin A Deficiency
+34,Female,156,73,sedentary,7.8,4,2,pescatarian,2,3,2,0,1,3,0,1,0,1,1,0,1,0,1,0,1,1,0,Iron Deficiency
+68,Male,189,121,moderate,8.8,4,3,vegan,3,2,0,2,4,4,4,0,0,1,1,1,0,0,0,1,0,1,1,Zinc Deficiency
+60,Female,159,70,light,6.8,2,3,vegetarian,3,0,1,4,1,1,0,0,1,0,1,1,1,1,1,1,0,1,0,Zinc Deficiency
+55,Male,168,112,moderate,4.7,1,1,omnivore,2,3,4,2,1,0,0,0,1,1,0,0,1,1,1,0,1,1,0,Magnesium Deficiency
+75,Female,154,92,light,8.5,1,0,vegan,5,0,0,4,3,1,4,0,0,1,1,1,0,1,1,0,1,1,1,Vitamin D Deficiency
+67,Male,172,82,very_active,7.3,4,3,vegetarian,4,1,1,4,4,0,2,0,0,1,1,1,0,0,0,1,0,1,0,Vitamin A Deficiency
+53,Prefer not to say,152,76,moderate,7.7,1,0,omnivore,5,3,3,3,0,1,0,1,0,1,1,1,1,1,1,0,0,0,1,Vitamin D Deficiency
+20,Male,165,105,light,7.1,1,0,omnivore,1,1,1,2,3,0,0,1,0,1,1,0,0,0,1,0,0,0,0,Vitamin D Deficiency
+74,Prefer not to say,174,108,sedentary,8.0,4,1,pescatarian,1,1,4,4,0,3,1,1,0,1,1,1,1,1,0,0,0,1,1,Vitamin B12 Deficiency
+23,Female,156,68,active,8.7,4,0,vegetarian,2,2,4,2,0,4,4,1,0,0,0,1,0,1,0,1,0,1,1,Zinc Deficiency
+77,Female,176,114,active,6.0,4,2,omnivore,4,0,4,1,3,3,3,0,0,1,1,0,1,0,1,0,1,1,1,Vitamin B12 Deficiency
+65,Female,174,103,very_active,4.8,1,2,omnivore,4,1,3,0,1,4,4,1,1,1,0,0,0,1,1,0,1,1,1,Magnesium Deficiency
+29,Female,177,90,light,5.5,1,0,vegetarian,4,0,2,1,0,2,1,1,0,0,1,1,0,1,1,1,0,1,1,Zinc Deficiency
+52,Prefer not to say,174,112,very_active,8.7,1,1,pescatarian,5,4,1,0,0,2,4,0,1,1,1,0,1,1,0,0,1,1,1,Iron Deficiency
+42,Female,188,97,moderate,5.7,3,0,pescatarian,2,3,0,0,4,3,1,0,0,1,1,1,0,0,0,1,1,1,0,Vitamin A Deficiency
+39,Prefer not to say,178,110,very_active,8.1,3,0,omnivore,5,4,3,4,4,0,2,0,0,1,1,0,0,1,1,1,1,1,0,Vitamin D Deficiency
+78,Male,177,81,active,6.2,3,0,vegan,1,3,1,0,1,4,3,1,1,1,1,1,0,1,1,1,0,1,0,Vitamin D Deficiency
+54,Male,183,117,very_active,8.6,1,3,vegan,1,0,0,0,3,0,3,1,1,0,0,1,1,0,0,1,0,1,0,Vitamin A Deficiency
+57,Prefer not to say,171,91,very_active,5.6,1,2,vegetarian,2,3,1,4,2,2,2,1,0,1,1,1,0,0,1,1,0,1,0,Zinc Deficiency
+24,Female,167,75,very_active,8.0,2,2,vegetarian,3,3,3,0,0,1,1,1,0,0,1,0,1,1,1,1,0,1,1,Calcium Deficiency
+24,Female,174,88,sedentary,6.1,1,3,pescatarian,5,2,4,0,4,3,2,1,1,1,1,0,0,1,1,1,1,1,0,Magnesium Deficiency
+43,Prefer not to say,154,68,light,6.3,4,1,pescatarian,4,0,3,0,0,3,1,1,0,0,1,0,0,1,1,1,0,0,1,Calcium Deficiency
+29,Prefer not to say,165,97,moderate,6.6,1,0,vegetarian,3,2,2,1,2,4,2,0,0,1,1,0,1,0,1,1,1,1,0,Vitamin D Deficiency
+60,Prefer not to say,182,107,sedentary,8.9,4,2,vegetarian,5,4,2,0,2,3,2,0,0,1,1,0,1,1,0,1,1,1,1,Vitamin B12 Deficiency
+42,Male,154,65,light,6.6,3,0,vegan,5,4,1,0,1,1,3,1,1,1,1,0,0,1,1,0,1,0,1,Vitamin D Deficiency
+71,Male,190,118,light,7.6,1,1,vegan,2,2,1,2,0,3,3,0,0,1,1,1,0,1,0,1,1,1,1,Zinc Deficiency
+78,Prefer not to say,183,104,active,8.7,3,0,vegetarian,3,2,1,2,1,4,1,1,0,1,1,1,1,1,0,1,0,1,0,Zinc Deficiency
+74,Female,190,84,light,7.5,4,2,omnivore,2,2,4,0,1,3,2,0,1,1,1,0,0,1,1,1,0,1,0,Protein Deficiency
+36,Prefer not to say,189,108,active,7.3,4,3,pescatarian,5,4,4,2,2,3,0,1,0,1,0,1,0,1,1,1,0,0,0,Calcium Deficiency
+69,Prefer not to say,166,99,sedentary,5.2,4,2,pescatarian,4,2,0,2,0,4,4,1,0,1,1,1,1,1,0,0,1,0,1,Magnesium Deficiency
+54,Prefer not to say,170,74,moderate,6.6,1,2,pescatarian,4,4,1,3,2,2,0,0,1,1,1,0,1,0,1,1,0,1,1,Vitamin B12 Deficiency
+39,Male,165,104,moderate,8.5,4,0,vegan,4,2,4,0,3,1,4,1,0,1,1,1,0,1,1,0,0,0,0,Vitamin D Deficiency
+72,Male,178,112,very_active,6.8,3,0,vegan,1,2,4,0,1,3,3,1,1,1,0,0,1,1,1,1,0,0,1,Calcium Deficiency
+34,Female,168,85,very_active,6.4,4,1,vegan,1,3,0,1,1,1,2,1,1,0,1,1,1,0,0,1,1,1,1,Vitamin A Deficiency
+47,Female,161,94,light,6.9,4,3,omnivore,1,3,3,4,4,3,3,1,1,1,1,1,0,1,1,1,1,1,1,Vitamin A Deficiency
+68,Female,151,78,active,6.9,4,3,omnivore,1,2,1,0,3,3,3,1,0,1,1,1,0,1,1,1,1,1,0,Calcium Deficiency
+21,Prefer not to say,187,85,sedentary,6.3,1,2,vegetarian,4,2,3,2,4,1,1,1,1,1,0,1,1,1,0,1,1,0,0,Magnesium Deficiency
+45,Male,190,84,sedentary,6.4,1,0,vegetarian,1,1,2,4,2,3,0,0,1,1,1,0,0,1,1,1,1,1,1,Vitamin D Deficiency
+37,Prefer not to say,169,102,active,7.0,1,3,pescatarian,1,2,3,2,3,3,3,0,0,1,0,1,1,1,1,1,0,1,0,Calcium Deficiency
+62,Male,150,73,very_active,8.0,4,3,omnivore,1,2,2,3,1,4,4,1,0,1,1,1,1,1,0,0,1,1,1,Iron Deficiency
+37,Female,169,100,light,6.2,1,2,vegan,5,2,1,2,3,2,2,0,0,0,1,1,1,0,0,1,0,1,0,Zinc Deficiency
+52,Prefer not to say,176,102,moderate,8.7,4,3,vegan,1,1,0,1,2,0,4,0,0,0,1,1,0,1,1,1,0,1,0,Zinc Deficiency
+62,Male,181,114,very_active,6.6,1,2,vegetarian,2,4,3,0,2,4,0,1,1,1,0,0,0,1,1,1,0,0,0,Calcium Deficiency
+79,Prefer not to say,154,80,active,4.7,2,1,omnivore,2,0,4,2,4,3,1,0,0,1,0,1,0,1,0,1,1,0,1,Magnesium Deficiency
+23,Male,165,75,moderate,8.6,3,2,vegetarian,1,0,2,1,0,1,0,1,1,0,1,1,0,0,0,1,1,1,1,Zinc Deficiency
+44,Prefer not to say,177,92,moderate,5.1,3,0,vegan,5,4,0,1,3,4,4,1,1,1,0,1,1,1,0,0,1,0,1,Magnesium Deficiency
+62,Prefer not to say,155,66,sedentary,8.6,2,1,omnivore,2,0,3,4,0,3,4,0,0,1,1,1,1,1,1,1,0,0,0,Protein Deficiency
+49,Prefer not to say,155,65,sedentary,6.7,2,0,omnivore,4,1,1,4,3,0,1,0,0,1,1,1,1,1,1,0,1,0,1,Vitamin D Deficiency
+27,Prefer not to say,172,79,moderate,6.7,1,2,vegan,2,4,3,0,3,0,2,0,0,0,1,1,1,1,1,1,1,1,1,Zinc Deficiency
+63,Prefer not to say,151,79,sedentary,7.7,3,3,pescatarian,3,1,0,0,3,2,2,1,0,1,1,1,1,1,1,0,1,1,1,Iron Deficiency
+44,Prefer not to say,158,74,very_active,5.6,1,0,vegan,5,3,0,2,1,4,2,1,0,1,1,0,0,1,0,1,1,0,0,Protein Deficiency
+37,Male,187,89,moderate,5.6,1,2,vegan,3,3,1,4,1,4,2,0,1,1,0,0,1,1,0,1,1,0,1,Magnesium Deficiency
+70,Prefer not to say,183,106,moderate,6.8,2,1,omnivore,5,0,0,4,1,4,0,0,0,0,0,1,0,0,1,1,1,1,1,Vitamin A Deficiency
+76,Female,190,115,very_active,5.6,4,2,omnivore,5,1,3,2,2,4,2,1,1,1,0,0,1,0,0,1,1,1,1,Vitamin B12 Deficiency
+77,Prefer not to say,189,114,moderate,7.4,4,0,vegetarian,1,2,4,3,1,3,3,1,0,1,1,1,1,1,1,1,1,1,1,Vitamin D Deficiency
+67,Female,177,96,sedentary,7.6,4,3,vegan,1,0,4,1,1,4,1,0,0,1,0,0,0,1,1,0,0,1,1,Vitamin B12 Deficiency
+51,Female,184,94,moderate,8.2,2,3,pescatarian,4,3,0,4,4,2,3,0,0,0,1,1,0,0,1,1,0,1,0,Vitamin A Deficiency
+65,Male,173,108,active,6.9,4,0,omnivore,3,2,2,1,0,2,1,0,1,0,1,1,1,1,1,1,0,0,1,Calcium Deficiency
+43,Prefer not to say,169,111,very_active,4.2,2,2,pescatarian,4,1,4,2,0,1,0,1,1,1,0,0,1,1,1,1,1,0,0,Magnesium Deficiency
+29,Female,166,84,very_active,6.8,4,0,omnivore,4,0,3,4,4,0,3,1,0,1,1,1,1,1,1,0,0,1,1,Vitamin D Deficiency
+68,Female,188,93,moderate,6.2,1,3,vegetarian,5,4,1,4,1,4,2,1,1,1,1,1,1,1,1,1,1,1,1,Zinc Deficiency
+64,Prefer not to say,166,84,moderate,6.3,4,0,pescatarian,1,2,3,4,1,1,0,1,0,1,1,0,1,0,1,0,1,1,1,Vitamin D Deficiency
+21,Prefer not to say,153,71,sedentary,8.8,3,3,pescatarian,2,2,4,2,0,0,2,1,0,1,1,1,1,1,1,1,0,0,1,Protein Deficiency
+59,Prefer not to say,190,115,moderate,5.8,3,2,pescatarian,2,4,2,1,1,1,4,1,1,1,1,1,1,1,1,1,1,1,1,Iron Deficiency
+27,Prefer not to say,166,111,sedentary,8.2,4,1,vegetarian,2,2,3,0,2,0,3,0,1,1,1,1,1,1,1,1,1,1,1,Zinc Deficiency
+20,Prefer not to say,163,100,moderate,6.8,4,0,vegetarian,4,0,0,4,3,0,0,0,1,1,0,1,0,1,0,1,1,1,0,Vitamin A Deficiency
+52,Female,188,94,very_active,6.6,1,3,vegan,1,1,3,1,4,4,3,1,1,0,1,1,1,1,0,1,1,1,0,Vitamin A Deficiency
+21,Female,158,74,very_active,7.4,3,0,vegetarian,2,2,0,1,4,0,0,1,0,0,1,1,0,1,1,1,1,1,0,Zinc Deficiency
+63,Prefer not to say,186,108,active,8.2,1,2,vegetarian,2,0,0,3,1,2,3,1,0,1,0,0,1,0,1,0,1,1,1,Vitamin B12 Deficiency
+74,Prefer not to say,183,104,active,8.8,1,0,vegan,2,1,1,0,0,1,2,0,1,1,1,1,0,1,1,1,1,1,1,Protein Deficiency
+42,Female,163,80,moderate,6.4,3,2,omnivore,1,0,4,0,4,2,0,0,1,1,0,0,1,1,0,0,1,0,1,Magnesium Deficiency
+50,Female,156,99,moderate,8.5,1,2,pescatarian,2,1,0,0,2,4,1,0,0,1,1,0,1,0,0,1,1,1,1,Iron Deficiency
+30,Male,182,110,active,8.7,4,0,vegetarian,5,0,3,3,3,0,4,0,1,1,1,1,0,1,1,1,0,1,0,Vitamin D Deficiency
+49,Male,152,81,very_active,7.3,4,0,omnivore,1,4,3,4,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,Iron Deficiency
+38,Prefer not to say,164,108,sedentary,6.9,3,0,pescatarian,1,0,1,1,2,0,4,1,0,0,0,1,0,0,1,1,1,1,0,Vitamin A Deficiency
+35,Male,157,87,light,5.7,2,3,vegan,3,1,3,0,1,1,0,1,0,1,1,1,0,1,1,1,1,0,1,Calcium Deficiency
+61,Prefer not to say,190,89,sedentary,6.9,4,0,omnivore,1,3,2,2,2,3,4,0,1,1,1,0,0,1,1,0,0,0,0,Vitamin D Deficiency
+54,Female,173,107,very_active,8.0,1,1,omnivore,5,3,0,3,3,0,3,0,0,1,1,1,1,0,1,0,1,1,1,Iron Deficiency
+39,Male,175,92,very_active,8.3,3,1,vegan,4,3,4,0,0,4,3,1,1,1,1,0,0,1,1,1,1,1,1,Calcium Deficiency
+71,Male,190,114,light,5.7,2,1,omnivore,5,3,3,2,3,2,2,0,0,1,1,0,1,1,0,0,1,1,1,Iron Deficiency
+72,Female,168,82,active,5.7,3,2,pescatarian,4,0,0,0,0,3,4,1,1,1,1,1,1,1,1,1,1,1,1,Vitamin B12 Deficiency
+28,Female,186,95,moderate,7.3,3,0,vegan,5,0,4,4,1,3,4,1,1,1,1,1,1,1,0,0,1,1,1,Iron Deficiency
+57,Female,178,106,active,7.6,4,0,vegan,5,4,3,1,2,1,3,1,0,1,0,0,0,1,0,1,0,1,1,Vitamin B12 Deficiency
+29,Prefer not to say,152,89,very_active,8.9,2,2,vegan,2,1,1,1,0,1,1,0,1,1,1,1,1,0,1,1,0,1,1,Zinc Deficiency
+30,Female,178,111,active,6.6,2,2,vegetarian,2,4,2,1,3,0,0,1,1,1,1,1,1,1,0,0,0,1,1,Vitamin B12 Deficiency
+41,Female,169,81,very_active,8.3,3,1,pescatarian,4,1,0,2,2,0,3,1,1,1,0,1,0,0,0,1,0,1,0,Vitamin A Deficiency
+20,Male,189,103,very_active,6.9,4,1,vegan,5,3,4,4,1,1,4,1,0,1,1,0,1,1,1,0,0,1,1,Protein Deficiency
+37,Male,177,77,light,6.2,2,0,pescatarian,1,0,2,0,0,1,4,1,1,1,1,0,0,1,0,0,0,1,1,Protein Deficiency
+41,Female,154,89,moderate,7.4,2,0,vegetarian,3,2,2,1,3,2,0,0,1,0,1,1,1,1,0,1,0,1,0,Vitamin A Deficiency
+52,Female,168,106,light,6.2,3,3,vegan,2,4,1,3,4,0,3,0,0,1,1,1,0,0,0,1,1,1,1,Zinc Deficiency
+57,Prefer not to say,179,78,sedentary,6.8,1,3,pescatarian,5,3,1,0,2,1,2,0,0,1,1,0,1,1,0,0,0,1,0,Protein Deficiency
+54,Prefer not to say,162,99,very_active,6.7,2,0,omnivore,5,2,2,0,0,3,1,1,0,1,1,0,1,1,1,1,0,1,0,Protein Deficiency
+53,Female,165,107,active,6.1,2,2,vegetarian,5,4,1,0,1,2,4,1,1,0,1,1,1,0,1,1,0,1,0,Zinc Deficiency
+57,Female,183,111,light,7.6,4,2,pescatarian,1,2,3,2,1,4,0,0,0,1,1,0,1,0,1,1,1,1,0,Iron Deficiency
+54,Female,150,100,sedentary,7.0,3,3,vegan,4,3,1,2,0,3,3,0,0,1,1,0,1,0,1,0,1,1,1,Iron Deficiency
+76,Male,171,83,active,6.3,1,3,vegan,2,3,2,0,1,3,2,1,0,1,0,1,0,0,0,1,1,1,1,Vitamin B12 Deficiency
+28,Prefer not to say,184,121,light,8.4,3,3,pescatarian,4,3,0,2,1,4,0,0,0,1,0,1,1,0,1,1,0,1,1,Vitamin B12 Deficiency
+56,Prefer not to say,151,99,sedentary,8.0,1,3,omnivore,4,3,0,2,2,1,3,1,0,1,1,1,0,1,0,0,0,1,1,Vitamin B12 Deficiency
+64,Prefer not to say,153,91,active,8.8,3,1,vegan,3,1,4,1,4,0,2,1,0,0,1,0,1,1,1,1,0,0,0,Calcium Deficiency
+33,Male,180,93,moderate,6.7,2,0,vegan,2,3,2,0,1,1,2,1,1,0,1,1,1,0,0,1,0,1,0,Zinc Deficiency
+43,Male,158,81,light,6.6,1,3,vegetarian,3,2,2,4,3,0,4,1,0,1,0,1,1,1,1,1,0,1,0,Zinc Deficiency
+72,Male,158,86,light,5.8,1,3,vegetarian,5,0,1,2,0,2,1,1,1,1,1,0,1,1,1,1,1,0,1,Magnesium Deficiency
+69,Male,161,100,light,8.9,4,1,vegetarian,4,0,3,1,0,4,2,1,0,1,0,0,0,1,1,0,1,1,1,Vitamin B12 Deficiency
+21,Female,188,118,active,7.3,3,0,pescatarian,4,0,2,1,1,3,0,0,0,1,1,0,1,1,1,0,0,0,1,Vitamin D Deficiency
+52,Prefer not to say,163,71,moderate,8.3,4,0,pescatarian,2,3,3,0,3,4,3,1,0,1,1,1,1,0,1,1,1,1,1,Vitamin A Deficiency
+29,Prefer not to say,152,63,active,8.8,4,1,vegan,5,0,2,3,1,1,3,0,1,1,1,1,1,0,0,1,0,1,1,Zinc Deficiency
+59,Female,172,92,very_active,5.9,4,3,vegetarian,3,3,3,2,4,0,3,1,1,1,1,0,1,1,0,0,1,1,1,Magnesium Deficiency
+20,Female,188,106,active,6.2,3,1,vegetarian,5,0,3,1,4,1,0,0,0,1,1,1,1,0,0,1,1,1,0,Iron Deficiency
+61,Male,156,89,active,7.9,4,0,vegetarian,4,0,2,2,4,3,1,0,0,0,1,1,0,1,1,1,1,1,0,Zinc Deficiency
+55,Male,182,82,very_active,7.6,2,0,pescatarian,4,1,4,4,3,1,2,1,0,1,1,0,0,1,1,0,0,0,0,Vitamin D Deficiency
+36,Male,170,83,very_active,6.6,2,0,pescatarian,3,0,3,4,4,3,2,1,1,1,0,1,0,1,0,1,0,1,1,Vitamin B12 Deficiency
+46,Female,190,109,sedentary,5.5,2,0,vegetarian,2,1,2,0,2,3,3,1,0,1,1,0,1,0,1,0,0,0,1,Vitamin D Deficiency
+44,Female,177,79,very_active,8.3,2,1,vegan,4,4,4,2,0,3,4,0,1,1,1,0,1,1,1,1,1,1,1,Protein Deficiency
+27,Male,159,77,moderate,7.9,2,0,pescatarian,2,0,1,3,1,3,0,1,1,1,1,0,0,0,1,1,1,0,1,Vitamin D Deficiency
+56,Male,186,108,sedentary,6.8,1,2,pescatarian,1,4,4,0,0,4,4,0,1,1,1,1,1,1,0,1,0,0,0,Protein Deficiency
+23,Female,155,77,sedentary,7.3,1,0,omnivore,1,1,0,1,1,2,0,1,0,1,1,1,0,1,1,1,1,1,1,Vitamin A Deficiency
+24,Female,182,109,very_active,6.2,1,1,vegetarian,3,2,3,2,0,3,1,0,1,1,1,1,0,1,1,0,0,0,1,Protein Deficiency
+34,Prefer not to say,190,121,very_active,8.7,4,0,vegan,2,4,0,1,3,4,2,0,0,1,1,1,0,1,0,1,0,1,1,Zinc Deficiency
+78,Male,185,83,moderate,7.2,4,1,vegetarian,1,0,0,4,2,3,2,1,1,1,1,1,0,1,0,1,1,0,0,Protein Deficiency
+46,Female,183,105,active,7.6,4,2,omnivore,5,0,3,0,1,3,0,0,0,1,1,0,0,1,1,1,1,1,1,Calcium Deficiency
+69,Male,152,91,very_active,5.9,1,3,vegetarian,5,3,0,0,2,4,0,0,0,1,1,1,0,1,1,1,1,1,0,Calcium Deficiency
+32,Prefer not to say,183,99,very_active,8.1,3,2,vegan,2,3,0,3,0,1,1,1,0,0,0,1,0,1,1,1,0,1,0,Vitamin A Deficiency
+59,Female,165,76,active,6.3,3,3,vegan,3,4,3,0,1,4,2,1,1,0,0,1,1,1,1,1,0,0,1,Calcium Deficiency
+68,Male,180,117,active,5.5,1,3,vegetarian,3,2,4,0,3,1,2,1,0,1,0,1,0,1,0,1,1,1,1,Magnesium Deficiency
+37,Female,163,106,very_active,7.9,4,0,vegan,3,2,2,3,0,1,4,0,1,0,1,1,1,1,0,1,1,1,0,Zinc Deficiency
+57,Male,174,78,sedentary,5.7,1,0,vegetarian,1,2,3,0,1,0,4,1,0,1,1,0,0,1,0,0,0,0,0,Protein Deficiency
+60,Female,186,121,sedentary,8.2,4,3,vegan,2,1,0,0,1,2,4,0,1,1,0,1,1,1,1,0,0,1,1,Vitamin B12 Deficiency
+74,Male,151,89,light,8.1,4,2,vegetarian,4,3,0,1,0,1,1,1,1,1,1,0,1,1,1,0,1,1,1,Protein Deficiency
+18,Male,159,81,very_active,7.8,2,1,omnivore,2,4,1,3,1,0,1,1,0,1,1,1,0,1,1,0,1,1,1,Protein Deficiency
+61,Prefer not to say,167,86,active,8.2,4,0,vegetarian,1,1,0,1,0,3,2,0,0,1,1,1,0,1,1,1,0,1,0,Vitamin A Deficiency
+51,Female,189,86,light,8.7,1,1,vegetarian,3,3,1,3,1,0,3,0,1,1,0,1,0,0,1,1,0,1,0,Zinc Deficiency
+60,Prefer not to say,187,118,active,7.1,2,3,vegan,5,2,3,2,2,2,0,0,1,1,1,0,0,1,1,1,1,1,0,Calcium Deficiency
+63,Prefer not to say,177,86,moderate,6.9,4,3,vegetarian,1,0,1,4,2,1,1,0,0,0,0,1,1,0,0,1,0,1,0,Vitamin A Deficiency
+32,Male,157,68,active,7.9,2,0,vegan,4,1,3,2,0,4,2,0,0,1,1,0,0,1,1,0,1,0,1,Protein Deficiency
+71,Prefer not to say,154,91,light,7.2,4,1,pescatarian,3,0,1,4,2,2,2,0,0,1,1,0,0,0,1,1,0,1,1,Vitamin B12 Deficiency
+31,Prefer not to say,153,64,light,7.0,4,0,vegan,2,2,0,1,4,1,0,0,1,1,1,0,1,1,1,0,1,0,0,Vitamin D Deficiency
+73,Female,175,90,sedentary,7.0,4,3,pescatarian,3,0,1,1,0,2,2,1,1,1,1,1,0,1,1,1,1,0,0,Protein Deficiency
+36,Prefer not to say,171,109,sedentary,5.8,1,0,pescatarian,3,1,4,3,1,4,0,0,1,1,1,1,0,1,1,1,1,0,0,Vitamin D Deficiency
+39,Male,171,97,light,7.9,2,0,vegetarian,3,4,4,1,3,3,2,0,1,1,1,1,1,1,1,1,0,1,0,Vitamin D Deficiency
+23,Male,171,84,moderate,5.1,4,1,pescatarian,4,4,4,4,1,3,0,0,0,1,1,0,0,1,1,1,1,1,0,Magnesium Deficiency
+22,Female,158,77,very_active,9.0,2,2,vegetarian,3,2,4,1,0,2,2,1,1,1,1,1,0,0,0,1,0,1,1,Zinc Deficiency
+44,Male,178,93,moderate,8.2,1,0,pescatarian,1,4,4,0,4,4,3,0,0,1,0,0,0,1,1,1,1,0,0,Calcium Deficiency
+35,Female,177,81,light,7.9,2,0,vegetarian,3,3,0,0,1,4,4,1,0,1,0,1,1,0,0,1,1,1,0,Zinc Deficiency
+50,Prefer not to say,156,99,moderate,8.2,4,3,vegan,1,4,0,0,2,1,3,1,1,1,1,1,1,1,1,0,0,1,1,Vitamin B12 Deficiency
+65,Female,158,90,moderate,5.0,2,2,pescatarian,3,4,0,3,0,2,1,1,0,1,0,1,1,1,1,1,1,1,1,Magnesium Deficiency
+60,Prefer not to say,154,88,active,7.3,2,2,vegetarian,4,1,0,1,0,3,3,1,0,0,1,0,0,1,1,1,0,0,0,Calcium Deficiency
+63,Prefer not to say,182,100,moderate,5.5,2,3,omnivore,2,4,2,0,1,1,0,0,1,1,0,0,1,0,1,1,0,1,1,Vitamin B12 Deficiency
+34,Prefer not to say,153,76,light,8.9,2,2,pescatarian,4,0,1,3,4,2,0,0,1,1,1,1,1,0,0,1,0,1,0,Vitamin A Deficiency
+34,Male,162,95,moderate,6.4,3,2,pescatarian,4,0,1,0,4,4,1,0,0,1,0,1,1,0,1,1,0,1,1,Vitamin B12 Deficiency
+76,Prefer not to say,165,110,sedentary,6.8,3,2,pescatarian,5,1,0,0,2,2,2,1,1,1,0,1,1,0,1,1,0,1,1,Vitamin A Deficiency
+67,Prefer not to say,188,102,light,6.3,2,3,pescatarian,2,3,3,0,2,3,0,0,0,0,1,1,0,1,0,1,0,1,0,Vitamin A Deficiency
+41,Female,151,88,sedentary,7.1,1,0,pescatarian,1,0,2,0,1,0,0,0,0,1,1,0,1,1,1,0,0,1,0,Vitamin D Deficiency
+53,Prefer not to say,162,84,light,7.6,1,1,pescatarian,5,1,0,0,0,1,0,1,0,1,1,1,0,1,0,0,0,1,1,Protein Deficiency
+29,Female,153,84,moderate,7.7,3,3,pescatarian,2,4,1,0,3,1,1,0,0,1,0,1,0,1,1,1,1,1,1,Vitamin B12 Deficiency
+65,Female,181,105,sedentary,7.0,4,0,pescatarian,3,3,1,2,2,1,2,1,0,1,1,1,1,1,1,0,1,0,1,Magnesium Deficiency
+38,Female,179,107,sedentary,9.0,1,1,pescatarian,2,3,1,1,3,4,0,0,0,1,0,1,1,0,1,1,0,1,0,Vitamin A Deficiency
+22,Prefer not to say,183,107,sedentary,6.7,4,0,vegan,1,3,3,2,3,4,2,0,0,1,1,0,0,1,1,1,0,1,1,Vitamin D Deficiency
+71,Female,151,68,very_active,7.6,3,0,pescatarian,1,0,3,0,4,3,3,0,1,0,0,1,1,1,1,1,1,0,1,Calcium Deficiency
+32,Female,185,118,moderate,8.1,4,3,vegan,3,3,0,0,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,Iron Deficiency
+27,Female,168,108,active,6.1,2,1,vegetarian,1,0,1,4,3,2,4,1,1,1,1,0,1,1,1,1,1,1,1,Vitamin B12 Deficiency
+42,Prefer not to say,189,99,light,5.7,1,3,omnivore,1,2,1,3,2,0,2,0,0,1,1,0,1,1,1,1,1,1,1,Iron Deficiency
+71,Prefer not to say,170,94,active,8.2,4,2,vegetarian,3,3,1,4,3,4,4,0,1,1,0,1,0,1,1,1,1,1,1,Vitamin A Deficiency
+34,Female,171,75,very_active,7.7,4,1,vegan,3,2,1,2,0,3,4,0,0,1,0,0,1,0,1,1,1,1,1,Vitamin B12 Deficiency
+22,Male,172,110,active,5.9,2,0,pescatarian,2,2,4,0,0,1,1,1,1,1,1,1,0,0,1,1,1,0,1,Vitamin D Deficiency
+63,Prefer not to say,159,71,moderate,7.1,3,2,pescatarian,3,2,0,2,1,4,1,1,0,1,1,1,0,0,1,1,0,1,0,Vitamin A Deficiency
+39,Prefer not to say,153,81,moderate,8.3,2,3,pescatarian,4,4,4,4,4,3,4,1,1,1,1,1,1,1,1,1,1,1,1,Iron Deficiency
+25,Prefer not to say,158,103,light,5.5,1,2,pescatarian,2,3,2,0,4,1,2,1,0,1,0,0,1,1,1,1,1,1,1,Magnesium Deficiency
+25,Male,173,101,very_active,8.3,2,1,vegan,1,3,0,3,1,4,2,0,1,1,1,1,1,0,0,1,1,1,0,Iron Deficiency
+31,Female,161,99,sedentary,7.4,2,2,vegetarian,4,2,3,1,0,0,1,0,0,0,1,1,1,0,1,1,0,1,1,Zinc Deficiency
+50,Female,174,89,moderate,7.0,3,0,vegetarian,2,4,4,1,2,1,0,0,1,1,1,1,1,1,1,0,1,1,1,Iron Deficiency
+39,Male,152,78,sedentary,7.8,2,3,vegetarian,2,0,0,0,1,3,3,1,1,0,1,1,1,0,1,1,0,1,0,Vitamin A Deficiency
+65,Female,151,78,light,5.5,4,3,vegan,3,2,0,0,3,1,4,0,0,1,1,1,1,0,1,1,0,1,0,Vitamin A Deficiency
+49,Prefer not to say,152,66,moderate,5.2,3,2,pescatarian,2,0,1,3,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,Magnesium Deficiency
+51,Prefer not to say,164,107,active,8.6,4,0,omnivore,1,0,3,3,2,4,0,1,1,1,1,1,0,1,1,1,0,1,1,Protein Deficiency
+65,Prefer not to say,177,108,light,6.2,2,0,vegan,3,4,4,2,1,4,3,1,0,1,1,0,1,1,1,1,1,1,1,Iron Deficiency
+49,Female,151,103,very_active,7.6,2,0,vegetarian,2,0,1,1,4,4,0,0,0,1,1,1,0,0,1,1,1,0,1,Vitamin D Deficiency
+20,Prefer not to say,151,70,moderate,8.4,2,3,omnivore,2,1,2,3,0,1,3,1,0,1,0,1,1,1,1,1,1,1,1,Vitamin A Deficiency
+39,Prefer not to say,171,113,very_active,6.8,3,0,omnivore,3,1,3,1,4,0,3,0,1,1,1,0,1,1,0,1,1,1,0,Iron Deficiency
+78,Female,183,112,light,8.2,1,3,omnivore,1,0,3,1,0,2,2,1,1,1,1,1,0,0,0,1,1,1,1,Vitamin A Deficiency
+30,Male,182,115,light,6.6,1,1,omnivore,2,1,0,1,2,2,0,0,0,1,0,1,0,1,0,0,0,1,1,Vitamin B12 Deficiency
+40,Female,186,102,very_active,7.5,1,0,pescatarian,5,2,0,1,1,1,2,1,1,1,1,0,0,0,1,0,1,1,1,Vitamin D Deficiency
+30,Male,188,122,active,7.9,4,3,pescatarian,1,1,3,1,2,1,0,0,0,1,1,0,1,0,0,0,1,1,1,Iron Deficiency
+28,Prefer not to say,183,118,sedentary,5.9,1,3,pescatarian,3,2,1,1,0,4,0,0,0,1,0,0,1,1,0,0,1,0,0,Magnesium Deficiency
+74,Prefer not to say,175,107,sedentary,9.0,1,3,vegetarian,1,1,4,4,0,4,0,1,1,1,1,0,0,1,0,0,0,0,1,Protein Deficiency
+55,Female,177,78,active,5.8,4,3,omnivore,1,3,3,2,1,2,3,0,0,1,1,0,1,1,0,0,1,1,0,Iron Deficiency
+38,Prefer not to say,178,78,light,8.2,4,0,vegetarian,4,3,3,0,0,2,4,1,1,1,1,0,0,0,1,1,0,0,1,Vitamin D Deficiency
+65,Prefer not to say,170,106,sedentary,8.2,4,0,vegan,1,4,3,1,1,1,1,1,0,0,1,1,1,1,1,1,0,1,1,Zinc Deficiency
+71,Prefer not to say,181,90,light,5.8,3,1,omnivore,5,2,2,2,2,0,1,0,1,1,0,1,0,1,1,1,1,1,0,Magnesium Deficiency
+74,Prefer not to say,190,96,light,8.8,1,0,omnivore,2,3,2,3,2,4,2,1,1,1,1,1,1,0,1,0,1,1,0,Iron Deficiency
+43,Male,156,94,moderate,5.2,2,3,pescatarian,4,0,0,2,2,4,2,0,0,1,1,1,0,1,1,0,1,1,0,Magnesium Deficiency
+75,Male,154,90,very_active,6.8,1,2,pescatarian,1,1,3,0,0,4,4,0,1,0,1,1,1,1,1,1,1,0,1,Calcium Deficiency
+42,Prefer not to say,166,85,active,7.1,3,0,vegan,3,2,2,2,1,4,2,1,1,1,0,0,0,0,0,1,0,1,1,Vitamin B12 Deficiency
+79,Male,183,104,very_active,7.2,3,0,vegetarian,4,1,3,4,1,4,2,0,1,1,1,0,1,0,1,1,1,0,0,Vitamin D Deficiency
+30,Female,166,72,light,6.5,3,2,vegan,4,3,0,0,2,1,3,1,1,1,1,0,1,1,1,1,1,1,1,Vitamin B12 Deficiency
+71,Male,180,101,active,4.5,3,1,vegetarian,1,0,3,0,3,1,2,1,1,1,1,0,0,1,0,1,1,0,0,Magnesium Deficiency
+35,Prefer not to say,182,118,active,8.0,1,0,vegetarian,4,0,3,4,0,1,4,1,1,1,1,0,0,0,1,1,1,1,1,Vitamin B12 Deficiency
+58,Prefer not to say,190,99,moderate,8.0,2,1,vegan,4,1,4,3,2,3,3,0,0,0,0,1,1,1,1,1,1,1,0,Zinc Deficiency
+74,Prefer not to say,154,97,active,8.9,3,0,vegetarian,4,4,0,0,3,0,0,1,1,1,1,1,0,0,0,0,1,1,1,Vitamin B12 Deficiency
+64,Female,181,92,very_active,8.7,3,1,vegan,4,3,2,4,2,3,0,0,1,1,0,1,0,0,1,0,0,1,1,Vitamin B12 Deficiency
+66,Male,175,106,very_active,8.9,1,3,pescatarian,4,0,0,4,3,2,1,0,1,1,0,1,1,1,0,1,0,1,0,Vitamin A Deficiency
+18,Prefer not to say,187,83,active,5.7,2,3,vegetarian,5,4,3,3,4,1,1,0,1,1,0,1,1,0,1,1,1,1,1,Vitamin B12 Deficiency
+57,Female,172,77,active,8.3,3,2,pescatarian,3,3,1,3,1,3,2,1,0,1,1,1,1,1,1,1,0,0,0,Protein Deficiency
+39,Male,159,70,light,7.0,2,0,vegan,1,1,1,3,2,2,1,1,1,1,1,0,0,1,1,0,1,0,1,Vitamin D Deficiency
+45,Prefer not to say,171,83,light,6.5,4,3,omnivore,1,1,2,2,1,3,4,0,0,1,0,1,1,1,1,1,1,1,0,Calcium Deficiency
+34,Male,159,101,moderate,7.9,2,1,pescatarian,2,1,3,1,1,2,4,0,0,1,1,0,1,0,0,1,1,1,1,Iron Deficiency
+31,Prefer not to say,178,77,moderate,6.2,2,1,vegetarian,5,3,0,4,2,2,3,0,0,1,1,1,1,1,0,1,0,1,0,Vitamin A Deficiency
+78,Female,186,106,very_active,5.6,4,2,vegan,3,2,2,1,0,2,3,0,1,0,1,1,0,1,0,1,1,1,1,Zinc Deficiency
+34,Prefer not to say,158,99,very_active,6.2,1,1,vegan,5,4,3,4,1,1,0,1,0,0,0,1,1,1,1,1,0,1,0,Zinc Deficiency
+43,Female,177,110,active,6.2,1,3,pescatarian,2,2,3,3,3,0,2,1,0,1,1,0,0,1,1,0,1,0,1,Magnesium Deficiency
+28,Male,156,85,moderate,7.5,4,1,pescatarian,3,1,4,1,1,4,4,1,1,1,0,0,1,1,1,1,1,1,1,Calcium Deficiency
+22,Female,153,96,active,6.3,1,0,vegetarian,1,1,3,1,3,3,1,0,1,1,1,0,0,0,1,1,1,1,0,Vitamin D Deficiency
+45,Prefer not to say,175,76,sedentary,6.0,1,0,omnivore,5,4,3,3,0,3,1,0,1,1,1,1,0,1,1,1,1,0,1,Magnesium Deficiency
+68,Male,189,84,very_active,6.2,1,3,omnivore,3,4,0,0,2,2,3,0,1,1,1,1,1,1,0,0,1,1,1,Vitamin B12 Deficiency
+50,Prefer not to say,151,84,active,7.0,1,1,pescatarian,5,2,3,3,0,4,4,0,1,1,0,1,1,0,1,1,0,1,1,Vitamin B12 Deficiency
+65,Female,153,73,light,5.7,4,0,pescatarian,5,1,2,1,2,1,2,1,1,1,1,0,0,0,1,1,0,0,1,Vitamin D Deficiency
+18,Prefer not to say,184,83,light,6.7,3,3,omnivore,4,3,0,2,4,0,1,1,1,1,1,1,1,1,0,0,1,1,1,Vitamin B12 Deficiency
+25,Female,152,78,very_active,8.4,4,2,omnivore,5,3,4,0,4,0,0,1,0,1,0,0,0,1,1,1,1,0,0,Calcium Deficiency
+50,Female,170,73,sedentary,6.1,3,3,vegan,5,0,0,0,0,1,2,1,1,0,0,1,0,1,0,1,0,1,1,Zinc Deficiency
+74,Female,171,81,very_active,5.8,2,3,pescatarian,1,4,3,1,0,3,0,0,1,0,0,0,1,1,1,1,1,0,0,Calcium Deficiency
+31,Male,154,76,moderate,7.5,2,0,vegetarian,5,2,0,0,1,3,0,1,1,1,1,1,0,1,1,0,1,1,0,Vitamin D Deficiency
+62,Male,176,84,sedentary,7.8,1,3,vegetarian,1,3,2,3,0,1,0,0,1,0,0,1,0,0,0,1,0,1,0,Zinc Deficiency
+55,Prefer not to say,182,111,very_active,8.0,2,0,pescatarian,2,1,0,2,2,4,3,0,0,1,1,1,0,1,1,0,1,0,0,Vitamin D Deficiency
+27,Male,163,96,sedentary,7.3,4,2,vegetarian,5,0,2,2,3,0,4,0,1,1,1,0,1,1,1,1,1,1,1,Iron Deficiency
+70,Female,150,99,moderate,8.4,1,3,vegetarian,4,2,2,3,3,4,4,0,1,0,1,1,0,1,0,1,0,1,1,Zinc Deficiency
+77,Prefer not to say,178,104,light,6.6,2,2,pescatarian,4,3,4,0,4,2,1,0,0,1,1,1,1,1,0,1,1,1,1,Iron Deficiency
+26,Prefer not to say,174,83,very_active,8.3,4,0,vegetarian,4,3,1,4,3,3,0,0,1,1,1,1,1,1,0,0,1,1,1,Vitamin B12 Deficiency
+71,Female,181,97,sedentary,6.1,3,3,vegan,2,0,1,2,0,2,1,0,1,1,1,1,0,0,1,1,1,1,1,Vitamin B12 Deficiency
+24,Female,153,85,light,5.5,3,1,omnivore,2,0,1,0,4,2,2,1,0,1,0,1,0,0,0,0,0,1,1,Vitamin B12 Deficiency
+76,Prefer not to say,167,87,light,8.0,3,0,omnivore,1,4,3,2,1,2,1,1,1,0,1,0,0,1,1,1,0,0,0,Calcium Deficiency
+49,Prefer not to say,186,115,sedentary,7.3,1,0,pescatarian,2,2,1,3,2,3,4,1,0,1,1,1,1,1,1,0,1,1,1,Vitamin B12 Deficiency
+30,Prefer not to say,181,119,light,6.6,3,1,vegan,3,1,2,0,0,3,4,0,0,1,1,0,1,1,1,0,1,1,0,Iron Deficiency
+34,Female,175,106,active,6.8,4,0,vegan,5,4,3,2,2,4,3,0,0,0,1,1,0,0,0,1,1,1,0,Zinc Deficiency
+43,Male,156,67,active,8.4,1,2,omnivore,2,0,0,0,3,0,2,1,1,0,1,1,1,1,1,1,0,1,0,Vitamin A Deficiency
+24,Male,173,89,light,8.4,3,3,vegan,5,2,3,3,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,Vitamin A Deficiency
+50,Female,153,72,sedentary,6.8,2,3,omnivore,2,2,2,1,4,1,3,1,0,0,0,1,0,0,0,1,1,1,0,Vitamin A Deficiency
+18,Female,178,90,sedentary,8.9,2,3,pescatarian,3,3,3,3,2,0,3,0,0,1,1,1,1,1,0,0,1,1,1,Vitamin B12 Deficiency
+72,Prefer not to say,159,74,light,8.3,2,0,vegan,5,3,4,1,2,4,2,1,0,1,1,0,1,0,0,1,1,1,0,Iron Deficiency
+75,Female,175,101,sedentary,7.1,3,1,vegetarian,2,1,2,2,1,2,4,1,0,1,1,1,1,1,0,1,1,0,0,Magnesium Deficiency
+65,Male,179,113,sedentary,7.2,1,2,vegan,4,2,4,0,0,3,2,1,1,1,1,0,0,1,1,1,0,0,1,Calcium Deficiency
+76,Prefer not to say,175,97,very_active,7.2,4,3,pescatarian,4,4,3,3,3,2,4,0,1,1,1,0,1,0,1,1,1,1,0,Iron Deficiency
+79,Prefer not to say,184,100,light,7.0,4,1,vegan,2,4,4,0,1,3,0,1,0,1,1,0,0,1,0,1,1,0,1,Protein Deficiency
+29,Prefer not to say,162,95,moderate,7.2,2,0,omnivore,5,3,0,0,0,4,3,0,1,1,1,1,1,0,1,1,0,1,1,Vitamin A Deficiency
+57,Prefer not to say,174,104,light,6.9,2,0,vegetarian,1,0,1,1,3,1,3,1,0,0,0,1,1,1,0,1,1,1,0,Zinc Deficiency
+76,Prefer not to say,178,116,light,6.0,4,3,vegetarian,1,0,1,2,4,0,3,1,0,0,1,1,1,1,1,1,0,1,1,Vitamin A Deficiency
+30,Female,182,104,active,7.0,3,1,vegan,4,2,2,3,0,1,3,0,0,1,1,1,1,1,1,1,1,1,1,Magnesium Deficiency
+57,Female,187,122,moderate,8.9,1,2,omnivore,2,2,3,2,0,0,1,1,0,1,1,1,1,1,0,1,1,1,0,Protein Deficiency
+39,Male,165,98,moderate,6.5,1,3,vegetarian,3,1,4,0,1,4,2,1,0,0,0,0,1,1,1,1,1,0,1,Calcium Deficiency
+47,Male,153,81,sedentary,5.2,4,1,vegan,3,0,2,0,0,1,3,1,0,1,1,0,0,1,1,1,1,1,1,Magnesium Deficiency
+73,Female,152,78,light,8.5,2,0,vegan,5,4,3,2,0,2,4,0,0,1,1,0,0,0,1,1,1,0,1,Vitamin D Deficiency
+61,Prefer not to say,170,80,active,6.5,3,3,pescatarian,5,3,1,4,1,1,0,1,0,1,1,0,1,1,1,1,1,1,1,Iron Deficiency
+78,Female,161,94,sedentary,6.2,4,0,pescatarian,5,2,1,3,3,0,3,0,0,0,0,1,1,0,0,1,0,1,1,Vitamin A Deficiency
+34,Female,188,120,very_active,8.9,1,1,vegan,4,3,4,3,0,2,4,0,1,1,1,1,1,0,0,1,1,1,1,Iron Deficiency
+79,Female,183,93,very_active,7.9,3,3,omnivore,5,1,0,1,2,4,2,1,0,1,1,1,1,1,1,0,1,1,0,Iron Deficiency
+30,Male,178,112,very_active,4.9,4,2,vegan,1,3,3,4,2,4,4,1,1,1,0,1,0,1,0,0,1,1,1,Magnesium Deficiency
+18,Prefer not to say,171,83,active,7.7,1,0,omnivore,2,1,0,0,4,4,4,1,1,0,0,0,0,1,1,1,1,1,0,Calcium Deficiency
+19,Female,188,120,sedentary,6.800000000000001,3,0,vegan,4,1,1,0,0,1,4,1,0,1,1,0,0,1,0,0,1,0,0,Magnesium Deficiency
+77,Prefer not to say,158,69,moderate,7.3,1,0,vegan,1,2,2,4,2,3,1,1,1,1,1,0,0,1,1,1,0,0,1,Vitamin D Deficiency
+52,Male,181,88,light,8.2,2,3,vegetarian,2,4,2,0,4,2,1,1,1,1,1,1,1,1,0,1,0,1,1,Zinc Deficiency
+34,Prefer not to say,182,109,active,5.9,3,0,vegetarian,5,4,2,4,0,2,0,0,1,1,1,1,0,0,1,1,1,1,1,Zinc Deficiency
+56,Prefer not to say,163,92,moderate,7.3,1,0,vegan,2,3,3,2,0,3,3,1,1,1,1,0,1,1,0,0,0,1,0,Protein Deficiency
+65,Prefer not to say,165,100,very_active,7.1,1,0,pescatarian,1,2,2,2,4,2,4,1,1,1,1,0,1,1,1,0,1,1,1,Vitamin D Deficiency
+27,Female,173,112,light,6.7,1,0,pescatarian,4,3,2,4,0,3,2,0,0,1,1,0,1,1,1,0,0,1,1,Vitamin D Deficiency
+62,Prefer not to say,162,86,sedentary,5.7,1,0,omnivore,3,2,2,4,1,2,2,1,1,1,1,0,0,1,0,0,1,1,1,Magnesium Deficiency
+50,Male,185,120,moderate,8.2,3,0,vegetarian,5,3,0,2,1,0,3,0,1,1,1,1,1,0,1,0,1,1,1,Iron Deficiency
+67,Prefer not to say,165,74,active,5.6,3,0,vegetarian,1,2,2,2,1,4,0,0,0,1,0,0,0,1,1,1,0,0,0,Calcium Deficiency
+63,Male,186,109,light,7.2,1,1,vegetarian,2,4,4,3,4,1,0,0,1,1,1,0,1,1,1,1,1,1,0,Iron Deficiency
+52,Male,169,104,sedentary,6.1,2,3,pescatarian,3,2,1,1,3,2,2,0,1,1,0,1,1,1,1,1,1,1,0,Vitamin A Deficiency
+46,Female,167,110,very_active,6.1,4,3,vegetarian,3,2,3,4,1,4,4,1,0,1,1,1,1,1,1,0,0,1,1,Vitamin B12 Deficiency
+58,Female,187,82,very_active,8.8,4,2,pescatarian,4,3,4,0,0,4,1,0,0,0,0,1,1,1,1,1,0,0,1,Calcium Deficiency
+32,Female,185,98,sedentary,8.9,1,1,pescatarian,4,2,4,2,3,4,1,0,1,1,1,1,1,1,1,1,1,1,0,Iron Deficiency
+74,Female,171,78,light,8.7,4,3,omnivore,3,4,2,1,3,1,1,1,0,1,1,0,1,1,1,0,1,1,0,Iron Deficiency
+21,Female,159,72,very_active,7.0,3,0,vegetarian,3,1,0,1,2,0,4,0,1,1,1,1,1,0,1,0,1,1,0,Vitamin D Deficiency
+58,Female,162,80,light,8.0,4,3,pescatarian,2,1,3,4,0,2,1,0,0,1,0,1,0,0,1,0,0,1,1,Vitamin B12 Deficiency
+56,Male,183,97,moderate,7.1,3,3,omnivore,5,3,0,2,1,3,0,0,1,1,0,1,1,0,1,1,0,1,0,Vitamin A Deficiency
+48,Prefer not to say,173,82,light,5.6,1,0,vegan,2,0,3,4,3,3,2,1,0,1,0,1,1,0,0,0,1,1,1,Vitamin B12 Deficiency
+46,Female,165,75,light,6.9,4,2,pescatarian,1,0,0,1,3,0,3,1,1,0,1,1,1,1,1,1,1,1,1,Vitamin A Deficiency
+78,Male,153,79,active,7.7,4,0,vegan,4,1,0,0,0,2,3,1,0,1,0,1,1,0,0,1,0,1,1,Vitamin A Deficiency
+73,Prefer not to say,188,95,light,8.9,3,1,vegan,2,0,2,2,3,2,4,1,0,1,1,1,1,1,1,0,1,1,0,Iron Deficiency
+27,Female,161,93,moderate,6.9,3,2,vegetarian,5,0,1,0,2,0,0,1,1,0,1,0,0,1,1,1,1,1,0,Calcium Deficiency
+80,Female,162,84,sedentary,6.6,3,2,vegan,4,0,0,4,3,2,0,1,1,1,1,1,1,0,0,1,1,1,1,Iron Deficiency
+25,Male,171,113,light,7.4,2,1,pescatarian,1,3,4,2,3,4,0,1,1,1,1,0,1,0,1,0,1,1,0,Iron Deficiency
+61,Female,173,112,sedentary,8.2,2,1,vegetarian,4,4,1,3,2,3,0,1,1,1,1,1,1,1,0,1,1,1,1,Iron Deficiency
+60,Female,174,98,sedentary,7.5,4,1,vegetarian,4,4,2,1,1,1,3,0,0,1,0,0,1,1,1,1,0,0,0,Calcium Deficiency

@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+
+{% block title %}Profile | NutriSense AI{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center py-4">
+  <div class="col-xl-7 col-lg-8">
+    <div class="card shadow-sm border-0 p-4 p-md-5">
+      <div class="mb-4">
+        <p class="text-primary fw-semibold mb-2">Profile</p>
+        <h1 class="h3 fw-bold mb-2">Account Overview</h1>
+        <p class="text-muted">Update your personal details while keeping your email address secure.</p>
+      </div>
+
+      <form method="post" class="needs-validation" novalidate>
+        <input type="hidden" name="csrf_token" value="{{ csrf_token }}" />
+        <div class="row g-3">
+          <div class="col-md-6">
+            <label class="form-label fw-semibold" for="full_name">Full Name</label>
+            <input class="form-control" id="full_name" name="full_name" type="text" value="{{ user.full_name }}" required />
+          </div>
+          <div class="col-md-6">
+            <label class="form-label fw-semibold" for="age">Age</label>
+            <input class="form-control" id="age" name="age" type="number" min="1" max="120" value="{{ user.age }}" required />
+          </div>
+          <div class="col-md-6">
+            <label class="form-label fw-semibold" for="gender">Gender</label>
+            <select class="form-select" id="gender" name="gender">
+              <option value="Prefer not to say" {% if user.gender == 'Prefer not to say' %}selected{% endif %}>Prefer not to say</option>
+              <option value="Female" {% if user.gender == 'Female' %}selected{% endif %}>Female</option>
+              <option value="Male" {% if user.gender == 'Male' %}selected{% endif %}>Male</option>
+              <option value="Non-binary" {% if user.gender == 'Non-binary' %}selected{% endif %}>Non-binary</option>
+            </select>
+          </div>
+          <div class="col-md-6">
+            <label class="form-label fw-semibold" for="email">Email Address</label>
+            <input class="form-control" id="email" type="email" value="{{ user.email }}" disabled />
+          </div>
+        </div>
+
+        <div class="border rounded p-3 mt-4 bg-light">
+          <p class="small text-muted mb-1">Registration Date</p>
+          <p class="fw-semibold mb-0">{{ user.created_at }}</p>
+        </div>
+
+        <button class="btn btn-primary mt-4" type="submit">Save Changes</button>
+      </form>
+    </div>
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,234 @@
+﻿{% extends 'base.html' %}
+
+{% block title %}Assessment | NutriSense AI{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center py-4">
+  <div class="col-12 col-xl-10">
+    <div class="card shadow-sm border-0 p-4 p-md-5">
+      <div class="d-flex flex-column flex-lg-row justify-content-between gap-3 mb-4">
+        <div>
+          <p class="text-primary fw-semibold mb-2">Health Assessment</p>
+          <h1 class="h3 fw-bold mb-2">Complete Your Nutritional Profile</h1>
+          <p class="text-muted mb-0">This guided evaluation uses the trained NutriSense model to estimate likely nutritional deficiencies.</p>
+        </div>
+        <div class="text-lg-end">
+          <span class="badge bg-primary-subtle text-primary">Multi-step form</span>
+          <div class="progress mt-2" style="height: 8px; min-width: 220px;">
+            <div class="progress-bar" id="assessment-progress" style="width: 25%"></div>
+          </div>
+          <small class="text-muted d-block mt-2" id="step-label">Step 1 of 4</small>
+        </div>
+      </div>
+
+      <form id="assessment-form" method="post" class="needs-validation" novalidate>
+        <input type="hidden" name="csrf_token" value="{{ csrf_token }}" />
+
+        <div class="assessment-step active" data-step="1">
+          <h2 class="h5 fw-bold mb-3">Section 1 · Personal information</h2>
+          <div class="row g-3">
+            <div class="col-md-6">
+              <label class="form-label fw-semibold" for="age">Age</label>
+              <input class="form-control" id="age" name="age" type="number" min="1" max="120" required />
+              <div class="invalid-feedback">Please enter a valid age.</div>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label fw-semibold" for="gender">Gender</label>
+              <select class="form-select" id="gender" name="gender" required>
+                <option value="">Select one</option>
+                <option value="female">Female</option>
+                <option value="male">Male</option>
+                <option value="non-binary">Non-binary</option>
+                <option value="prefer-not-to-say">Prefer not to say</option>
+              </select>
+              <div class="invalid-feedback">Please select a gender.</div>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label fw-semibold" for="height">Height (cm)</label>
+              <input class="form-control" id="height" name="height" type="number" min="50" max="250" step="0.1" required />
+              <div class="invalid-feedback">Height must be between 50 and 250 cm.</div>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label fw-semibold" for="weight">Weight (kg)</label>
+              <input class="form-control" id="weight" name="weight" type="number" min="20" max="300" step="0.1" required />
+              <div class="invalid-feedback">Weight must be between 20 and 300 kg.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="assessment-step" data-step="2">
+          <h2 class="h5 fw-bold mb-3">Section 2 · Lifestyle</h2>
+          <div class="row g-3">
+            <div class="col-md-6">
+              <label class="form-label fw-semibold" for="exercise_level">Exercise Frequency</label>
+              <select class="form-select" id="exercise_level" name="exercise_level" required>
+                <option value="">Select one</option>
+                <option value="1">Rarely</option>
+                <option value="2">1–2 times / week</option>
+                <option value="3">3–4 times / week</option>
+                <option value="4">5+ times / week</option>
+              </select>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label fw-semibold" for="diet_type">Diet Type</label>
+              <select class="form-select" id="diet_type" name="diet_type" required>
+                <option value="">Select one</option>
+                <option value="1">Vegetarian</option>
+                <option value="2">Omnivore</option>
+                <option value="3">Vegan</option>
+                <option value="4">High-protein</option>
+              </select>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label fw-semibold" for="water_intake">Water Intake (L/day)</label>
+              <input class="form-control" id="water_intake" name="water_intake" type="number" min="0.5" max="6" step="0.1" required />
+            </div>
+            <div class="col-md-6">
+              <label class="form-label fw-semibold" for="sun_exposure">Sun Exposure</label>
+              <select class="form-select" id="sun_exposure" name="sun_exposure" required>
+                <option value="">Select one</option>
+                <option value="1">Low</option>
+                <option value="2">Moderate</option>
+                <option value="3">High</option>
+              </select>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label fw-semibold" for="sleep_duration">Sleep Duration (hrs)</label>
+              <input class="form-control" id="sleep_duration" name="sleep_duration" type="number" min="3" max="12" step="0.5" required />
+            </div>
+            <div class="col-md-6">
+              <label class="form-label fw-semibold" for="smoking_status">Smoking Status</label>
+              <select class="form-select" id="smoking_status" name="smoking_status" required>
+                <option value="">Select one</option>
+                <option value="0">Non-smoker</option>
+                <option value="1">Occasional</option>
+                <option value="2">Regular</option>
+              </select>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label fw-semibold" for="alcohol_consumption">Alcohol Consumption</label>
+              <select class="form-select" id="alcohol_consumption" name="alcohol_consumption" required>
+                <option value="">Select one</option>
+                <option value="0">None</option>
+                <option value="1">Light</option>
+                <option value="2">Moderate</option>
+                <option value="3">Heavy</option>
+              </select>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label fw-semibold" for="income_level">Income Level</label>
+              <select class="form-select" id="income_level" name="income_level" required>
+                <option value="">Select one</option>
+                <option value="1">Low</option>
+                <option value="2">Middle</option>
+                <option value="3">High</option>
+              </select>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label fw-semibold" for="latitude_region">Region</label>
+              <select class="form-select" id="latitude_region" name="latitude_region" required>
+                <option value="">Select one</option>
+                <option value="1">Tropical</option>
+                <option value="2">Temperate</option>
+                <option value="3">Polar</option>
+              </select>
+            </div>
+          </div>
+        </div>
+
+        <div class="assessment-step" data-step="3">
+          <h2 class="h5 fw-bold mb-3">Section 3 · Symptoms</h2>
+          <div class="row g-3">
+            <div class="col-md-6">
+              <div class="form-check form-switch">
+                <input class="form-check-input" id="has_fatigue" name="has_fatigue" type="checkbox" value="1" />
+                <label class="form-check-label" for="has_fatigue">Fatigue</label>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-check form-switch">
+                <input class="form-check-input" id="has_pale_skin" name="has_pale_skin" type="checkbox" value="1" />
+                <label class="form-check-label" for="has_pale_skin">Pale Skin</label>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-check form-switch">
+                <input class="form-check-input" id="has_muscle_weakness" name="has_muscle_weakness" type="checkbox" value="1" />
+                <label class="form-check-label" for="has_muscle_weakness">Muscle Weakness</label>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-check form-switch">
+                <input class="form-check-input" id="has_bone_pain" name="has_bone_pain" type="checkbox" value="1" />
+                <label class="form-check-label" for="has_bone_pain">Bone Pain</label>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-check form-switch">
+                <input class="form-check-input" id="has_memory_problems" name="has_memory_problems" type="checkbox" value="1" />
+                <label class="form-check-label" for="has_memory_problems">Memory Problems</label>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-check form-switch">
+                <input class="form-check-input" id="has_bleeding_gums" name="has_bleeding_gums" type="checkbox" value="1" />
+                <label class="form-check-label" for="has_bleeding_gums">Bleeding Gums</label>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-check form-switch">
+                <input class="form-check-input" id="has_night_blindness" name="has_night_blindness" type="checkbox" value="1" />
+                <label class="form-check-label" for="has_night_blindness">Night Blindness</label>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-check form-switch">
+                <input class="form-check-input" id="has_numbness_tingling" name="has_numbness_tingling" type="checkbox" value="1" />
+                <label class="form-check-label" for="has_numbness_tingling">Tingling / Numbness</label>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="assessment-step" data-step="4">
+          <h2 class="h5 fw-bold mb-3">Section 4 · Laboratory values</h2>
+          <p class="text-muted mb-3">Enter values from a recent blood test. If you are unsure, use the value provided by your lab report or ask your healthcare professional. Typical normal ranges are shown below.</p>
+          <div class="row g-3">
+            <div class="col-md-6">
+              <label class="form-label fw-semibold" for="iron_level">Iron Level (µg/dL)</label>
+              <input class="form-control" id="iron_level" name="iron_level" type="number" min="10" max="300" step="0.1" placeholder="e.g. 70" required />
+              <small class="text-muted">Normal range: 60–170 µg/dL</small>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label fw-semibold" for="vitamin_d_level">Vitamin D Level (ng/mL)</label>
+              <input class="form-control" id="vitamin_d_level" name="vitamin_d_level" type="number" min="5" max="100" step="0.1" placeholder="e.g. 30" required />
+              <small class="text-muted">Normal range: 20–50 ng/mL</small>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label fw-semibold" for="vitamin_b12_level">Vitamin B12 Level (pg/mL)</label>
+              <input class="form-control" id="vitamin_b12_level" name="vitamin_b12_level" type="number" min="100" max="2000" step="0.1" placeholder="e.g. 500" required />
+              <small class="text-muted">Normal range: 200–900 pg/mL</small>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label fw-semibold" for="vitamin_c_level">Vitamin C Level (mg/dL)</label>
+              <input class="form-control" id="vitamin_c_level" name="vitamin_c_level" type="number" min="0" max="20" step="0.1" placeholder="e.g. 0.8" required />
+              <small class="text-muted">Normal range: 0.4–2.0 mg/dL</small>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label fw-semibold" for="calcium_level">Calcium Level (mg/dL)</label>
+              <input class="form-control" id="calcium_level" name="calcium_level" type="number" min="7" max="12" step="0.1" placeholder="e.g. 9.4" required />
+              <small class="text-muted">Normal range: 8.5–10.2 mg/dL</small>
+            </div>
+          </div>
+        </div>
+
+        <div class="d-flex justify-content-between mt-4">
+          <button class="btn btn-outline-secondary" type="button" id="prev-step">Back</button>
+          <button class="btn btn-primary" type="button" id="next-step">Next</button>
+          <button class="btn btn-success d-none" type="submit" id="submit-step">Predict Deficiency</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Insights | NutriSense AI</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">NutriSense AI</div>
+      <nav class="nav-links">
+        <a href="{{ url_for('index') }}">Home</a>
+        <a href="{{ url_for('auth.login') }}">Login</a>
+        <a href="{{ url_for('auth.register') }}">Register</a>
+      </nav>
+    </header>
+
+    <main class="page-shell dashboard-shell">
+      <section class="page-card">
+        <div class="section-heading">
+          <p class="eyebrow">AI Guidance</p>
+          <h1>Nutrition intelligence built for your next assessment.</h1>
+          <p class="section-copy">
+            NutriSense AI is designed to help users understand their nutrition profile, track predictive insights, and receive educational guidance. Sign in to complete an assessment and unlock personalized recommendations.
+          </p>
+        </div>
+
+        <div class="dashboard-grid">
+          <article class="card">
+            <h3>How it works</h3>
+            <p>
+              Complete a nutrition assessment to generate a prediction, save your history, and receive AI-backed explanations for your results.
+            </p>
+          </article>
+          <article class="card">
+            <h3>What to expect</h3>
+            <p>
+              The AI page provides a safe educational overview. It does not diagnose conditions or replace professional health advice.
+            </p>
+          </article>
+          <article class="card">
+            <h3>Next steps</h3>
+            <ul>
+              <li>Register or log in</li>
+              <li>Complete the assessment</li>
+              <li>Review your report and history</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

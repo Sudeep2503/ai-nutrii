@@ -1,0 +1,102 @@
+{% extends 'base.html' %}
+
+{% block title %}Assessment Detail | NutriSense AI{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center py-4">
+  <div class="col-xl-9">
+    <div class="card shadow-sm border-0 p-4">
+      <div class="d-flex justify-content-between align-items-center mb-4">
+        <div>
+          <p class="text-primary fw-semibold mb-2">Assessment Detail</p>
+          <h1 class="h3 fw-bold mb-2">Assessment Summary</h1>
+        </div>
+        <a class="btn btn-primary" href="{{ url_for('prediction.prediction') }}">Back to Result</a>
+      </div>
+
+      <div class="row g-4 mb-4">
+        <div class="col-md-6">
+          <h3 class="h6 fw-bold">Deficiency</h3>
+          <p>{{ record.prediction_label }}</p>
+        </div>
+        <div class="col-md-6">
+          <h3 class="h6 fw-bold">Confidence</h3>
+          <p>{{ record.confidence }}%</p>
+        </div>
+      </div>
+
+      <div class="row g-4">
+        <div class="col-md-6">
+          <div class="border rounded p-3 mb-3 bg-light">
+            <h3 class="h6 fw-semibold">Assessment Date</h3>
+            <p class="mb-0">{{ record.prediction_date }}</p>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="border rounded p-3 mb-3 bg-light">
+            <h3 class="h6 fw-semibold">Source</h3>
+            <p class="mb-0">NutriSense AI prediction engine</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="row g-4">
+        <div class="col-lg-4">
+          <div class="border rounded p-3">
+            <h3 class="h6 fw-semibold">Symptoms</h3>
+            <p class="mb-0">{{ record.metadata.symptoms | default('Not available') }}</p>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="border rounded p-3">
+            <h3 class="h6 fw-semibold">Lifestyle</h3>
+            <p class="mb-0">{{ record.metadata.lifestyle | default('Not available') }}</p>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="border rounded p-3">
+            <h3 class="h6 fw-semibold">Recommendations</h3>
+            <p class="mb-0">{{ record.metadata.recommendations | default('Not available') }}</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-4">
+        <h3 class="h5 fw-bold mb-3">AI Guidance</h3>
+        {% if record.metadata.ai_recommendations and record.metadata.ai_recommendations.available %}
+        <div class="row g-4">
+          <div class="col-lg-4">
+            <div class="border rounded p-3 bg-light">
+              <h4 class="h6 fw-semibold">Explanation</h4>
+              <p class="mb-0">{{ record.metadata.ai_recommendations.explanation }}</p>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="border rounded p-3 bg-light">
+              <h4 class="h6 fw-semibold">Foods to Eat</h4>
+              <ul class="mb-0 ps-3">
+                {% for item in record.metadata.ai_recommendations.foods_to_eat %}
+                <li>{{ item }}</li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="border rounded p-3 bg-light">
+              <h4 class="h6 fw-semibold">Foods to Avoid</h4>
+              <ul class="mb-0 ps-3">
+                {% for item in record.metadata.ai_recommendations.foods_to_limit %}
+                <li>{{ item }}</li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>
+        {% else %}
+        <div class="alert alert-warning">AI recommendations are not available for this record.</div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
